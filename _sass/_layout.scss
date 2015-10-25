@@ -97,8 +97,8 @@
 }
 
 .footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    font-size: 12px;
+    /*margin-bottom: $spacing-unit / 2;*/
 }
 
 .contact-list,
@@ -108,9 +108,8 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: 12px;
     color: $grey-color;
-    margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 
