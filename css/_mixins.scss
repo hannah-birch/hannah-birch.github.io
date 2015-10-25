@@ -1,0 +1,35 @@
+
+/*- Sass mixins --------------------------------------------------------------*/
+
+@mixin breakpoint($point) {
+  @if $point == 600 {
+    @media screen and (min-width: 37.5em) { @content; } // 600
+  }
+  @if $point == 768 {
+    @media screen and (min-width: 48em) { @content; } // 768
+  }
+  @if $point == 800 {
+    @media screen and (min-width: 50em) { @content; } // 800
+  }
+  @if $point == 900 {
+    @media screen and (min-width: 56.25em) { @content; } // 900
+  }
+  @if $point == 1024 {
+    @media screen and (min-width: 64em) { @content; } // 1024
+  }
+  @if $point == 1200 {
+    @media screen and (min-width: 75em) { @content; } // 1200
+  }
+  @else if $point == 1600 {
+    @media screen and (min-width: 100em) { @content; } // 1600
+  }
+}
+
+// see https://gist.github.com/marcedwards/3446599
+@mixin high-dpi() {
+  @media only screen and (-webkit-min-device-pixel-ratio: 1.3),
+  only screen and (-o-min-device-pixel-ratio: 13/10),
+  only screen and (min-resolution: 120dpi) {
+      @content;
+  }
+}
