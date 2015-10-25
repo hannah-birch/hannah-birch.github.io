@@ -147,7 +147,7 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #77212d;
+  /*border-top: 5px solid $accent-color-dark;*/
   border-bottom: 1px solid #77212d;
   min-height: 56px;
   font-weight: bold;
@@ -184,7 +184,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #8B2635;
   padding: 30px 0; }
 
 .footer-heading {
