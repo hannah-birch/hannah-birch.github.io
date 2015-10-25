@@ -176,18 +176,9 @@ pre {
       top: 9px;
       right: 30px;
       background-color: #f9f0ea;
-      border: 1px solid #e8e8e8;
       border-radius: 5px;
-      text-align: right; }
-      .site-nav .trigger {
-        clear: both;
-        display: none; }
-      .site-nav:hover .trigger {
-        display: block;
-        padding-bottom: 5px; }
-      .site-nav .page-link {
-        display: block;
-        padding: 5px 10px; } }
+      text-align: right;
+      line-height: 46px; } }
 
 /**
  * Site footer
