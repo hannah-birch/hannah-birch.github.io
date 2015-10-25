@@ -142,6 +142,7 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+/*- Sass mixins --------------------------------------------------------------*/
 /**
  * Site header
  */
@@ -164,8 +165,6 @@ pre {
 .site-nav {
   float: right;
   line-height: 56px; }
-  .site-nav .menu-icon {
-    display: none; }
   .site-nav .page-link {
     color: #8B2635;
     line-height: 1.5; }
@@ -180,19 +179,6 @@ pre {
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
-      .site-nav .menu-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center; }
-        .site-nav .menu-icon > svg {
-          width: 18px;
-          height: 15px; }
-          .site-nav .menu-icon > svg path {
-            fill: #757575; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -287,7 +273,7 @@ pre {
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1; }
-  @media screen and (max-width: 800px) {
+  @media screen and (min-width: 37.5em) {
     .post-title {
       font-size: 36px; } }
 
@@ -447,3 +433,5 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+/*- Sass mixins --------------------------------------------------------------*/
