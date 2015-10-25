@@ -15,11 +15,15 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #f9f0ea;
-$brand-color:      #2a7ae2;
+$brand-color:      #444A5E;
+
+$accent-color:     #8B2635;
+$accent-color-light: lighten($accent-color, 40%);
+$accent-color-dark: darken($accent-color, 5%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark:  darken($grey-color, 5%);
 
 // Width of the content area
 $content-width:    800px;
