@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m the Web producer for ProPublica, a nonprofit investigative newsroom in New York City. I publish stories to [ProPublica.org](https://www.propublica.org) and work with our design director on the general look and feel of the site. I hire freelance photographers, cruise photo wires, work on photo and vector illustrations and generally chip in on whatever on the site needs doing. I’m great at copy editing, writing headlines and herding cats — ahem — editors.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In a past life I was an associate news producer at [The Seattle Times](http://www.seattletimes.com), where I crusaded against the forces of bad design and boring Web headlines. I curated headlines and photos on seattletimes.com, managed social media as needed and designed special digital projects.
