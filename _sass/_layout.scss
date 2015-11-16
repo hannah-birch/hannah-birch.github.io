@@ -20,6 +20,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    width: 100%;
 
     &,
     &:visited {
@@ -28,7 +29,7 @@
 }
 
 .site-nav {
-    float: right;
+    float: left;
     line-height: 76px;
 
     .page-link {
@@ -41,14 +42,15 @@
         }
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
+    @include breakpoint(600) {
+/*        position: relative;
         top: 9px;
         right: 30px;
         background-color: $background-color;
-        border-radius: 5px;
+        border-radius: 5px;*/
         text-align: right;
         line-height: 46px;
+        float: left;
     }
 }
 
@@ -100,7 +102,7 @@
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
-@include media-query($on-laptop) {
+@include breakpoint(600) {
     .footer-col-1,
     .footer-col-2 {
         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
@@ -113,13 +115,13 @@
     }
 }
 
-@include media-query($on-palm) {
+/*@include media-query($on-palm) {
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
-}
+}*/
 
 
 
@@ -178,7 +180,7 @@
     h2 {
         font-size: 32px;
 
-        @include media-query($on-laptop) {
+        @include breakpoint(600) {
             font-size: 28px;
         }
     }
@@ -186,7 +188,7 @@
     h3 {
         font-size: 26px;
 
-        @include media-query($on-laptop) {
+        @include breakpoint(600) {
             font-size: 22px;
         }
     }
@@ -194,7 +196,7 @@
     h4 {
         font-size: 20px;
 
-        @include media-query($on-laptop) {
+        @include breakpoint(600) {
             font-size: 18px;
         }
     }
