@@ -146,7 +146,6 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
-/*- Sass mixins --------------------------------------------------------------*/
 /**
  * Site header
  */
@@ -167,10 +166,13 @@ pre {
   width: 100%; }
   .site-title, .site-title:visited {
     color: #fff; }
+  @media screen and (min-width: 37.5em) {
+    .site-title {
+      width: inherit; } }
 
 .site-nav {
   float: left;
-  line-height: 76px; }
+  line-height: 36px; }
   .site-nav .page-link {
     color: #fff;
     line-height: 1.5; }
@@ -184,8 +186,8 @@ pre {
               background-color: $background-color;
               border-radius: 5px;*/
       text-align: right;
-      line-height: 46px;
-      float: left; } }
+      line-height: 86px;
+      float: right; } }
 
 /**
  * Site footer
