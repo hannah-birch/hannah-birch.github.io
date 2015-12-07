@@ -35,13 +35,17 @@
     line-height: 36px;
 
     .page-link {
-        color: $accent-color;
+        color: $brand-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
         }
+    }
+
+    .trigger a {
+        color: #fff;
     }
 
     @include breakpoint(600) {
@@ -62,8 +66,12 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $accent-color;
+    /*border-top: 1px solid $accent-color;*/
     padding: $spacing-unit / 2 0;
+
+    a {
+        color: #fff;
+    }
 }
 
 .footer-heading {
@@ -131,7 +139,19 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit $spacing-unit;
+    width: 85%;
+    margin: 0 auto;
+    background-color: #fff;
+    @include breakpoint(600) {
+        width: 80%;
+    }
+    @include breakpoint(768) {
+        width: 75%;
+    }
+    @include breakpoint(1024) {
+        width: 60%;
+    }
 }
 
 .page-heading {

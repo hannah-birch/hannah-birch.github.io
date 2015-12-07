@@ -18,7 +18,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  color: #fff;
+  color: #464545;
   background-color: #1b49be;
   -webkit-text-size-adjust: 100%; }
 
@@ -67,13 +67,13 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #fff;
+  color: #464545;
   text-decoration: none;
   /* &:visited {
        color: darken($brand-color, 5%);
    }*/ }
   a:hover {
-    color: #fff;
+    color: #464545;
     text-decoration: underline; }
 
 /**
@@ -178,6 +178,8 @@ pre {
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
+  .site-nav .trigger a {
+    color: #fff; }
   @media screen and (min-width: 37.5em) {
     .site-nav {
       /*        position: relative;
@@ -193,8 +195,10 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #fff;
+  /*border-top: 1px solid $accent-color;*/
   padding: 1em 0; }
+  .site-footer a {
+    color: #fff; }
 
 .footer-heading {
   font-size: 12px;
@@ -246,7 +250,19 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 2em 0; }
+  padding: 2em 2em;
+  width: 85%;
+  margin: 0 auto;
+  background-color: #fff; }
+  @media screen and (min-width: 37.5em) {
+    .page-content {
+      width: 80%; } }
+  @media screen and (min-width: 48em) {
+    .page-content {
+      width: 75%; } }
+  @media screen and (min-width: 64em) {
+    .page-content {
+      width: 60%; } }
 
 .page-heading {
   font-size: 20px; }
