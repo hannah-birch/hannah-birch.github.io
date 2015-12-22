@@ -19,7 +19,7 @@ body {
   line-height: 1.5;
   font-weight: 300;
   color: #464545;
-  background-color: #1b49be;
+  background-color: #fff;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -165,7 +165,7 @@ pre {
   float: left;
   width: 100%; }
   .site-title, .site-title:visited {
-    color: #fff; }
+    color: #998; }
   @media screen and (min-width: 37.5em) {
     .site-title {
       width: inherit; } }
@@ -174,12 +174,12 @@ pre {
   float: left;
   line-height: 36px; }
   .site-nav .page-link {
-    color: #fff;
+    color: #998;
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
   .site-nav .trigger a {
-    color: #fff; }
+    color: #998; }
   @media screen and (min-width: 37.5em) {
     .site-nav {
       /*        position: relative;
@@ -198,7 +198,7 @@ pre {
   /*border-top: 1px solid $accent-color;*/
   padding: 1em 0; }
   .site-footer a {
-    color: #fff; }
+    color: #998; }
 
 .footer-heading {
   font-size: 12px;
@@ -211,7 +211,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 12px;
-  color: #fff; }
+  color: #998; }
 
 .footer-col {
   float: left;

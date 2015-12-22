@@ -35,7 +35,7 @@
     line-height: 36px;
 
     .page-link {
-        color: $brand-color;
+        color: $accent-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -45,7 +45,7 @@
     }
 
     .trigger a {
-        color: #fff;
+        color: $accent-color;
     }
 
     @include breakpoint(600) {
@@ -70,7 +70,7 @@
     padding: $spacing-unit / 2 0;
 
     a {
-        color: #fff;
+        color: $accent-color;
     }
 }
 
