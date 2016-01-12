@@ -2,8 +2,6 @@
  * Site header
  */
 .site-header {
-    /*border-top: 5px solid $accent-color-dark;*/
-    /*border-bottom: 3px solid $accent-color-dark;*/
     min-height: 56px;
     font-weight: bold;
     margin-top: 2em;
@@ -17,8 +15,7 @@
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
-    width: 100%;
+    float: none;
 
     &,
     &:visited {
@@ -27,12 +24,14 @@
 
     @include breakpoint(600) {
         width: inherit;
+        float: left;
     }
 }
 
 .site-nav {
     float: left;
     line-height: 36px;
+    width: 100%;
 
     .page-link {
         color: $accent-color;
@@ -55,7 +54,7 @@
         background-color: $background-color;
         border-radius: 5px;*/
         text-align: right;
-        line-height: 86px;
+        line-height: inherit;
         float: right;
     }
 }
