@@ -15,9 +15,9 @@ $spacing-unit:     2em;
 
 $text-color:       #464545;
 $background-color: #fff;
-$brand-color:      #FBD400;
+$brand-color:      #999988;
 
-$accent-color:     #998;
+$accent-color:     #420039;
 $accent-color-light: lighten($accent-color, 40%);
 $accent-color-dark: darken($accent-color, 5%);
 
@@ -26,7 +26,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 5%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    600px;
 
 /*$on-palm:          600px;
 $on-laptop:        800px;*/
