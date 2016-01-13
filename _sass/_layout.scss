@@ -36,16 +36,20 @@
     .page-link {
         color: $brand-color;
         line-height: $base-line-height;
+    }
 
+    .trigger a:link, .trigger a:visited {
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
         }
+
+        color: $brand-color;
     }
 
-    .trigger a {
+    .trigger a:active, .trigger a:hover, .trigger a:focus {
         color: $accent-color;
-    }
+        }
 
     @include breakpoint(600) {
 /*        position: relative;
