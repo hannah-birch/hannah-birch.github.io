@@ -182,7 +182,7 @@ pre {
     color: #999988; }
     .site-nav .trigger a:link:not(:first-child), .site-nav .trigger a:visited:not(:first-child) {
       margin-left: 20px; }
-  .site-nav .trigger a:active, .site-nav .trigger a:hover, .site-nav .trigger a:focus {
+  .site-nav .trigger a:hover, .site-nav .trigger a:focus, .site-nav .trigger a:active {
     color: #420039; }
   @media screen and (min-width: 37.5em) {
     .site-nav {
