@@ -47,7 +47,7 @@
         color: $brand-color;
     }
 
-    .trigger a:active, .trigger a:hover, .trigger a:focus {
+    .trigger a:hover, .trigger a:focus, .trigger a:active {
         color: $accent-color;
         }
 
@@ -204,7 +204,7 @@
 
     h2 {
         font-size: 32px;
-
+        margin-bottom: $spacing-unit / 2;
         @include breakpoint(600) {
             font-size: 28px;
         }
