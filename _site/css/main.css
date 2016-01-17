@@ -174,10 +174,7 @@ pre {
 .site-nav {
   float: left;
   line-height: 36px;
-  width: 100%;
-  /*    .trigger a:hover, .trigger a:focus, .trigger a:active {
-          color: $accent-color;
-          }*/ }
+  width: 100%; }
   .site-nav .page-link {
     color: #999988;
     line-height: 1.5; }
@@ -189,7 +186,7 @@ pre {
     color: #420039; }
   @media screen and (min-width: 37.5em) {
     .site-nav {
-      /*        position: relative;
+      /*      position: relative;
               top: 9px;
               right: 30px;
               background-color: $background-color;
