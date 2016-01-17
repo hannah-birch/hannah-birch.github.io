@@ -38,7 +38,7 @@
         line-height: $base-line-height;
     }
 
-    .trigger a:link, .trigger a:visited {
+    .trigger a {
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
