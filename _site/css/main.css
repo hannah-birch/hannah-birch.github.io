@@ -165,7 +165,7 @@ pre {
   margin-bottom: 0;
   float: none; }
   .site-title, .site-title:visited {
-    color: #999988; }
+    color: #420039; }
   @media screen and (min-width: 37.5em) {
     .site-title {
       width: inherit;
@@ -306,6 +306,8 @@ pre {
     font-size: 1.75em;
     margin-bottom: 0.5em;
     line-height: 1.25; }
+    .post-content h2 :after {
+      content: url("../img/assets/img/accent-underline)"); }
     @media screen and (min-width: 37.5em) {
       .post-content h2 {
         /*font-size: 28px;*/ } }

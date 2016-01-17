@@ -19,7 +19,7 @@
 
     &,
     &:visited {
-        color: $brand-color;
+        color: $accent-color;
     }
 
     @include breakpoint(600) {
@@ -207,6 +207,9 @@
         font-size: 1.75em;
         margin-bottom: $spacing-unit / 4;
         line-height: 1.25;
+        :after {
+            content: url('#{$image-assets}/assets/img/accent-underline)');
+            };
         @include breakpoint(600) {
             /*font-size: 28px;*/
         }
