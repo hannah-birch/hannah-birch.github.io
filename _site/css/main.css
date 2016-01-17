@@ -303,7 +303,7 @@ pre {
   margin-bottom: 2em; }
   .post-content h2 {
     font-size: 32px;
-    margin-bottom: 1em; }
+    margin-bottom: 0.5em; }
     @media screen and (min-width: 37.5em) {
       .post-content h2 {
         font-size: 28px; } }

@@ -204,7 +204,7 @@
 
     h2 {
         font-size: 32px;
-        margin-bottom: $spacing-unit / 2;
+        margin-bottom: $spacing-unit / 4;
         @include breakpoint(600) {
             font-size: 28px;
         }
