@@ -174,22 +174,19 @@ pre {
 .site-nav {
   float: left;
   line-height: 36px;
-  width: 100%;
-  /*    .trigger a:hover, .trigger a:focus, .trigger a:active {
-          color: $accent-color;
-          }*/ }
+  width: 100%; }
   .site-nav .page-link {
     color: #999988;
     line-height: 1.5; }
-  .site-nav .trigger a:link, .site-nav .trigger a:visited {
+  .site-nav .trigger a {
     color: #999988; }
-    .site-nav .trigger a:link:not(:first-child), .site-nav .trigger a:visited:not(:first-child) {
+    .site-nav .trigger a:not(:first-child) {
       margin-left: 20px; }
   .site-nav .trigger a.active {
     color: #420039; }
   @media screen and (min-width: 37.5em) {
     .site-nav {
-      /*        position: relative;
+      /*      position: relative;
               top: 9px;
               right: 30px;
               background-color: $background-color;
