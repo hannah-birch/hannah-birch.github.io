@@ -174,7 +174,10 @@ pre {
 .site-nav {
   float: left;
   line-height: 36px;
-  width: 100%; }
+  width: 100%;
+  /*    .trigger a:hover, .trigger a:focus, .trigger a:active {
+          color: $accent-color;
+          }*/ }
   .site-nav .page-link {
     color: #999988;
     line-height: 1.5; }
@@ -182,7 +185,7 @@ pre {
     color: #999988; }
     .site-nav .trigger a:link:not(:first-child), .site-nav .trigger a:visited:not(:first-child) {
       margin-left: 20px; }
-  .site-nav .trigger a:hover, .site-nav .trigger a:focus, .site-nav .trigger a:active {
+  .site-nav .trigger a.active {
     color: #420039; }
   @media screen and (min-width: 37.5em) {
     .site-nav {
@@ -289,7 +292,8 @@ pre {
  * Posts
  */
 .post-header {
-  margin-bottom: 2em; }
+  margin-bottom: 2em;
+  line-height: 0.75; }
   .post-header :after {
     content: url(../assets/img/accent-underline.svg);
     display: block; }

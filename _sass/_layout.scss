@@ -47,9 +47,13 @@
         color: $brand-color;
     }
 
-    .trigger a:hover, .trigger a:focus, .trigger a:active {
+/*    .trigger a:hover, .trigger a:focus, .trigger a:active {
         color: $accent-color;
-        }
+        }*/
+
+    .trigger a.active {
+        color: $accent-color;
+    }
 
     @include breakpoint(600) {
 /*        position: relative;
@@ -187,6 +191,7 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    line-height: 0.75;
     :after {
         content: url(#{$image-assets}/accent-underline.svg);
         display: block;
