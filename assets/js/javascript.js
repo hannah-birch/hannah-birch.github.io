@@ -1,9 +1,9 @@
 
 $(function() {
-	$('.site-nav .trigger a').on('click', function() {
+	$('.site-nav .trigger a').on('click', function(e) {
+		e.preventDefault();
 		$('.site-nav .trigger a').removeClass('active');
 		$(this).addClass('active');
-		return false;
 	});
 });
 
