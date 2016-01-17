@@ -290,6 +290,9 @@ pre {
  */
 .post-header {
   margin-bottom: 2em; }
+  .post-header :after {
+    content: url(../assets/img/accent-underline.svg);
+    display: block; }
 
 .post-title {
   font-size: 1em;
@@ -306,8 +309,6 @@ pre {
     font-size: 1.75em;
     margin-bottom: 0.5em;
     line-height: 1.25; }
-    .post-content h2 :after {
-      content: url("../img/assets/img/accent-underline)"); }
     @media screen and (min-width: 37.5em) {
       .post-content h2 {
         /*font-size: 28px;*/ } }

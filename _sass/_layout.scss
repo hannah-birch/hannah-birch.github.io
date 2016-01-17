@@ -187,6 +187,10 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    :after {
+        content: url(#{$image-assets}/accent-underline.svg);
+        display: block;
+    };
 }
 
 .post-title {
@@ -207,9 +211,6 @@
         font-size: 1.75em;
         margin-bottom: $spacing-unit / 4;
         line-height: 1.25;
-        :after {
-            content: url('#{$image-assets}/assets/img/accent-underline)');
-            };
         @include breakpoint(600) {
             /*font-size: 28px;*/
         }
