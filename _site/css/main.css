@@ -165,7 +165,7 @@ pre {
   margin-bottom: 0;
   float: none; }
   .site-title, .site-title:visited {
-    color: #999988; }
+    color: #420039; }
   @media screen and (min-width: 37.5em) {
     .site-title {
       width: inherit;
@@ -292,21 +292,25 @@ pre {
   margin-bottom: 2em; }
 
 .post-title {
-  font-size: 42px;
+  font-size: 1em;
   letter-spacing: -1px;
-  line-height: 1; }
+  line-height: 1;
+  text-transform: uppercase; }
   @media screen and (min-width: 37.5em) {
     .post-title {
-      font-size: 36px; } }
+      font-size: 1.125em; } }
 
 .post-content {
   margin-bottom: 2em; }
   .post-content h2 {
-    font-size: 32px;
-    margin-bottom: 1em; }
+    font-size: 1.75em;
+    margin-bottom: 0.5em;
+    line-height: 1.25; }
+    .post-content h2 :after {
+      content: url("../img/assets/img/accent-underline)"); }
     @media screen and (min-width: 37.5em) {
       .post-content h2 {
-        font-size: 28px; } }
+        /*font-size: 28px;*/ } }
   .post-content h3 {
     font-size: 26px; }
     @media screen and (min-width: 37.5em) {

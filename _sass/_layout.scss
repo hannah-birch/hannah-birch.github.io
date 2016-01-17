@@ -19,7 +19,7 @@
 
     &,
     &:visited {
-        color: $brand-color;
+        color: $accent-color;
     }
 
     @include breakpoint(600) {
@@ -190,12 +190,13 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 1em;
     letter-spacing: -1px;
     line-height: 1;
+    text-transform: uppercase;
 
     @include breakpoint(600) {
-        font-size: 36px;
+        font-size: 1.125em;
     }
 }
 
@@ -203,10 +204,14 @@
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
-        margin-bottom: $spacing-unit / 2;
+        font-size: 1.75em;
+        margin-bottom: $spacing-unit / 4;
+        line-height: 1.25;
+        :after {
+            content: url('#{$image-assets}/assets/img/accent-underline)');
+            };
         @include breakpoint(600) {
-            font-size: 28px;
+            /*font-size: 28px;*/
         }
     }
 
