@@ -4,6 +4,7 @@
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
+<!-- this works -->
     <nav class="site-nav">
       <div class="trigger">
         {% for page in site.pages %}
@@ -14,7 +15,24 @@
       </div>
     </nav>
 
-<!--     <% var menu = {
+<!-- working on this -->
+<!--     <nav class="site-nav">
+      <div class="trigger">
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+          {% for (page.title in trigger)}
+          <a class="active">
+            if file == "curent"}
+            {% endif %}
+        {% endfor %}
+      </div>
+    </nav> -->
+
+<!-- from thomas -->
+<!-- <div class="trigger">
+    <% var menu = {
       "About": "about.html",
       "Writing": "writing.html"
     } %>
@@ -25,7 +43,8 @@
         <%= key %>
       </a>
     </li>
-    <% } %> -->
+    <% } %>
+  </div> -->
 
 
   </div>
