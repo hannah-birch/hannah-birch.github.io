@@ -309,10 +309,13 @@ pre {
   .post-content h2 {
     font-size: 1.75em;
     margin-bottom: 0.5em;
+    margin-top: 2em;
     line-height: 1.25; }
     @media screen and (min-width: 37.5em) {
       .post-content h2 {
         /*font-size: 28px;*/ } }
+  .post-content h2:first-child {
+    margin-top: 0; }
   .post-content h3 {
     font-size: 26px; }
     @media screen and (min-width: 37.5em) {
@@ -323,6 +326,8 @@ pre {
     @media screen and (min-width: 37.5em) {
       .post-content h4 {
         font-size: 18px; } }
+  .post-content a {
+    color: #999988; }
 
 /**
  * Syntax highlighting styles
