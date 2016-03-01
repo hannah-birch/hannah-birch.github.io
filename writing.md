@@ -6,7 +6,7 @@ permalink: /writing/
 
 ## [My Story as a DMV Edge Case: How to Battle Bureaucracy and Win](https://www.propublica.org/article/my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win)
 
-The post I originally wrote [on Medium](https://medium.com/@hannahsbirch/i-baffled-the-dmv-with-a-form-for-my-low-vision-condition-and-then-all-this-happened-df69d0490492#.hc8p8kjai)) became an accountability and UX design story for ProPublica, alongside a fabulous illustration by Pep Montserrat.
+The post I originally wrote [on Medium](https://medium.com/@hannahsbirch/i-baffled-the-dmv-with-a-form-for-my-low-vision-condition-and-then-all-this-happened-df69d0490492#.hc8p8kjai) became an accountability and UX design story for ProPublica, alongside a fabulous illustration by Pep Montserrat.
 
 ## [I baffled the DMV with a form for my low-vision condition. And then all this happened.](https://medium.com/@hannahsbirch/i-baffled-the-dmv-with-a-form-for-my-low-vision-condition-and-then-all-this-happened-df69d0490492#.hc8p8kjai)
 
