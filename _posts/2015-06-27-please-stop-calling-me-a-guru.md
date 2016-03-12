@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 06-27-2015
+date: 2015-06-27
 ---
 
 ## Please stop calling me a guru.
