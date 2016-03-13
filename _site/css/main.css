@@ -269,7 +269,11 @@ pre {
       width: 60%; } }
 
 .page-heading {
-  font-size: 20px; }
+  margin-bottom: 2em;
+  line-height: 0.75; }
+  .page-heading:after {
+    content: url(../assets/img/accent-underline.svg);
+    display: block; }
 
 .post-list {
   margin-left: 0;
@@ -299,7 +303,12 @@ pre {
   font-size: 1em;
   letter-spacing: -1px;
   line-height: 1;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin-bottom: 2em;
+  line-height: 0.75; }
+  .post-title:after {
+    content: url(../assets/img/accent-underline.svg);
+    display: block; }
   @media screen and (min-width: 37.5em) {
     .post-title {
       font-size: 1.125em; } }

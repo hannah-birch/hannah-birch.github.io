@@ -158,7 +158,12 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    // font-size: 20px;
+    margin-bottom: $spacing-unit;
+    line-height: 0.75;
+    &:after {
+      @include accent-underline;
+  }
 }
 
 .post-list {
@@ -189,9 +194,10 @@
     margin-bottom: $spacing-unit;
     line-height: 0.75;
     :after {
-        content: url(#{$image-assets}/accent-underline.svg);
-        display: block;
-    };
+      @include accent-underline;
+        // content: url(#{$image-assets}/accent-underline.svg);
+        // display: block;
+    }
 }
 
 .post-title {
@@ -199,6 +205,11 @@
     letter-spacing: -1px;
     line-height: 1;
     text-transform: uppercase;
+    margin-bottom: $spacing-unit;
+    line-height: 0.75;
+    &:after {
+      @include accent-underline;
+  }
 
     @include breakpoint(600) {
         font-size: 1.125em;
@@ -236,7 +247,7 @@
             font-size: 18px;
         }
     }
-    
+
 
     a {
         color: $brand-color;

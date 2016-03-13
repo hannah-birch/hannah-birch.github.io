@@ -4,11 +4,12 @@ layout: default
 
 <div class="home">
 
-  <!-- <h1 class="page-heading">What I've been working on</h1> -->
+  <h1 class="post-title">Recent Work</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
+        <span class="post-meta">{{ post.content-type | content-type }}</span>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>

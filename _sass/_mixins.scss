@@ -1,5 +1,10 @@
 
 /*- Sass mixins --------------------------------------------------------------*/
+@mixin accent-underline {
+      content: url(#{$image-assets}/accent-underline.svg);
+      display: block;
+}
+
 
 @mixin breakpoint($point) {
   @if $point == 600 {

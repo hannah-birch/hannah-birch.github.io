@@ -1,6 +1,7 @@
 ---
 layout: default
 date: 2015-06-27
+content-type: "Blog post"
 ---
 
 ## Please stop calling me a guru.
