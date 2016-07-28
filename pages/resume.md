@@ -6,11 +6,11 @@ permalink: /resume/
 
 ## Experience and awards
 
-### 2015 Pulitzer Prize for breaking news reporting, with Seattle Times staff
+<h3><strong>2015 Pulitzer Prize for breaking news reporting, with Seattle Times staff</strong></h3>
 
 I contributed to the coverage that won The Seattle Times staff the Pulitzer Prize for breaking news reporting in 2015. For more on what that experience was like, read [my Q&A](http://lasvegassun.com/news/2015/may/14/unlv-grad-talks-winning-pulitzer-what-journalists-/) with the Las Vegas Sun and [UNLV News](https://www.unlv.edu/news/article/journalism-graduate-part-pulitzer-prize-winning-team).
 
-### Dean’s list, 2008-2012
+<h3><strong>Dean’s list, 2008-2012</strong></h3>
 
 - Brian Greenspun and Ned Day Memorial scholarships
 - Member of Phi Kappa Phi and Kappa Tau Alpha honor societies
