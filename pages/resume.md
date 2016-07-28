@@ -4,19 +4,24 @@ title: Resume
 permalink: /resume/
 ---
 
-## Experience
+## Experience and awards
 
-Recipient of the 2015 Pulitzer Prize for breaking news reporting, with Seattle Times staff
+### 2015 Pulitzer Prize for breaking news reporting, with Seattle Times staff
 
-I contributed to the coverage that won The Seattle Times staff the Pulitzer Prize for breaking news reporting in 2015. For more on what that experience was like, read my Q&A with the Las Vegas Sun and UNLV News.
+I contributed to the coverage that won The Seattle Times staff the Pulitzer Prize for breaking news reporting in 2015. For more on what that experience was like, read [my Q&A](http://lasvegassun.com/news/2015/may/14/unlv-grad-talks-winning-pulitzer-what-journalists-/) with the Las Vegas Sun and [UNLV News](https://www.unlv.edu/news/article/journalism-graduate-part-pulitzer-prize-winning-team).
+
+### Dean’s list, 2008-2012
+
+- Brian Greenspun and Ned Day Memorial scholarships
+- Member of Phi Kappa Phi and Kappa Tau Alpha honor societies
 
 ## Web producer — ProPublica
 
 _August 2014 – present_
 
-I find art for and publish stories to ProPublica.org and work with our design director, David Sleight, on the general look and feel of the site. I comb through photos from wire services, work with reps at the AP and Getty from time to time, chip in on photo and vector illustrations and hire freelance photographers as needed.
+I find art for and publish stories to ProPublica.org and work with our design director, David Sleight, and our editorial experience designer, Rob Weychert, on the general look and feel of the site. I comb through photos from wire services, work with reps at the AP and Getty from time to time, chip in on photo and vector illustrations and hire freelance photographers as needed.
 
-I also help organize ProPublica’s digital tools and generally handle whatever on the site needs doing. And I happily serve as an on-demand copy editor when time permits.
+I also help organize ProPublica’s digital tools and chip in on  whatever on the site needs doing. And I happily serve as an on-demand copy editor when time permits.
 
 ## Associate producer — The Seattle Times
 
@@ -79,8 +84,3 @@ Covered general news and features
 University of Nevada, Las Vegas
 
 Bachelor of arts in journalism and media studies; summa cum laude, 2012
-
-## Dean’s list, 2008-2012
-
-- Brian Greenspun and Ned Day Memorial scholarships
-- Member of Phi Kappa Phi and Kappa Tau Alpha honor societies
