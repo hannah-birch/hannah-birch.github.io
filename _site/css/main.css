@@ -258,6 +258,8 @@ pre {
   width: 85%;
   margin: 0 auto;
   background-color: #fff; }
+  .page-content a {
+    color: #999988; }
   @media screen and (min-width: 37.5em) {
     .page-content {
       width: 80%; } }
@@ -313,30 +315,30 @@ pre {
     .post-title {
       font-size: 1.125em; } }
 
-.post-content, .page-content {
+.post-content {
   margin-bottom: 2em; }
-  .post-content h2, .page-content h2 {
+  .post-content h2 {
     font-size: 1.75em;
     margin-bottom: 0.5em;
     margin-top: 2em;
     line-height: 1.25; }
     @media screen and (min-width: 37.5em) {
-      .post-content h2, .page-content h2 {
+      .post-content h2 {
         /*font-size: 28px;*/ } }
-  .post-content h2:first-child, .page-content h2:first-child {
+  .post-content h2:first-child {
     margin-top: 0; }
-  .post-content h3, .page-content h3 {
+  .post-content h3 {
     font-size: 1em;
     margin: 1em 0 0.25em; }
     @media screen and (min-width: 37.5em) {
-      .post-content h3, .page-content h3 {
+      .post-content h3 {
         font-size: 1.1em; } }
-  .post-content h4, .page-content h4 {
+  .post-content h4 {
     font-size: 20px; }
     @media screen and (min-width: 37.5em) {
-      .post-content h4, .page-content h4 {
+      .post-content h4 {
         font-size: 18px; } }
-  .post-content a, .page-content a {
+  .post-content a {
     color: #999988; }
 
 /**

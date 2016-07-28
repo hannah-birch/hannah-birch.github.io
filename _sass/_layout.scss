@@ -146,6 +146,11 @@
     width: 85%;
     margin: 0 auto;
     background-color: #fff;
+
+    a {
+        color: $brand-color;
+    }
+    
     @include breakpoint(600) {
         width: 80%;
     }
@@ -216,7 +221,7 @@
     }
 }
 
-.post-content, .page-content {
+.post-content {
     margin-bottom: $spacing-unit;
 
     h2 {
