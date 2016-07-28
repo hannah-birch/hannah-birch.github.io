@@ -17,7 +17,7 @@ I contributed to the coverage that won The Seattle Times staff the Pulitzer Priz
 
 ## Web producer — ProPublica
 
-_August 2014 – present_
+_September 2014 – present_
 
 I find art for and publish stories to ProPublica.org and work with our design director, David Sleight, and our editorial experience designer, Rob Weychert, on the general look and feel of the site. I comb through photos from wire services, work with reps at the AP and Getty from time to time, chip in on photo and vector illustrations and hire freelance photographers as needed.
 
