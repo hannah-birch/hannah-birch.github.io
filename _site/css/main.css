@@ -326,10 +326,11 @@ pre {
   .post-content h2:first-child {
     margin-top: 0; }
   .post-content h3 {
-    font-size: 26px; }
+    font-size: 1em;
+    margin: 1em 0 0.25em; }
     @media screen and (min-width: 37.5em) {
       .post-content h3 {
-        font-size: 22px; } }
+        font-size: 1.1em; } }
   .post-content h4 {
     font-size: 20px; }
     @media screen and (min-width: 37.5em) {

@@ -233,10 +233,11 @@
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 1em;
+        margin: 1em 0 0.25em;
 
         @include breakpoint(600) {
-            font-size: 22px;
+            font-size: 1.1em;
         }
     }
 
