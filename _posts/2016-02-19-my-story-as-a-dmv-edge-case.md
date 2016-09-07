@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2015-06-27
+date: 2016-02-18
 content-type: "Writing"
 summary: "When I showed up with paperwork for my low-vision condition, the DMV was totally baffled. Here’s how I walked them through an edge case and how you can use the strategies yourself."
 ---
