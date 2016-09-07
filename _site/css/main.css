@@ -45,7 +45,9 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14px; }
+  font-size: 14px;
+  color: #828282;
+  text-align: right; }
 
 /**
  * Lists
