@@ -150,7 +150,7 @@
     a {
         color: $brand-color;
     }
-    
+
     @include breakpoint(600) {
         width: 80%;
     }
@@ -177,6 +177,13 @@
 
     > li {
         margin-bottom: $spacing-unit;
+    }
+
+    > li > h2 {
+      font-size: 1.75em;
+      margin-bottom: $spacing-unit / 4;
+      margin-top: $spacing-unit/ 4;
+      line-height: 1.25;
     }
 }
 

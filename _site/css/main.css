@@ -284,6 +284,11 @@ pre {
   list-style: none; }
   .post-list > li {
     margin-bottom: 2em; }
+  .post-list > li > h2 {
+    font-size: 1.75em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    line-height: 1.25; }
 
 .post-meta {
   font-size: 14px;
