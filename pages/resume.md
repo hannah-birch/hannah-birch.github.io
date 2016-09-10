@@ -31,6 +31,11 @@ I divide my time between producing seattletimes.com and managing other aspects o
 
 I’ve trained several new producers to run the homepage and often help reporters and editors with WordPress, Twitter, Tweetdeck and other digital tools.
 
+<figure>
+  <img src="/assets/img/20121110-gov-race.jpg"/>
+  <figcaption>Calling the Washington governor’s race, November 2012. 📸: Joni Balter</figcaption>
+</figure>
+
 <!-- More in Projects → -->
 
 ## Copy-editing intern — The Seattle Times
