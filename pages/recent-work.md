@@ -9,7 +9,10 @@ permalink: /recent-work/
 <ul class="post-list">
   {% for post in site.posts %}
   {% if post.layout == 'link' %}  
+    <li>
+    <span class="post-meta">{{ post.content-type }}, {{ post.date | date: "%b %d, %Y" }}</span>
     <p>{{ post.content }}</p>
+    </li>
 
   {% else %}
     <li>
