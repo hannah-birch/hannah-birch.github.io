@@ -11,7 +11,10 @@ permalink: /recent-work/
   {% if post.layout == 'link' %}  
     <li>
     <span class="post-meta">{{ post.content-type }}, {{ post.date | date: "%b %d, %Y" }}</span>
-    <p>{{ post.content }}</p>
+    <h2>
+      <a class="post-link" href="{{ post.source-url }}">{{ post.title }}</a>
+    </h2>
+    <p>{{ post.summary }}</p>
     </li>
 
   {% else %}
