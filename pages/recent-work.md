@@ -8,6 +8,10 @@ permalink: /recent-work/
 
 <ul class="post-list">
   {% for post in site.posts %}
+  {% if post.layout == 'link' %}  
+    <p>{{ post.content }}</p>
+
+  {% else %}
     <li>
       <span class="post-meta">{{ post.content-type }}, {{ post.date | date: "%b %d, %Y" }}</span>
 
@@ -18,5 +22,6 @@ permalink: /recent-work/
       <p>{{ post.summary }}</p>
 
     </li>
+      {% endif %}
   {% endfor %}
 </ul>
