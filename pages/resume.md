@@ -15,13 +15,25 @@ I contributed to the coverage that won The Seattle Times staff the Pulitzer Priz
 - Brian Greenspun and Ned Day Memorial scholarships
 - Member of Phi Kappa Phi and Kappa Tau Alpha honor societies
 
+## Deputy editor, production — ProPublica
+
+_January 2018 – present_
+
+I manage ProPublica’s design and production team with David Sleight, our design director. I oversee daily publishing, plan larger editorial products and coverage for special events like elections, and help direct our approach to visual storytelling. I produce our daily newsletter and work with our platforms editor to support our work on platforms beyond our site.
+
+## Lead producer — ProPublica
+
+_March 2017 – January 2018_
+
+I supervised ProPublica’s growing team of web producers, ensuring that daily publishing ran smoothly. I helped plan and execute special projects, coached producers on hiring freelance photographers and editors and continued to oversee documentation efforts.
+
 ## Web producer — ProPublica
 
-_September 2014 – present_
+_September 2014 – March 2017_
 
-I find art for and publish stories to ProPublica.org and work with our design director, David Sleight, and our editorial experience designer, Rob Weychert, on the general look and feel of the site. I comb through photos from wire services, work with reps at the AP and Getty from time to time, chip in on photo and vector illustrations and hire freelance photographers as needed.
+I found art for and published stories to ProPublica.org and worked with our design director, David Sleight, on the general look and feel of the site. I chipped in on photo and vector illustrations and hired freelance photographers as needed.
 
-I also help organize ProPublica’s digital tools and chip in on  whatever on the site needs doing. And I happily serve as an on-demand copy editor when time permits.
+I also helped organize ProPublica’s digital tools and generally handled whatever on the site needed doing. And I happily served as an on-demand copy editor when time permitted.
 
 ## Associate producer — The Seattle Times
 
