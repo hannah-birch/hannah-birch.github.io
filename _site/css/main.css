@@ -10,11 +10,16 @@ body { font-family: "Lato", Arial, sans-serif; font-size: 16px; line-height: 1.5
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 1em; }
 
+hr { margin: 2em 10em; background: #d8d6d3; }
+
 /** Images */
 img { max-width: 100%; vertical-align: middle; }
 
 /** Figures */
 figure > img { display: block; }
+
+figure.inset { max-width: 100%; display: inline-block; }
+@media screen and (min-width: 37.5em) { figure.inset { width: 45%; float: left; margin: 0 3em 1em 0; } }
 
 figcaption { font-size: 14px; color: #828282; text-align: right; }
 
@@ -27,6 +32,8 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
 h1 { text-align: center; }
+
+h3 { font-weight: 600; }
 
 /** Links */
 a { color: #464545; text-decoration: none; /* &:visited { color: darken($brand-color, 5%); }*/ }
@@ -97,6 +104,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 @media screen and (min-width: 37.5em) { .page-content { width: 80%; } }
 @media screen and (min-width: 48em) { .page-content { width: 75%; } }
 @media screen and (min-width: 64em) { .page-content { width: 60%; } }
+.page-content div.portfolio-item { float: left; width: 100%; display: block; margin-bottom: 1em; }
 
 .page-heading { margin-bottom: 2em; line-height: 0.75; }
 .page-heading:after { content: url(../assets/img/accent-underline.svg); display: block; }

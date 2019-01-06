@@ -160,6 +160,13 @@
     @include breakpoint(1024) {
         width: 60%;
     }
+
+    div.portfolio-item {
+      float: left;
+      width: 100%;
+      display: block;
+      margin-bottom: 1em;
+    }
 }
 
 .page-heading {
