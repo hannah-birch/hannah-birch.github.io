@@ -38,8 +38,11 @@ ul, ol, dl, figure,
 }
 
 hr {
-  margin: 2em 10em;
   background: #d8d6d3;
+  margin: 2em 1em;
+  @include breakpoint(600) {
+    margin: 2em 6em;
+  }
 }
 
 

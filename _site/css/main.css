@@ -10,7 +10,8 @@ body { font-family: "Lato", Arial, sans-serif; font-size: 16px; line-height: 1.5
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 1em; }
 
-hr { margin: 2em 10em; background: #d8d6d3; }
+hr { background: #d8d6d3; margin: 2em 1em; }
+@media screen and (min-width: 37.5em) { hr { margin: 2em 6em; } }
 
 /** Images */
 img { max-width: 100%; vertical-align: middle; }
