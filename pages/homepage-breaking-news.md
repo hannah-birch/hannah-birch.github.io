@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homepage and Breaking news
+title: Homepage and Breaking News
 permalink: /homepage-breaking-news/
 ---
 
