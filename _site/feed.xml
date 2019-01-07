@@ -5,8 +5,8 @@
     <description>Deputy editor, production at ProPublica. Stealth copy editor, ace cat herder.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jan 2019 08:20:47 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Jan 2019 08:20:47 -0500</lastBuildDate>
+    <pubDate>Mon, 07 Jan 2019 10:33:10 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Jan 2019 10:33:10 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -22,7 +22,7 @@
   &lt;figcaption&gt;Screenshot of some of George Etheredge’s photos in the layout.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;In addition to keen reporting skills, we loved George’s ability to capture people’s unraveling lives in a way that still felt respectful and humane. I felt a sharp contrast in the photo edit: We had a photo set documenting shocking living situations (a liquifying cantaloupe, a shower left running for the “oxygen,”), but done so in a way that didn’t make the images feel gratuitous.&lt;/p&gt;
+&lt;p&gt;In addition to keen reporting skills, we loved George’s ability to capture people’s unraveling lives in a way that still felt respectful and humane. I felt a sharp contrast in the photo edit: We had a photo set documenting shocking living situations (a liquifying cantaloupe, a shower left running for the “oxygen,”), but wanted to show them in a way that didn’t make the images feel gratuitous.&lt;/p&gt;
 
 &lt;p&gt;I was continually thinking about how to use the evidentiary photographs as a way of holding the system accountable, without compromising the dignity and humanity of the people we photographed. (George’s thoughtful portraits went a long way here.)&lt;/p&gt;
 
@@ -33,6 +33,32 @@
         <pubDate>Thu, 06 Dec 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2018/12/06/photo-edit-for-supported-housing-story.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/12/06/photo-edit-for-supported-housing-story.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Electionland 2018</title>
+        <description>&lt;h2 id=&quot;covering-access-to-the-vote-in-real-time&quot;&gt;Covering access to the vote in real time&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20181106-electionland.jpg&quot; alt=&quot;The Electionland newsroom&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.propublica.org/electionland/&quot;&gt;Electionland&lt;/a&gt; is a collaborative ProPublica project that covers voting, nationally and in real time. We partnered with newsrooms across the country, built a database of reliable, vetted tips and identified election administration problems in enough time for them to be addressed on Election Day.&lt;/p&gt;
+
+&lt;figure class=&quot;inset&quot;&gt;
+  &lt;img src=&quot;/assets/img/20181106-electionland-team.jpg&quot; /&gt;
+  &lt;figcaption&gt;From left: David Sleight, Jillian Kumagai, me and Setareh Baig, in the Electionland newsroom on Nov. 6. (📸: Mike Tigas)&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I was the main production contact for Electionland 2018, working with the Electionland team, the design and production team and ProPublica editors to make sure training, preparation and day-of logistics went smoothly.&lt;/p&gt;
+
+&lt;p&gt;CUNY’s graduate school of journalism graciously let us use their newsroom on Election Day for this project. We tried to anticipate as many needs as we could, from thinking about training and publishing workflows to ethernet dongles and desks. I also hired a freelance photographer, &lt;a href=&quot;http://www.erinlefevre.com/#1&quot;&gt;Erin Lefevre&lt;/a&gt;, to document the project.&lt;/p&gt;
+
+&lt;p&gt;Election Day was one of our highest-volume publishing days of the year. We had four design and production team members onsite all day to produce stories, handle art research and help keep the site running well. I don’t often get to produce live, breaking news, so I loved the throwback to my daily-newsroom days. (And yes, there was pizza.)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/11/06/electionland-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/06/electionland-2018.html</guid>
         
         
       </item>
