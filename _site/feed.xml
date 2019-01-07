@@ -5,9 +5,37 @@
     <description>Deputy editor, production at ProPublica. Stealth copy editor, ace cat herder.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Jan 2019 14:59:09 -0500</pubDate>
-    <lastBuildDate>Sun, 06 Jan 2019 14:59:09 -0500</lastBuildDate>
+    <pubDate>Mon, 07 Jan 2019 08:20:47 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Jan 2019 08:20:47 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Photo Edit For Supported Housing Story</title>
+        <description>&lt;h2 id=&quot;living-apart-coming-undone&quot;&gt;Living Apart, Coming Undone&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20181206-supported-housing-lead.png&quot; alt=&quot;A screenshot of the opening art of a story, showing a man sitting surrounded by his belongings in his apartment in Flatbush, Brooklyn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ProPublica reporter Joaquin Sapien spent many months &lt;a href=&quot;https://features.propublica.org/supported-housing/new-york-mentally-ill-housing-group-homes/&quot;&gt;reporting on a program&lt;/a&gt; aimed at helping people with mental illness in New York live on their own. When he filled us in on the living situations of some of the people supervised by this program, we hired &lt;a href=&quot;https://www.instagram.com/george_etheredge/?hl=en&quot;&gt;George Etheredge&lt;/a&gt;, a freelance photographer, to document the visual side of the story.&lt;/p&gt;
+
+&lt;figure class=&quot;inset&quot;&gt;
+  &lt;img src=&quot;/assets/img/20181206-supported-housing-3-up.png&quot; /&gt;
+  &lt;figcaption&gt;Screenshot of some of George Etheredge’s photos in the layout.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In addition to keen reporting skills, we loved George’s ability to capture people’s unraveling lives in a way that still felt respectful and humane. I felt a sharp contrast in the photo edit: We had a photo set documenting shocking living situations (a liquifying cantaloupe, a shower left running for the “oxygen,”), but done so in a way that didn’t make the images feel gratuitous.&lt;/p&gt;
+
+&lt;p&gt;I was continually thinking about how to use the evidentiary photographs as a way of holding the system accountable, without compromising the dignity and humanity of the people we photographed. (George’s thoughtful portraits went a long way here.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://features.propublica.org/supported-housing/new-york-mentally-ill-housing-group-homes/&quot;&gt;Read the story.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We co-published the story with The New York Times and Frontline, and we’re working on a documentary with Frontline slated to debut in early 2019.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Dec 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/12/06/photo-edit-for-supported-housing-story.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/06/photo-edit-for-supported-housing-story.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Google Privacy Illo</title>
