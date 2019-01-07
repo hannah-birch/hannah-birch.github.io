@@ -16,7 +16,7 @@ ProPublica reporter Joaquin Sapien spent many months [reporting on a program](ht
   <figcaption>Screenshot of some of George Etheredge’s photos in the layout.</figcaption>
 </figure>
 
-In addition to keen reporting skills, we loved George’s ability to capture people’s unraveling lives in a way that still felt respectful and humane. I felt a sharp contrast in the photo edit: We had a photo set documenting shocking living situations (a liquifying cantaloupe, a shower left running for the “oxygen,”), but done so in a way that didn’t make the images feel gratuitous.
+In addition to keen reporting skills, we loved George’s ability to capture people’s unraveling lives in a way that still felt respectful and humane. I felt a sharp contrast in the photo edit: We had a photo set documenting shocking living situations (a liquifying cantaloupe, a shower left running for the “oxygen,”), but wanted to show them in a way that didn’t make the images feel gratuitous.
 
 I was continually thinking about how to use the evidentiary photographs as a way of holding the system accountable, without compromising the dignity and humanity of the people we photographed. (George’s thoughtful portraits went a long way here.)
 
