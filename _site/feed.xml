@@ -5,8 +5,8 @@
     <description>Deputy editor, production at ProPublica. Stealth copy editor, ace cat herder.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jan 2019 22:30:30 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Jan 2019 22:30:30 -0500</lastBuildDate>
+    <pubDate>Mon, 07 Jan 2019 23:34:00 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Jan 2019 23:34:00 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -132,6 +132,108 @@ Every time that happens, I cringe.&lt;/p&gt;
         <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2015/06/27/please-stop-calling-me-a-guru.html</link>
         <guid isPermaLink="true">http://localhost:4000/2015/06/27/please-stop-calling-me-a-guru.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Illustration For Municipal Internet Explainer</title>
+        <description>&lt;h2 id=&quot;vector-illustration-for-municipal-internet-explainer&quot;&gt;Vector illustration for municipal Internet explainer&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20150123-internet-access-630x420.jpg&quot; alt=&quot;An illustration showing a cityscape with an internet cord alongside the buildings&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used Sketch.app and Photoshop to create this vector illustration for a &lt;a href=&quot;http://www.propublica.org/article/obama-wants-you-to-have-cheap-fast-internet-but-many-cities-arent-allowed-t&quot;&gt;ProPublica story&lt;/a&gt; about municipal Internet.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Jan 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2015/01/23/illustration-for-municipal-internet-explainer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/01/23/illustration-for-municipal-internet-explainer.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Best Of The Northwest</title>
+        <description>&lt;h2 id=&quot;best-of-the-northwest-ceo-pay&quot;&gt;Best of the Northwest, CEO Pay&lt;/h2&gt;
+
+&lt;figure class=&quot;inset&quot;&gt;
+  &lt;img src=&quot;/assets/img/20140621-best-northwest-1.png&quot; alt=&quot;A screenshot of a story with a sidebar with graphics&quot; /&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Our digital team put together a revamped version of Best of the Northwest, The Seattle Times’ annual ranking of publicly traded Northwest companies. The roundup included a highly sortable chart, put together by a newsroom developer, and an interactive landing page, spearheaded by the same developer and our lead digital producer.&lt;/p&gt;
+
+&lt;p&gt;I helped design story-level packaging for Best of the Northwest, incorporating nuances from the print design and other parts of the project. I also built out homepage packages for each piece, keeping an eye on traffic and engagement time.&lt;/p&gt;
+
+&lt;figure class=&quot;inset&quot;&gt;
+  &lt;img src=&quot;/assets/img/20140621-best-northwest-2.png&quot; alt=&quot;A screenshot of a story with a sidebar with graphics&quot; /&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Our yearly look at what local CEOs got paid ran a week after Best of the Northwest. This was less labor intensive for our developer because &lt;a href=&quot;http://seattletimes.com/html/localpages/2023892102_ceo-pay-2014.html&quot;&gt;the accompanying chart&lt;/a&gt; wasn’t as robust. However, it was challenging to make the print design elements translate to the web. I designed and built out &lt;a href=&quot;http://seattletimes.com/html/businesstechnology/2023899334_ceopaymainxml.html&quot;&gt;a sidebar&lt;/a&gt; that accompanied each of the nine stories in the section, pulling in the big illustration from print and making sure other important elements were surfaced. And I coordinated with editors on homepage play.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2014/06/21/best-of-the-northwest.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/06/21/best-of-the-northwest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Oso Mudslide</title>
+        <description>&lt;h2 id=&quot;breaking-news-coveage-oso-mudslide&quot;&gt;Breaking news coveage: Oso mudslide&lt;/h2&gt;
+
+&lt;figure class=&quot;inset&quot;&gt;
+  &lt;img src=&quot;/assets/img/20140322-mudslide.jpg&quot; alt=&quot;A screenshot of a story with a photo of a mudslide&quot; /&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I was the only producer in the building on Saturday, March 22, when I saw tweets from a PIO with the sheriff’s office that there was a house in the road after a mudslide near Darrington. I worked with a metro editor to assess the scale of the slide, updating our social media accounts and the homepage as we got information. I realized this was by far the biggest story I’d worked on, at the Times or elsewhere.&lt;/p&gt;
+
+&lt;p&gt;The next two weeks were a blur. The digital team worked long, harried hours keeping the website updated with the work produced by more than 30 reporters and countless editors and managers. We had &lt;a href=&quot;http://seattletimes.com/html/localnews/2023218573_mudslidewarningsxml.html&quot;&gt;watchdog stories&lt;/a&gt; running within days of the slide. We built a hugely popular &lt;a href=&quot;http://seattletimes.com/flatpages/local/interactivebeforeandafterthe530mudslide.html&quot;&gt;before-and-after interactive&lt;/a&gt; that was the centerpiece on SeattleTimes.com for the better part of a day. We put together a &lt;a href=&quot;http://seattletimes.com/flatpages/local/victimsoftheosomudslide.html&quot;&gt;page memorializing victims&lt;/a&gt; of the slide. We had too many daily stories and blog posts to count, tracking updates as search efforts continued.&lt;/p&gt;
+
+&lt;p&gt;Thirty-one reporters contributed to a &lt;a href=&quot;http://seattletimes.com/html/localnews/2023259205_mudslidenarrativexml.html&quot;&gt;narrative of the events that day&lt;/a&gt;, a story with a custom layout I hand coded late one night. We used social media to tell readers what we knew and how to get help. We lowered our paywall on resources for victims of the mudslide. (Read editor Kathy Best’s thoughts on that in &lt;a href=&quot;http://www.poynter.org/latest-news/mediawire/246699/why-the-seattle-times-lowered-its-paywall-during-the-mudslide-but-didnt-suspend-it/&quot;&gt;this Poynter piece&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;It was exhausting in many ways, but it’s impossible to work on a story like this and not see the significance journalism has. &lt;a href=&quot;http://seattletimes.com/flatpages/local/oso-mudslide-coverage.html&quot;&gt;See all coverage of the Oso mudslide.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Mar 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2014/03/22/oso-mudslide.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/03/22/oso-mudslide.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Education Lab Series</title>
+        <description>&lt;h2 id=&quot;education-lab-series&quot;&gt;Education Lab Series&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20140301-edlab.jpg&quot; alt=&quot;A screenshot of a story and sidebar with photos and links&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Education Lab was a yearlong series produced in partnership with the Solutions Journalism Network, with grants from the Bill &amp;amp; Melinda Gates Foundation and the John S. and James L. Knight Foundation. &lt;a href=&quot;http://seattletimes.com/html/education/2023026649_edlabadvancedplacementxml.html&quot;&gt;See an example of an Education Lab story →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For the project, I collaborated with Education Lab’s engagement editor. Together, we strategize how best to present Ed Lab content on the Seattle Times homepage, the education section page and the story level. I designed components on the &lt;a href=&quot;http://blogs.seattletimes.com/educationlab/?from=stnv2&quot;&gt;Education Lab blog template&lt;/a&gt; and handcrafted sidebars on the article pages for each big story.&lt;/p&gt;
+
+&lt;p&gt;One of the challenges with Education Lab content was keeping it organized. We had big Sunday stories, live chats and Google hangouts, blog posts, photo galleries and videos. I loved puzzling out the best place to surface this content, whether as a homepage centerpiece for an enterprise story or as an interactive quiz showing sample GED questions. Communication with editors — and being able to solicit and implement their feedback — was crucial.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2014/03/01/education-lab-series.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/03/01/education-lab-series.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Map Of Public Art In Seattle</title>
+        <description>&lt;h2 id=&quot;state-of-the-art-10-great-pieces-of-public-art-in-seattle&quot;&gt;State of the art: 10 great pieces of public art in Seattle&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20130926-public-art.jpg&quot; alt=&quot;A screenshot of a map showing pins dropped for public works of art&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I built an interactive map of nearly 400 pieces of public art around Seattle. This was packaged with Seattle Times art critic Michael Upchurch’s &lt;a href=&quot;http://seattletimes.com/html/entertainmentpages/2021897726_publicartxml.html&quot;&gt;top picks for public artwork in the city&lt;/a&gt;, a story that coincided with the 40th anniversary of the city’s 1% for Art program.&lt;/p&gt;
+
+&lt;p&gt;After obtaining a spreadsheet from the City of Seattle, I scrubbed the data and used Google Fusion Tables to map where each piece of art is located. I included the title of the piece, the artist’s name and the date it was made. And I designed the story’s layout online.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Sep 2013 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2013/09/26/map-of-public-art-in-seattle.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/09/26/map-of-public-art-in-seattle.html</guid>
         
         
       </item>
