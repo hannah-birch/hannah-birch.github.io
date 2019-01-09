@@ -4,6 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
+**[Download a PDF version.](http://hannah-birch.github.io/assets/img/birch-resume-201901-public.pdf)**
+
 ## Experience and awards
 
 <h3><strong>2015 Pulitzer Prize for breaking news reporting, with Seattle Times staff</strong></h3>
