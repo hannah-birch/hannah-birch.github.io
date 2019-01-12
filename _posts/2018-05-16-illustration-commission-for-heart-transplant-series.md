@@ -7,7 +7,10 @@ summary: "I commissioned a set of illustrations and produced a series of stories
 
 ## Heart Failure
 
-<img src="/assets/img/20180516-heart-failure.jpg" alt="A screenshot of the opening art of a story, showing an illustration of a pair of hands stitching a heart with medical instruments nearby"/>
+<figure class="inset">
+    <img src="/assets/img/20180516-heart-failure.jpg" alt="A screenshot of the opening art of a story, showing an illustration of a pair of hands stitching a heart with medical instruments nearby"/>
+<figcaption></figcaption>
+</figure>
 
 Charlie Ornstein at ProPublica and Mike Hixenbaugh at the Houston Chronicle spent 2018 reporting on the heart transplant program at St. Luke’s, a hospital in Houston with a renowned reputation, and why the program’s complications rates were so high. 
 
