@@ -17,7 +17,7 @@ I contributed to the coverage that won The Seattle Times staff the Pulitzer Priz
 - Brian Greenspun and Ned Day Memorial scholarships
 - Member of Phi Kappa Phi and Kappa Tau Alpha honor societies
 
-## Deputy editor, production — ProPublica
+## Production editor — ProPublica
 
 _January 2018 – present_
 
