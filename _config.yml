@@ -1,7 +1,7 @@
 # Site settings
 title: Hannah Birch
 email: birch.hannah@gmail.com
-description: Deputy editor, production at ProPublica. Stealth copy editor, ace cat herder.
+description: Production editor at ProPublica. Stealth copy editor. Mostly harmless.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hannah-birch.github.io" # the base hostname & protocol for your site
 twitter_username: hannahsbirch
