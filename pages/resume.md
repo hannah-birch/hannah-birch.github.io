@@ -17,15 +17,22 @@ I contributed to the coverage that won The Seattle Times staff the Pulitzer Priz
 - Brian Greenspun and Ned Day Memorial scholarships
 - Member of Phi Kappa Phi and Kappa Tau Alpha honor societies
 
+## Content strategist/site editor – Metropolitan Transportation Authority
+_December 2019 - present_
+
+I’m on the digital services team at the MTA, where we work to make [new.mta.info](https://new.mta.info/) and the MYmta apps more rider-centric. We’re the first in-house team to manage distinct digital products, following along-established workflow of depending on contractors for this work.
+
+I write, edit, and oversee the creation of content on the MTA site, with a focus on helping our readers get the information they’re looking for. I work with developers on new features for the site and CMS, and I strategize around content and design with our UX designer and product manager. I also meet with stakeholders across the 50,000-person organization to gather requirements, manage expectations, and deliver exceptional products.
+
 ## Production Editor — ProPublica
 
-_January 2018 – present_
+_January 2018 – December 2019_
 
-I manage ProPublica’s story production team, overseeing daily story and newsletter production. I run the organization’s editorial calendar, with our managing editor and standards editor, and continually evaluates tools and processes to ensure smooth publishing workflow.
+I managed ProPublica’s story production team and oversaw daily story and newsletter production. I ran the organization’s editorial calendar, with our managing editor and standards editor, and continually evaluated tools and processes to ensure smooth publishing workflow.
 
-I assemble cross-team, collaborative groups to execute large editorial projects. And I work with platform team to develop and test new features for the CMS and ProPublica.org.
+I assembled cross-team, collaborative groups to execute large editorial projects. And I worked with ProPublica’s platform team to develop and test new features for the site and CMS.
 
-I also hire and art-direct freelance photographers and illustrators, and I coach story producers on the same.
+I also hired and art-directed freelance photographers and illustrators, and I coached story producers on the same.
 
 
 ## Lead Producer — ProPublica
