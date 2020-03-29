@@ -1,15 +1,11 @@
-// $(".trigger a").each(function() {
-//   if (this.pathname == window.location.pathname) {
-//     $(this).addClass("active")
-//   }
-// });
+$(document).ready(function(){
+    // Toggles span display
+    $(".toggle-button").click(function(){
+        $("span.transform").toggle();
+    });
+});
 
-
-
-// $(function() {
-// 	$('.site-nav .trigger a').on('click', function(e) {
-// 		e.preventDefault();
-// 		$('.site-nav .trigger a').removeClass('active');
-// 		$(this).addClass('active');
-// 	});
-// });
+    $(".toggle-button").click(function(){
+        $("span.transform-2").toggle();
+    });
+});
