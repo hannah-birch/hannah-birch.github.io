@@ -138,12 +138,13 @@
 
 
 
+
 /**
  * Page content
  */
 .page-content {
-    padding: $spacing-unit $spacing-unit;
-    width: 85%;
+    padding: $spacing-unit 0 $spacing-unit 0;
+    width: 95%;
     margin: 0 auto;
     background-color: #fff;
 
@@ -152,13 +153,13 @@
     }
 
     @include breakpoint(600) {
-        width: 80%;
+        width: 100%;
     }
     @include breakpoint(768) {
-        width: 75%;
+        width: 100%;
     }
     @include breakpoint(1024) {
-        width: 60%;
+        width: 100%;
     }
 
     div.portfolio-item {

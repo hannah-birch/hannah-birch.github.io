@@ -53,7 +53,7 @@ pre { padding: 8px 12px; overflow-x: scroll; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 /** Wrapper */
-.wrapper { max-width: -webkit-calc(600px - (2em * 2)); max-width: calc(600px - (2em * 2)); margin-right: auto; margin-left: auto; padding-right: 2em; padding-left: 2em; }
+.wrapper { max-width: -webkit-calc(600px - (2em * 2)); max-width: calc(600px - (2em * 2)); margin-right: auto; margin-left: auto; padding-right: 1em; padding-left: 1em; }
 @media screen and (min-width: 37.5em) { .wrapper { max-width: -webkit-calc(600px - (2em)); max-width: calc(600px - (2em)); padding-right: 1em; padding-left: 1em; } }
 
 /** Clearfix */
@@ -100,11 +100,11 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /*@include media-query($on-palm) { .footer-col { float: none; width: -webkit-calc(100% - (2em / 2)); width:         calc(100% - (2em / 2)); }
 }*/
 /** Page content */
-.page-content { padding: 2em 2em; width: 85%; margin: 0 auto; background-color: #fff; }
+.page-content { padding: 2em 0 2em 0; width: 95%; margin: 0 auto; background-color: #fff; }
 .page-content a { color: #999988; }
-@media screen and (min-width: 37.5em) { .page-content { width: 80%; } }
-@media screen and (min-width: 48em) { .page-content { width: 75%; } }
-@media screen and (min-width: 64em) { .page-content { width: 60%; } }
+@media screen and (min-width: 37.5em) { .page-content { width: 100%; } }
+@media screen and (min-width: 48em) { .page-content { width: 100%; } }
+@media screen and (min-width: 64em) { .page-content { width: 100%; } }
 .page-content div.portfolio-item { float: left; width: 100%; display: block; margin-bottom: 1em; }
 
 .page-heading { margin-bottom: 2em; line-height: 0.75; }
@@ -199,8 +199,10 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .il { color: #099; }
 
 /*- Sass mixins --------------------------------------------------------------*/
+section.intro { width: 100%; margin: 0 .5em 2em 0; }
+
 /*Sentence*/
-.sentence { color: #222; font-size: 30px; overflow: hidden; }
+.sentence { color: #222; font-size: 1.25em; overflow: hidden; }
 
 .sentence span { color: #420039; }
 
