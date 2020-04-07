@@ -5,7 +5,7 @@ var forEach = function (array, callback, scope) {
   }
 };
 
-var adjectives = document.querySelectorAll(".intro a");
+var adjectives = document.querySelectorAll(".intro a.active");
 
 forEach(adjectives, function(i, el) {
   el.addEventListener("click", function() {

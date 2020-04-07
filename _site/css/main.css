@@ -201,7 +201,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /*- Sass mixins --------------------------------------------------------------*/
 section.intro { width: 100%; margin: 0 .5em 2em 0; }
 
-section.intro a { display: none; opacity: 1; text-decoration: none; cursor: pointer; position: relative; }
+section.intro a { opacity: .5; text-decoration: none; cursor: pointer; position: relative; }
 
 section.intro a:hover, section.intro a:focus { text-decoration: underline; }
 
