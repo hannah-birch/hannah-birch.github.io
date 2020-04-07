@@ -3,36 +3,54 @@ section.intro {
   margin: 0 .5em 2em 0;
 }
 
-
-/*Sentence*/
-.sentence{
-    color: #222;
-    font-size: 1.25em;
-    overflow: hidden;
-}
-
-.sentence span {
-  color: $accent-color;
-}
-
-.sentence span.transform, .sentence span.transform-2 {
-  -webkit-animation: fadeIn 3s;
-  -moz-animation: fadeIn 3s;
-  -o-animation: fadeIn 3s;
-  -ms-animation: fadeIn 3s;
-  animation: fadeIn 3s;
-}
-
-.sentence span.transform-2 {
+section.intro a {
   display: none;
+  opacity: 1;
+  text-decoration: none;
+  cursor: pointer;
+  position: relative;
 }
 
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
+section.intro a:hover, section.intro a:focus {
+  text-decoration: underline;
 }
+
+section.intro a.active {
+  display: inline;
+  opacity: 1;
+}
+
+
+
+/*This works with toggle class JS*/
+// .sentence{
+//     color: #222;
+//     font-size: 1.25em;
+//     overflow: hidden;
+// }
+//
+// .sentence span {
+//   color: $accent-color;
+// }
+//
+// .sentence span.transform, .sentence span.transform-2 {
+//   -webkit-animation: fadeIn 3s;
+//   -moz-animation: fadeIn 3s;
+//   -o-animation: fadeIn 3s;
+//   -ms-animation: fadeIn 3s;
+//   animation: fadeIn 3s;
+// }
+//
+// .sentence span.transform-2 {
+//   display: none;
+// }
+//
+// @keyframes fadeIn {
+//   from {
+//     opacity: 0;
+//   }
+//
+//   to {
+//     opacity: 1;
+//   }
+// }
