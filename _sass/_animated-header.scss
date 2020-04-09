@@ -1,6 +1,7 @@
 section.intro {
   width: 100%;
   margin: 0 .5em 2em 0;
+  font-size: 2em;
 }
 
 section.intro a {
@@ -17,6 +18,10 @@ section.intro a:hover, section.intro a:focus {
 section.intro a.active {
   display: inline;
   opacity: 1;
+}
+
+section.intro a.hidden {
+  opacity: 0.5;
 }
 
 

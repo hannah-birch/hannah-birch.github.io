@@ -199,12 +199,14 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .il { color: #099; }
 
 /*- Sass mixins --------------------------------------------------------------*/
-section.intro { width: 100%; margin: 0 .5em 2em 0; }
+section.intro { width: 100%; margin: 0 .5em 2em 0; font-size: 2em; }
 
 section.intro a { opacity: .5; text-decoration: none; cursor: pointer; position: relative; }
 
 section.intro a:hover, section.intro a:focus { text-decoration: underline; }
 
 section.intro a.active { display: inline; opacity: 1; }
+
+section.intro a.hidden { opacity: 0.5; }
 
 /*This works with toggle class JS*/
