@@ -4,6 +4,11 @@ section.intro {
   font-size: 2em;
 }
 
+section.intro #button-1, section.intro #button-2, section.intro #button-3 {
+  display: inline-block;
+  background-color: yellow;
+}
+
 section.intro a {
   opacity: .5;
   text-decoration: none;
@@ -20,7 +25,7 @@ section.intro a.active {
   opacity: 1;
 }
 
-section.intro a.hidden {
+section.intro a.hidden, section.intro a.hidden-also  {
   opacity: 0.5;
 }
 
