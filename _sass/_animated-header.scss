@@ -6,26 +6,26 @@ section.intro {
 
 section.intro #button-1, section.intro #button-2, section.intro #button-3 {
   display: inline-block;
-  background-color: yellow;
-}
-
-section.intro a {
-  opacity: .5;
-  text-decoration: none;
+  padding: 0 0.25em 0 0.25em;
   cursor: pointer;
-  position: relative;
-}
-
-section.intro a:hover, section.intro a:focus {
-  text-decoration: underline;
-}
-
-section.intro a.active {
-  display: inline;
+  text-decoration: none;
+  background-color: yellow;
   opacity: 1;
 }
 
-section.intro a.hidden, section.intro a.hidden-also  {
+section.intro span a {
+  opacity: .5;
+  position: relative;
+}
+
+
+section.intro span.active {
+  display: inline;
+  text-decoration: underline;
+  // opacity: 1;
+}
+
+section.intro span.hidden, section.intro span.hidden-also  {
   opacity: 0.5;
 }
 
