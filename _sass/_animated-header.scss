@@ -1,65 +1,28 @@
 section.intro {
   width: 100%;
   margin: 0 .5em 2em 0;
-  font-size: 2em;
+  font-size: 1.25em;
 }
 
-section.intro #button-1, section.intro #button-2, section.intro #button-3 {
-  display: inline-block;
-  padding: 0 0.25em 0 0.25em;
-  cursor: pointer;
-  text-decoration: none;
-  background-color: yellow;
-  opacity: 1;
+section.intro p span::before {
+  content: "{";
 }
 
-section.intro span a {
-  opacity: .5;
-  position: relative;
+section.intro p span::after {
+  content: "}";
 }
 
-
-section.intro span.active {
-  display: inline;
-  text-decoration: underline;
-  // opacity: 1;
+section.intro p span#adjective-1 {
+  color: #420039;
+  // background-color: #912144;
 }
 
-section.intro span.hidden, section.intro span.hidden-also  {
-  opacity: 0.5;
+section.intro p span#adjective-2 {
+  color: #912144;
+  // background-color: #E68522;
 }
 
-
-
-/*This works with toggle class JS*/
-// .sentence{
-//     color: #222;
-//     font-size: 1.25em;
-//     overflow: hidden;
-// }
-//
-// .sentence span {
-//   color: $accent-color;
-// }
-//
-// .sentence span.transform, .sentence span.transform-2 {
-//   -webkit-animation: fadeIn 3s;
-//   -moz-animation: fadeIn 3s;
-//   -o-animation: fadeIn 3s;
-//   -ms-animation: fadeIn 3s;
-//   animation: fadeIn 3s;
-// }
-//
-// .sentence span.transform-2 {
-//   display: none;
-// }
-//
-// @keyframes fadeIn {
-//   from {
-//     opacity: 0;
-//   }
-//
-//   to {
-//     opacity: 1;
-//   }
-// }
+section.intro p span#adjective-3 {
+  color: #47725E;
+  // background-color: #C0BB38;
+}

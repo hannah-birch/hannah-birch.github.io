@@ -199,14 +199,14 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .il { color: #099; }
 
 /*- Sass mixins --------------------------------------------------------------*/
-section.intro { width: 100%; margin: 0 .5em 2em 0; font-size: 2em; }
+section.intro { width: 100%; margin: 0 .5em 2em 0; font-size: 1.25em; }
 
-section.intro #button-1, section.intro #button-2, section.intro #button-3 { display: inline-block; padding: 0 0.25em 0 0.25em; cursor: pointer; text-decoration: none; background-color: yellow; opacity: 1; }
+section.intro p span::before { content: "{"; }
 
-section.intro span a { opacity: .5; position: relative; }
+section.intro p span::after { content: "}"; }
 
-section.intro span.active { display: inline; text-decoration: underline; }
+section.intro p span#adjective-1 { color: #420039; }
 
-section.intro span.hidden, section.intro span.hidden-also { opacity: 0.5; }
+section.intro p span#adjective-2 { color: #912144; }
 
-/*This works with toggle class JS*/
+section.intro p span#adjective-3 { color: #47725E; }
