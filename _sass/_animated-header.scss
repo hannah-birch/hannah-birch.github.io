@@ -1,7 +1,7 @@
 section.intro {
   width: 100%;
   margin: 0 .5em 2em 0;
-  font-size: 1.25em;
+  font-size: 1.5em;
 }
 
 section.intro p span::before {
@@ -12,17 +12,6 @@ section.intro p span::after {
   content: "}";
 }
 
-section.intro p span#adjective-1 {
-  color: #420039;
-  // background-color: #912144;
-}
-
-section.intro p span#adjective-2 {
+section.intro p span.adjective {
   color: #912144;
-  // background-color: #E68522;
-}
-
-section.intro p span#adjective-3 {
-  color: #47725E;
-  // background-color: #C0BB38;
 }
