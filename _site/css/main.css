@@ -67,14 +67,14 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-header { min-height: 56px; font-weight: bold; margin-top: 2em; position: relative; }
 
 .site-title { font-size: 45px; line-height: 56px; letter-spacing: -1px; margin-bottom: 0.15em; float: none; }
-.site-title, .site-title:visited { color: #420039; }
+.site-title, .site-title:visited { color: #29335C; }
 @media screen and (min-width: 37.5em) { .site-title { width: inherit; float: left; } }
 
 .site-nav { float: left; line-height: 36px; width: 100%; }
 .site-nav .page-link { color: #999988; line-height: 1.5; }
 .site-nav .trigger a { color: #999988; }
 .site-nav .trigger a:not(:first-child) { margin-left: 20px; }
-.site-nav .trigger a.active { color: #420039; }
+.site-nav .trigger a.active { color: #29335C; }
 @media screen and (min-width: 37.5em) { .site-nav { /*      position: relative; top: 9px; right: 30px; background-color: $background-color; border-radius: 5px;*/ text-align: right; line-height: inherit; float: right; } }
 
 /** Site footer */
@@ -124,7 +124,7 @@ section.intro p span::before { content: "{"; }
 
 section.intro p span::after { content: "}"; }
 
-section.intro p span.adjective { color: #912144; }
+section.intro p span.adjective { color: #29335C; }
 
 /** Posts */
 .post-header { margin-bottom: 2em; line-height: 0.75; }
