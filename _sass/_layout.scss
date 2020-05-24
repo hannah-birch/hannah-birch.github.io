@@ -34,7 +34,7 @@
     width: 100%;
 
     .page-link {
-        color: $brand-color;
+        color: $accent-color;
         line-height: $base-line-height;
     }
 
@@ -44,7 +44,7 @@
             margin-left: 20px;
         }
 
-        color: $brand-color;
+        color: $accent-color;
     }
 
     .trigger a.active {
@@ -69,11 +69,11 @@
  * Site footer
  */
 .site-footer {
-    /*border-top: 1px solid $brand-color;*/
+    /*border-top: 1px solid $accent-color;*/
     padding: $spacing-unit / 2 0;
 
     a {
-        color: $brand-color;
+        color: $accent-color;
     }
 }
 
@@ -90,7 +90,7 @@
 
 .footer-col-wrapper {
     font-size: 12px;
-    color: $brand-color;
+    color: $accent-color;
     @extend %clearfix;
 }
 
@@ -146,10 +146,9 @@
     padding: $spacing-unit 0 $spacing-unit 0;
     width: 95%;
     margin: 0 auto;
-    background-color: #fff;
 
     a {
-        color: $brand-color;
+        color: $accent-color;
     }
 
     @include breakpoint(600) {
@@ -195,9 +194,9 @@
     }
 }
 
-.post-meta {
+.post-accent {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $accent-color;
 }
 
 .post-link {
@@ -210,6 +209,7 @@ section.intro {
   width: 100%;
   margin: 0 .5em 2em 0;
   font-size: 1.5em;
+  line-height: $base-line-height;
 }
 
 section.intro p span::before {
@@ -289,6 +289,6 @@ section.intro p span.adjective {
 
 
     a {
-        color: $brand-color;
+        color: $accent-color;
     }
 }

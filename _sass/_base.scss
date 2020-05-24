@@ -76,7 +76,7 @@ figure.inset {
 
 figcaption {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $text-color;
     text-align: right;
 }
 
@@ -121,9 +121,6 @@ a {
     color: $text-color;
     text-decoration: none;
 
-   /* &:visited {
-        color: darken($brand-color, 5%);
-    }*/
 
     &:hover {
         color: $text-color;
@@ -137,8 +134,8 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $accent-color;
+    border-left: 4px solid $accent-color;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -157,7 +154,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $accent-color;
     border-radius: 3px;
     background-color: #eef;
 }
@@ -227,7 +224,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $accent-color;
         }
     }
 }
