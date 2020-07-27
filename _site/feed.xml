@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hannah Birch</title>
-    <description>Production editor at ProPublica. Stealth copy editor. Mostly harmless.</description>
+    <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jul 2020 07:46:06 -0400</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2020 07:46:06 -0400</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2020 08:18:26 -0400</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2020 08:18:26 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
