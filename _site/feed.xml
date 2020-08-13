@@ -5,9 +5,33 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Aug 2020 22:57:21 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2020 22:57:21 -0400</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2020 23:46:39 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2020 23:46:39 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>How To Bring Your Bike On Public Transit</title>
+        <description>&lt;h2 id=&quot;how-to-bring-your-bike-with-you-on-nyc-public-transit&quot;&gt;How to bring your bike with you on NYC public transit&lt;/h2&gt;
+
+&lt;p&gt;The most common question we get about bikes in New York City is if you can take them on the subway. (Yes, you can, but please avoid rush hour.) As the pandemic stretched on in New York and people lined up to buy bicycles, I redesigned and rewrote &lt;a href=&quot;https://new.mta.info/guides/bikes&quot;&gt;the bike page on the MTA site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I started by migrating all of the content from the old page onto our new site. I researched rules and guidelines and interviewed co-workers, then rewrote the page. I also included information about non-MTA cycling resources, like the city Department of Transportation’s maps and the Citi Bike bike-share program.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200805-mta-bike-page-before-after-composite.png&quot; alt=&quot;Two screenshots side-by-side, showing a web page with large photos and organized text, compared to an outdated-looking page that’s mostly text.&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The new MTA bike page, left, compared to the old one.&lt;/figcaption&gt;
+
+&lt;p&gt;I knew I wanted photos that illustrated specific guidelines, like where to stand with your bike on a train and how to get through turnstiles. I worked with MTA photographer Marc Hermann and volunteers from the MTA’s bike-to-work group to art-direct and edit the photos we published on the page.&lt;/p&gt;
+
+&lt;p&gt;The new bike page got great feedback from cycling and transportation advocates in the city. &lt;a href=&quot;https://twitter.com/jvhawkins/status/1291065197856202753&quot;&gt;This tweet in particular&lt;/a&gt; utterly made my day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200805-mta-bike-page-tweet.png&quot; alt=&quot;A screenshot of a tweet reading, ‘This is going to sound kind of dumb, but publishing a page that actually promotes bicycling, includes info on non-MTA modes (ferry, CitiBike), and organizes information so clearly and comprehensively would not have happened a decade ago. MTA comms doing great work.’&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2020/08/05/how-to-bring-your-bike-on-public-transit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/05/how-to-bring-your-bike-on-public-transit.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Photo Edit For Supported Housing Story</title>
@@ -220,25 +244,6 @@ Every time that happens, I cringe.&lt;/p&gt;
         <pubDate>Sat, 22 Mar 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2014/03/22/oso-mudslide.html</link>
         <guid isPermaLink="true">http://localhost:4000/2014/03/22/oso-mudslide.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Education Lab Series</title>
-        <description>&lt;h2 id=&quot;education-lab-series&quot;&gt;Education Lab Series&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/20140301-edlab.jpg&quot; alt=&quot;A screenshot of a story and sidebar with photos and links&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Education Lab was a yearlong series produced in partnership with the Solutions Journalism Network, with grants from the Bill &amp;amp; Melinda Gates Foundation and the John S. and James L. Knight Foundation. &lt;a href=&quot;http://seattletimes.com/html/education/2023026649_edlabadvancedplacementxml.html&quot;&gt;See an example of an Education Lab story →&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For the project, I collaborated with Education Lab’s engagement editor. Together, we strategize how best to present Ed Lab content on the Seattle Times homepage, the education section page and the story level. I designed components on the &lt;a href=&quot;http://blogs.seattletimes.com/educationlab/?from=stnv2&quot;&gt;Education Lab blog template&lt;/a&gt; and handcrafted sidebars on the article pages for each big story.&lt;/p&gt;
-
-&lt;p&gt;One of the challenges with Education Lab content was keeping it organized. We had big Sunday stories, live chats and Google hangouts, blog posts, photo galleries and videos. I loved puzzling out the best place to surface this content, whether as a homepage centerpiece for an enterprise story or as an interactive quiz showing sample GED questions. Communication with editors — and being able to solicit and implement their feedback — was crucial.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2014/03/01/education-lab-series.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/03/01/education-lab-series.html</guid>
         
         
       </item>

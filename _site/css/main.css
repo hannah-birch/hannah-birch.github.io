@@ -22,7 +22,7 @@ figure > img { display: block; }
 figure.inset { max-width: 100%; display: inline-block; }
 @media screen and (min-width: 37.5em) { figure.inset { width: 45%; float: left; margin: 0 3em 1em 0; } }
 
-figcaption { padding-top: 0.25em; font-size: 0.66em; color: #464545; text-align: right; line-height: 1.2em; }
+figcaption { margin: 0.25em 0 1em 0; font-size: 0.66em; color: #464545; text-align: right; line-height: 1.2em; }
 
 /** Lists */
 ul, ol { margin-left: 2em; }
