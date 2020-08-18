@@ -5,8 +5,8 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Aug 2020 23:52:00 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2020 23:52:00 -0400</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2020 21:00:20 -0400</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2020 21:00:20 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -29,6 +29,22 @@
         <pubDate>Wed, 05 Aug 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2020/08/05/how-to-bring-your-bike-on-public-transit.html</link>
         <guid isPermaLink="true">http://localhost:4000/2020/08/05/how-to-bring-your-bike-on-public-transit.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Content Strategy Volunteering For The Covid Tracking Project</title>
+        <description>&lt;h2 id=&quot;content-strategy-and-editing-for-the-covid-tracking-project&quot;&gt;Content strategy and editing for The COVID Tracking Project&lt;/h2&gt;
+
+&lt;p&gt;I had admired The COVID Tracking Project from a distance since March and jumped in in June to help reorganize the site. What had started as a homegrown reporting project had turned into one of the most complete COVID datasets in the country. With the rapid growth came a necessarily ad hoc site structure that the content had outgrown.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200601-ctp-audit-composite.png&quot; alt=&quot;Two screenshots side-by-side, showing two spreadsheets with colored cells. The spreadsheet on the left is longer and the colors are out of order. The spreadsheet on the right is shorter and the colors are in order.&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;My structural audit of The COVID Tracking Project’s website, before and after I restructured it.&lt;/figcaption&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2020/06/01/content-strategy-volunteering-for-the-covid-tracking-project.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/01/content-strategy-volunteering-for-the-covid-tracking-project.html</guid>
         
         
       </item>
@@ -220,30 +236,6 @@ Every time that happens, I cringe.&lt;/p&gt;
         <pubDate>Sat, 21 Jun 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2014/06/21/best-of-the-northwest.html</link>
         <guid isPermaLink="true">http://localhost:4000/2014/06/21/best-of-the-northwest.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Oso Mudslide</title>
-        <description>&lt;h2 id=&quot;breaking-news-coveage-oso-mudslide&quot;&gt;Breaking news coveage: Oso mudslide&lt;/h2&gt;
-
-&lt;figure class=&quot;inset&quot;&gt;
-  &lt;img src=&quot;/assets/img/20140322-mudslide.jpg&quot; alt=&quot;A screenshot of a story with a photo of a mudslide&quot; /&gt;
-  &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I was the only producer in the building on Saturday, March 22, when I saw tweets from a PIO with the sheriff’s office that there was a house in the road after a mudslide near Darrington. I worked with a metro editor to assess the scale of the slide, updating our social media accounts and the homepage as we got information. I realized this was by far the biggest story I’d worked on, at the Times or elsewhere.&lt;/p&gt;
-
-&lt;p&gt;The next two weeks were a blur. The digital team worked long, harried hours keeping the website updated with the work produced by more than 30 reporters and countless editors and managers. We had &lt;a href=&quot;http://seattletimes.com/html/localnews/2023218573_mudslidewarningsxml.html&quot;&gt;watchdog stories&lt;/a&gt; running within days of the slide. We built a hugely popular &lt;a href=&quot;http://seattletimes.com/flatpages/local/interactivebeforeandafterthe530mudslide.html&quot;&gt;before-and-after interactive&lt;/a&gt; that was the centerpiece on SeattleTimes.com for the better part of a day. We put together a &lt;a href=&quot;http://seattletimes.com/flatpages/local/victimsoftheosomudslide.html&quot;&gt;page memorializing victims&lt;/a&gt; of the slide. We had too many daily stories and blog posts to count, tracking updates as search efforts continued.&lt;/p&gt;
-
-&lt;p&gt;Thirty-one reporters contributed to a &lt;a href=&quot;http://seattletimes.com/html/localnews/2023259205_mudslidenarrativexml.html&quot;&gt;narrative of the events that day&lt;/a&gt;, a story with a custom layout I hand coded late one night. We used social media to tell readers what we knew and how to get help. We lowered our paywall on resources for victims of the mudslide. (Read editor Kathy Best’s thoughts on that in &lt;a href=&quot;http://www.poynter.org/latest-news/mediawire/246699/why-the-seattle-times-lowered-its-paywall-during-the-mudslide-but-didnt-suspend-it/&quot;&gt;this Poynter piece&lt;/a&gt;.)&lt;/p&gt;
-
-&lt;p&gt;It was exhausting in many ways, but it’s impossible to work on a story like this and not see the significance journalism has. &lt;a href=&quot;http://seattletimes.com/flatpages/local/oso-mudslide-coverage.html&quot;&gt;See all coverage of the Oso mudslide.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 22 Mar 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2014/03/22/oso-mudslide.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/03/22/oso-mudslide.html</guid>
         
         
       </item>
