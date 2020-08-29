@@ -215,8 +215,31 @@
 section.intro {
   width: 100%;
   margin: 0 .5em 2em 0;
-  font-size: 1.5em;
+  font-size: 1em;
   line-height: $base-line-height;
+
+  @include breakpoint(600) {
+      font-size: 1.2em;
+  }
+
+  @include breakpoint(768) {
+      width: 100%;
+      font-size: 1.3em;
+  }
+}
+
+section.intro figure {
+  width: 100%;
+
+  @include breakpoint(600) {
+    width: 45%;
+    margin-right: 1em;
+    float: left;
+  }
+
+  @include breakpoint(768) {
+    width: 35%;
+  }
 }
 
 section.intro p span::before {
