@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 <h1 class="post-title">Portfolio</h1>
 
-<ul>
+<ul class="post-list">
 {% for category in site.categories %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
