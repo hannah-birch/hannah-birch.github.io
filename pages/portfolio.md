@@ -6,12 +6,26 @@ permalink: /portfolio/
 
 <h1 class="post-title">Portfolio</h1>
 
-<ul class="post-list">
+<ul>
+{% for category in site.categories %}
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    {% for post in category.last %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>
+
+
+
+<!-- <ul class="post-list">
   {% for post in site.posts %}
   {% if post.layout == 'link' %}  
     <li>
     <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}</p>
-    <p class="post-meta">{{ post.content-type }}</p>
+    <p class="post-meta">{{ post.category }}</p>
     <h2>
       <a class="post-link" href="{{ post.source-url }}">{{ post.title }}</a>
     </h2>
@@ -21,7 +35,7 @@ permalink: /portfolio/
   {% else %}
     <li>
       <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}</p>
-      <p class="post-meta">{{ post.content-type }}</p>
+      <p class="post-meta">{{ post.category }}</p>
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
@@ -29,4 +43,4 @@ permalink: /portfolio/
     </li>
       {% endif %}
   {% endfor %}
-</ul>
+</ul> -->

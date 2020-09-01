@@ -1,8 +1,8 @@
 ---
 layout: default
 date: 2013-09-05
-content-type: "Page layout and design"
 summary: "Another producer and I tag-teamed with the Seattle Times sports desk to take design pieces originally intended for print and translate them effectively to the web."
+category: Page layout
 ---
 
 ## Seahawks 2013 season preview

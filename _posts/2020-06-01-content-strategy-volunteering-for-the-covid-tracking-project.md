@@ -1,8 +1,8 @@
 ---
 layout: default
 date: 2020-06-01
-content-type: "Content strategy"
 summary: "I started volunteering on The COVID Tracking Project in June, advising on content strategy and editing site content and posts."
+category: Content strategy
 ---
 
 ## Content strategy and editing for The COVID Tracking Project
