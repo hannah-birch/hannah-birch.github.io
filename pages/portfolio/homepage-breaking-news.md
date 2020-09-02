@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homepage and Breaking News
-permalink: homepage-breaking-news/the-seattle-times
+nav-exclude: true
 ---
 
 <figure>
