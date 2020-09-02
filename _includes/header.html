@@ -5,15 +5,17 @@
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <!-- this works -->
-        <nav class="site-nav">
-          <div class="trigger">
-            {% for page in site.pages %}
-              {% if page.title %}
-              <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        </nav>
+    <nav class="site-nav">
+      <div class="trigger">
+        {% for page in site.pages %}
+          {% unless page.nav-exclude %}
+            {% if page.title %}
+            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            {% endif %}
+          {% endunless %}
+        {% endfor %}
+      </div>
+    </nav>
 
   </div>
 
