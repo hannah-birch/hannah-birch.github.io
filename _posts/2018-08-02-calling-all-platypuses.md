@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: default
 date: 2018-08-02
 outlet: Source
 summary: "You’re at the intersection of editorial, code, design, and product, and we’re looking for you."

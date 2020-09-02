@@ -20,7 +20,7 @@ permalink: /portfolio/
 <ul>
   <h2>Homepage production and breaking news coverage</h2>
   <ul>
-    <li>I handled a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, and big news from Boeing and Microsoft while I was a news producer at The Seattle Times.<a href="/homepage-breaking-news/">Here’s a detailed rundown.</a></li>
+    <li>I handled a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, and big news from Boeing and Microsoft while I was a news producer at The Seattle Times.<a href="/homepage-breaking-news/the-seattle-times">Here’s a detailed rundown.</a></li>
   </ul>
 </ul>
 
