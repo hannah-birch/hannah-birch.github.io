@@ -6,23 +6,18 @@ permalink: /portfolio/
 
 <h1 class="post-title">Portfolio</h1>
 
-<ul>
-{% for category in site.categories %}
-  <h2>{{ category | first }}</h2>
-    <ul>
-    {% for post in category.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a>{{ post.outlet }}</li>
-    {% endfor %}
-    </ul>
-{% endfor %}
-</ul>
+<h3>Homepage production and breaking news coverage</h3>
+  <p>I handled a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, and big news from Boeing and Microsoft while I was a news producer at The Seattle Times. <a href="/homepage-breaking-news/the-seattle-times">Here’s a detailed rundown.</a></p>
 
-<ul>
-  <h2>Homepage production and breaking news coverage</h2>
-  <ul>
-    <li>I handled a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, and big news from Boeing and Microsoft while I was a news producer at The Seattle Times.<a href="https://hannahsbirch.com/homepage-breaking-news/the-seattle-times">Here’s a detailed rundown.</a></li>
-  </ul>
-</ul>
+{% for category in site.categories %}
+  <h3>{{ category | first }}</h3>
+  {% for post in category.last %}
+  <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}
+  {% endfor %}
+{% endfor %}
+
+
+
 
 
 
