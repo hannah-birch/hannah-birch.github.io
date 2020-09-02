@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Homepage and Breaking News
+permalink: /portfolio/homepage-breaking-news/
 nav-exclude: true
 ---
 
