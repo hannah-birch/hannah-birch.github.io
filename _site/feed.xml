@@ -5,8 +5,8 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Sep 2020 23:01:03 -0400</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2020 23:01:03 -0400</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2020 23:17:44 -0400</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2020 23:17:44 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -108,6 +108,21 @@
         
         
         <category>Project management and production</category>
+        
+      </item>
+    
+      <item>
+        <title>Calling All Platypuses</title>
+        <description>&lt;h2 id=&quot;calling-all-platypuses&quot;&gt;Calling All Platypuses&lt;/h2&gt;
+
+&lt;p&gt;I wrote a post for Source to bring more attention to some community-building I’ve been doing with other people at the intersection of journalism and tech. &lt;a href=&quot;https://source.opennews.org/articles/calling-all-platypuses/&quot;&gt;Read the piece.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Aug 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/writing/2018/08/02/calling-all-platypuses.html</link>
+        <guid isPermaLink="true">http://localhost:4000/writing/2018/08/02/calling-all-platypuses.html</guid>
+        
+        
+        <category>Writing</category>
         
       </item>
     
@@ -228,35 +243,6 @@ Every time that happens, I cringe.&lt;/p&gt;
         
         
         <category>Illustration</category>
-        
-      </item>
-    
-      <item>
-        <title>Best Of The Northwest</title>
-        <description>&lt;h2 id=&quot;best-of-the-northwest-ceo-pay&quot;&gt;Best of the Northwest, CEO Pay&lt;/h2&gt;
-
-&lt;figure class=&quot;inset&quot;&gt;
-  &lt;img src=&quot;/assets/img/20140621-best-northwest-1.png&quot; alt=&quot;A screenshot of a story with a sidebar with graphics&quot; /&gt;
-  &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Our digital team put together a revamped version of Best of the Northwest, The Seattle Times’ annual ranking of publicly traded Northwest companies. The roundup included a highly sortable chart, put together by a newsroom developer, and an interactive landing page, spearheaded by the same developer and our lead digital producer.&lt;/p&gt;
-
-&lt;p&gt;I helped design story-level packaging for Best of the Northwest, incorporating nuances from the print design and other parts of the project. I also built out homepage packages for each piece, keeping an eye on traffic and engagement time.&lt;/p&gt;
-
-&lt;figure class=&quot;inset&quot;&gt;
-  &lt;img src=&quot;/assets/img/20140621-best-northwest-2.png&quot; alt=&quot;A screenshot of a story with a sidebar with graphics&quot; /&gt;
-  &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Our yearly look at what local CEOs got paid ran a week after Best of the Northwest. This was less labor intensive for our developer because &lt;a href=&quot;http://seattletimes.com/html/localpages/2023892102_ceo-pay-2014.html&quot;&gt;the accompanying chart&lt;/a&gt; wasn’t as robust. However, it was challenging to make the print design elements translate to the web. I designed and built out &lt;a href=&quot;http://seattletimes.com/html/businesstechnology/2023899334_ceopaymainxml.html&quot;&gt;a sidebar&lt;/a&gt; that accompanied each of the nine stories in the section, pulling in the big illustration from print and making sure other important elements were surfaced. And I coordinated with editors on homepage play.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Jun 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/page%20layout%20and%20digital%20design/2014/06/21/best-of-the-northwest.html</link>
-        <guid isPermaLink="true">http://localhost:4000/page%20layout%20and%20digital%20design/2014/06/21/best-of-the-northwest.html</guid>
-        
-        
-        <category>Page layout and digital design</category>
         
       </item>
     
