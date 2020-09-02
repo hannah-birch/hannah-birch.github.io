@@ -6,17 +6,17 @@ permalink: /portfolio/
 
 <h1 class="post-title">Portfolio</h1>
 
-<ul class="post-list">
+<ul>
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
+  <h2>{{ category | first }}</h2>
     <ul>
     {% for post in category.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a>{{ post.outlet }}</li>
     {% endfor %}
     </ul>
-  </li>
 {% endfor %}
 </ul>
+
 
 
 

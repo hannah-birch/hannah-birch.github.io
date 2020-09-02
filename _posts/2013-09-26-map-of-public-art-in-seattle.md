@@ -1,6 +1,7 @@
 ---
 layout: default
 date: 2013-09-26
+outlet: The Seattle Times
 summary: "I built an interactive map of nearly 400 pieces of public art around Seattle. This was packaged with a Seattle Times art critic’s top picks for public artwork in the city."
 category: Interactive map
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 date: 2018-05-16
+outlet: ProPublica
 summary: "I commissioned a set of illustrations and produced a series of stories about the heart transplant program at St. Luke’s in Houston."
 category: Art direction
 ---
