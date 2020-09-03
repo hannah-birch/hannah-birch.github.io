@@ -6,16 +6,10 @@ permalink: /portfolio/
 
 <h1 class="post-title">Portfolio</h1>
 
-<<<<<<< HEAD
 <h2>Homepage production and breaking news coverage</h2>
 <p>I contributed to the work of The Seattle Times’ digital team during a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, big business news from Boeing and Microsoft, and more. <a href="/portfolio/homepage-breaking-news/">Here’s a detailed rundown.</a></p>
 
 <p>More projects are below.</p>
-
-<ul class="post-list">
-=======
-<h3>Homepage production and breaking news coverage</h3>
-  <p>I handled a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, and big news from Boeing and Microsoft while I was a news producer at The Seattle Times. <a href="/homepage-breaking-news/the-seattle-times">Here’s a detailed rundown.</a></p>
 
 {% for category in site.categories %}
   <h3>{{ category | first }}</h3>
@@ -24,13 +18,7 @@ permalink: /portfolio/
   {% endfor %}
 {% endfor %}
 
-
-
-
-
-
-<!-- <ul class="post-list">
->>>>>>> dev
+<!--
   {% for post in site.posts %}
   {% if post.layout == 'link' %}  
     <li>
