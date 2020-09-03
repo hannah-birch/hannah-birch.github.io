@@ -1,8 +1,9 @@
 ---
 layout: default
 date: 2018-12-06
-content-type: "Visual editing, design and production"
+outlet: ProPublica
 summary: "I led the photo edit and production for Joaquin Sapien’s wrenching reporting on an ambitious housing program for mentally ill New Yorkers and how some of the most vulnerable slipped through the cracks."
+category: Art direction
 ---
 
 ## Living Apart, Coming Undone

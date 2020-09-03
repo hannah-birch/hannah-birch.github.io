@@ -1,15 +1,16 @@
 ---
 layout: default
 date: 2020-08-05
-content-type: "Writing, art direction"
+outlet: Metropolitan Transportation Authority
 summary: "I rewrote and redesigned the MTA’s bike page, capitalizing on the surge of biking in the city during the COVID-19 pandemic."
+category: Content strategy
 ---
 
 ## How to bring your bike with you on NYC public transit
 
-The most common question we get about bikes in New York City is if you can take them on the subway. (Yes, you can, but please avoid rush hour.) As the pandemic stretched on in New York and people lined up to buy bicycles, I redesigned and rewrote [the bike page on the MTA site](https://new.mta.info/guides/bikes). 
+The most common question we get about bikes in New York City is if you can take them on the subway. (Yes, you can, but please avoid rush hour.) As the pandemic stretched on in New York and people lined up to buy bicycles, I redesigned and rewrote [the bike page on the MTA site](https://new.mta.info/guides/bikes).
 
-I started by migrating all of the content from the old page onto our new site. I researched rules and guidelines and interviewed co-workers, then rewrote the page. I also included information about non-MTA cycling resources, like the city Department of Transportation’s maps and the Citi Bike bike-share program. 
+I started by migrating all of the content from the old page onto our new site. I researched rules and guidelines and interviewed co-workers, then rewrote the page. I also included information about non-MTA cycling resources, like the city Department of Transportation’s maps and the Citi Bike bike-share program.
 
 <img src="/assets/img/20200805-mta-bike-page-before-after-composite.png" alt="Two screenshots side-by-side, showing a web page with large photos and organized text, compared to an outdated-looking page that’s mostly text."/>
 <figcaption>The new MTA bike page, left, compared to the old one.</figcaption>

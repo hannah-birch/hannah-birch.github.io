@@ -1,8 +1,9 @@
 ---
 layout: default
 date: 2016-10-21
-content-type: "Illustration"
+outlet: ProPublica
 summary: "I made an illustration to go with a ProPublica story about Google dropping its ban on personally identifiable web tracking."
+category: Illustration
 ---
 
 ## Google is watching you.

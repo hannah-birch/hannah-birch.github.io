@@ -1,8 +1,9 @@
 ---
 layout: default
 date: 2015-01-23
-content-type: "Illustration"
-summary: "I used Sketch.app and Photoshop to create this vector illustration for a ProPublica story about municipal Internet."
+outlet: ProPublica
+summary: "I used Sketch and Photoshop to create this vector illustration for a ProPublica story about municipal Internet."
+category: Illustration
 ---
 
 ##  Vector illustration for municipal Internet explainer

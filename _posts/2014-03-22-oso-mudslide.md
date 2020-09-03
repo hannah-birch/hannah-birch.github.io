@@ -1,8 +1,9 @@
 ---
 layout: default
 date: 2014-03-22
-content-type: "Breaking news coverage"
+outlet: The Seattle Times
 summary: "I was part of a team at The Seattle Times that won a Pulitzer Prize for breaking news coverage of the Oso mudslide in 2014."
+category: Breaking news coverage
 ---
 
 ##  Breaking news coveage: Oso mudslide
