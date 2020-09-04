@@ -38,11 +38,10 @@ ul, ol, dl, figure,
 }
 
 hr {
-  background: #d8d6d3;
-  margin: 2em 1em;
-  @include breakpoint(600) {
-    margin: 2em 6em;
-  }
+  width: 33%;
+  margin-left: 33%;
+  color: $accent-color;
+  display: inline-block;
 }
 
 
