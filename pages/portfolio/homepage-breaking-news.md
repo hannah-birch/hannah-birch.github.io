@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Homepage and Breaking News
-<<<<<<< HEAD:pages/portfolio/homepage-breaking-news.md
-permalink: /portfolio/homepage-breaking-news/
-=======
->>>>>>> dev:pages/portfolio/homepage-breaking-news.md
+permalink: /homepage-breaking-news/
 nav-exclude: true
 ---
 

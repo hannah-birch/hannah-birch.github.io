@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2020-06-01
-outlet: Metropolitan Transportation Authority
+outlet: The COVID Tracking Project at The Atlantic
 summary: "I started volunteering on The COVID Tracking Project in June, advising on content strategy and editing site content and posts."
 category: Content strategy
 ---
