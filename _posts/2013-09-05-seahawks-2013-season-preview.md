@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 date: 2013-09-05
 outlet: The Seattle Times
 summary: "Another producer and I tag-teamed with the Seattle Times sports desk to take design pieces originally intended for print and translate them effectively to the web."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 date: 2020-06-01
 outlet: The COVID Tracking Project at The Atlantic
 summary: "I started volunteering on The COVID Tracking Project in June, advising on content strategy and editing site content and posts."

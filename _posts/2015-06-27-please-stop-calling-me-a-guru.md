@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 date: 2015-06-27
 summary: "The last thing I want to do is give people who don’t understand my job an excuse to continue to do so, and that’s exactly what such a mystical titles does."
 category: Writing

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 date: 2015-01-23
 outlet: ProPublica
 summary: "I used Sketch and Photoshop to create this vector illustration for a ProPublica story about municipal Internet."

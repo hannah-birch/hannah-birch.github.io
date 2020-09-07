@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 date: 2014-03-01
 outlet: The Seattle Times
 summary: "I was the production lead on Education Lab, a yearlong series produced in partnership with the Solutions Journalism Network, with grants from the Bill & Melinda Gates Foundation and the John S. and James L. Knight Foundation."
