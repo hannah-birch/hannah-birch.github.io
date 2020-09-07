@@ -3,6 +3,7 @@ layout: post
 date: 2015-06-27
 summary: "The last thing I want to do is give people who don’t understand my job an excuse to continue to do so, and that’s exactly what such a mystical titles does."
 category: Writing
+outlet: Self-published
 ---
 
 ## Please stop calling me a guru.
@@ -37,4 +38,4 @@ So I get it. The organization of the Web world in the context of a newsroom is f
 
 Please call me a producer. I swear I will patiently explain my job as often as needed. Because after years of doing this, I’ve realized the only way to make my title more familiar is to use it more often.
 
-[Post-publication edit (hat-tip to Terry Parris Jr.). This post in a nutshell: https://m.youtube.com/watch?v=KgmO32IdwuE]
+_Post-publication edit, with thanks to Terry Parris Jr.: [Here’s a video](https://m.youtube.com/watch?v=KgmO32IdwuE) of this post in a nutshell._
