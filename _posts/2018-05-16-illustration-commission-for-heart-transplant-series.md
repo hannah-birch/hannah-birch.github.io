@@ -1,12 +1,13 @@
 ---
 layout: post
 date: 2018-05-16
+title: Illustration commissions for Heart Failure series
 outlet: ProPublica
 summary: "I commissioned a set of illustrations and produced a series of stories about the heart transplant program at St. Luke’s in Houston."
 category: Art direction
 ---
 
-## Heart Failure
+## Illustration commission: Heart failure
 
 <figure class="inset">
     <img src="/assets/img/20180516-heart-failure.jpg" alt="A screenshot of the opening art of a story, showing an illustration of a pair of hands stitching a heart with medical instruments nearby"/>

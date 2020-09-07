@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2015-06-27
+title: Calling digital journalists “gurus” is a cop-out
 summary: "The last thing I want to do is give people who don’t understand my job an excuse to continue to do so, and that’s exactly what such a mystical titles does."
 category: Writing
 outlet: Self-published

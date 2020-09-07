@@ -5,13 +5,39 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Sep 2020 13:25:14 -0400</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2020 13:25:14 -0400</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2020 15:17:24 -0400</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2020 15:17:24 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>Overhauling The Fares Section For The Mta</title>
-        <description>&lt;h2 id=&quot;overhauling-the-fares-section-for-the-mta-site&quot;&gt;Overhauling the Fares Section for the MTA Site&lt;/h2&gt;
+        <title></title>
+        <description>&lt;h2 id=&quot;breaking-news-coveage-oso-mudslide&quot;&gt;Breaking news coveage: Oso mudslide&lt;/h2&gt;
+
+&lt;figure class=&quot;inset&quot;&gt;
+  &lt;img src=&quot;/assets/img/20140322-mudslide.jpg&quot; alt=&quot;A screenshot of a story with a photo of a mudslide&quot; /&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I was the only producer in the building on Saturday, March 22, when I saw tweets from a PIO with the sheriff’s office that there was a house in the road after a mudslide near Darrington. I worked with a metro editor to assess the scale of the slide, updating our social media accounts and the homepage as we got information. I realized this was by far the biggest story I’d worked on, at the Times or elsewhere.&lt;/p&gt;
+
+&lt;p&gt;The next two weeks were a blur. The digital team worked long, harried hours keeping the website updated with the work produced by more than 30 reporters and countless editors and managers. We had &lt;a href=&quot;http://seattletimes.com/html/localnews/2023218573_mudslidewarningsxml.html&quot;&gt;watchdog stories&lt;/a&gt; running within days of the slide. We built a hugely popular &lt;a href=&quot;http://seattletimes.com/flatpages/local/interactivebeforeandafterthe530mudslide.html&quot;&gt;before-and-after interactive&lt;/a&gt; that was the centerpiece on SeattleTimes.com for the better part of a day. We put together a &lt;a href=&quot;http://seattletimes.com/flatpages/local/victimsoftheosomudslide.html&quot;&gt;page memorializing victims&lt;/a&gt; of the slide. We had too many daily stories and blog posts to count, tracking updates as search efforts continued.&lt;/p&gt;
+
+&lt;p&gt;Thirty-one reporters contributed to a &lt;a href=&quot;http://seattletimes.com/html/localnews/2023259205_mudslidenarrativexml.html&quot;&gt;narrative of the events that day&lt;/a&gt;, a story with a custom layout I hand coded late one night. We used social media to tell readers what we knew and how to get help. We lowered our paywall on resources for victims of the mudslide. (Read editor Kathy Best’s thoughts on that in &lt;a href=&quot;http://www.poynter.org/latest-news/mediawire/246699/why-the-seattle-times-lowered-its-paywall-during-the-mudslide-but-didnt-suspend-it/&quot;&gt;this Poynter piece&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;It was exhausting in many ways, but it’s impossible to work on a story like this and not see the significance journalism has.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://special.seattletimes.com/o/flatpages/local/oso-mudslide-coverage.html&quot;&gt;See all coverage of the Oso mudslide.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Sep 2020 15:17:24 -0400</pubDate>
+        <link>http://localhost:4000/2020-09-07/2014-03-22-oso-mudslide.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-09-07/2014-03-22-oso-mudslide.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Overhauling the fares section for the MTA site</title>
+        <description>&lt;h2 id=&quot;overhauling-the-fares-section-for-the-mta-site&quot;&gt;Overhauling the fares section for the MTA site&lt;/h2&gt;
 
 &lt;p&gt;One of the most highly trafficked parts of the MTA website is the fares and tolls section. In order to make the pages easier for riders to find and use, I developed a phased reorganization to address these problems:&lt;/p&gt;
 
@@ -84,7 +110,7 @@
       </item>
     
       <item>
-        <title>How To Bring Your Bike On Public Transit</title>
+        <title>How to bring your bike with you on NYC public transit</title>
         <description>&lt;h2 id=&quot;how-to-bring-your-bike-with-you-on-nyc-public-transit&quot;&gt;How to bring your bike with you on NYC public transit&lt;/h2&gt;
 
 &lt;p&gt;The most common question we get about bikes in New York City is if you can take them on the subway. (Yes, you can, but please avoid rush hour.) As the pandemic stretched on in New York and people lined up to buy bicycles, I redesigned and rewrote &lt;a href=&quot;https://new.mta.info/guides/bikes&quot;&gt;the bike page on the MTA site&lt;/a&gt;.&lt;/p&gt;
@@ -110,7 +136,7 @@
       </item>
     
       <item>
-        <title>Content Strategy Volunteering For The Covid Tracking Project</title>
+        <title>Content strategy and editing for The COVID Tracking Project</title>
         <description>&lt;h2 id=&quot;content-strategy-and-editing-for-the-covid-tracking-project&quot;&gt;Content strategy and editing for The COVID Tracking Project&lt;/h2&gt;
 
 &lt;p&gt;I had admired The COVID Tracking Project from a distance since March and jumped in in June to help reorganize the site. What had started as a homegrown reporting project had turned into one of the most complete COVID datasets in the country. With the rapid growth came a necessarily ad hoc site structure that the content had outgrown.&lt;/p&gt;
@@ -128,8 +154,8 @@
       </item>
     
       <item>
-        <title>Social Engineering In Newsrooms With Hamilton And Burr</title>
-        <description>&lt;h2 id=&quot;social-engineering-in-newsrooms-with-hamilton-and-burr&quot;&gt;Social Engineering in Newsrooms with Hamilton and Burr&lt;/h2&gt;
+        <title>Social engineering in newsrooms with Hamilton and Burr</title>
+        <description>&lt;h2 id=&quot;social-engineering-in-newsrooms-with-hamilton-and-burr&quot;&gt;Social engineering in newsrooms with Hamilton and Burr&lt;/h2&gt;
 
 &lt;p&gt;Alexander Hamilton and Aaron Burr, two of the most successful guys operating during the dawn of American politics, faced a problem very similar to the ones we have in newsrooms today. They wanted to get things done at a breakneck pace, but the politics of dealing with other people slowed them down.&lt;/p&gt;
 
@@ -150,7 +176,7 @@
       </item>
     
       <item>
-        <title>Photo Edit For Supported Housing Story</title>
+        <title>Photo commission for supported housing series</title>
         <description>&lt;h2 id=&quot;living-apart-coming-undone&quot;&gt;Living Apart, Coming Undone&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/20181206-supported-housing-lead.png&quot; alt=&quot;A screenshot of the opening art of a story, showing a man sitting surrounded by his belongings in his apartment in Flatbush, Brooklyn&quot; /&gt;&lt;/p&gt;
@@ -180,7 +206,7 @@
       </item>
     
       <item>
-        <title>Electionland 2018</title>
+        <title>Covering access to the vote with Electionland 2018</title>
         <description>&lt;h2 id=&quot;covering-access-to-the-vote-in-real-time&quot;&gt;Covering access to the vote in real time&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/20181106-electionland.jpg&quot; alt=&quot;The Electionland newsroom&quot; /&gt;&lt;/p&gt;
@@ -223,8 +249,8 @@
       </item>
     
       <item>
-        <title>Illustration Commission For Heart Transplant Series</title>
-        <description>&lt;h2 id=&quot;heart-failure&quot;&gt;Heart Failure&lt;/h2&gt;
+        <title>Illustration commissions for Heart Failure series</title>
+        <description>&lt;h2 id=&quot;illustration-commission-heart-failure&quot;&gt;Illustration commission: Heart failure&lt;/h2&gt;
 
 &lt;figure class=&quot;inset&quot;&gt;
     &lt;img src=&quot;/assets/img/20180516-heart-failure.jpg&quot; alt=&quot;A screenshot of the opening art of a story, showing an illustration of a pair of hands stitching a heart with medical instruments nearby&quot; /&gt;
@@ -247,7 +273,7 @@
       </item>
     
       <item>
-        <title>Google Privacy Illo</title>
+        <title>Illustration for Google privacy story</title>
         <description>&lt;h2 id=&quot;google-is-watching-you&quot;&gt;Google is watching you.&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/20161021-google-privacy-630x420.jpg&quot; alt=&quot;Google logo with eyeballs instead of O's&quot; /&gt;&lt;/p&gt;
@@ -262,21 +288,6 @@
         
         
         <category>Illustration</category>
-        
-      </item>
-    
-      <item>
-        <title>Battling Government Bureaucracy As An Edge Case</title>
-        <description>&lt;h2 id=&quot;my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win&quot;&gt;My Story as a DMV Edge Case: How to Battle Bureaucracy and Win&lt;/h2&gt;
-
-&lt;p&gt;When I showed up with paperwork for my low-vision condition, the DMV was totally baffled. Here’s how I walked them through an edge case and how you can use the strategies yourself. &lt;a href=&quot;https://www.propublica.org/article/my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win&quot;&gt;Read the full story.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016-02-18/battling-government-bureaucracy-as-an-edge-case.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016-02-18/battling-government-bureaucracy-as-an-edge-case.html</guid>
-        
-        
-        <category>Writing</category>
         
       </item>
     

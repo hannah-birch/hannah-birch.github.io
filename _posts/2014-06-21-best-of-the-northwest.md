@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2014-06-21
+title: Best of the Northwest, CEO pay
 outlet: The Seattle Times
 summary: "I helped design story-level packaging for Best of the Northwest, incorporating nuances from the print design and other parts of the project. I also built out homepage packages for each piece, keeping an eye on traffic and engagement time."
 category: Page layout and digital design

@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2018-12-06
+title: Photo commission for supported housing series
 outlet: ProPublica
 summary: "I led the photo edit and production for Joaquin Sapien’s wrenching reporting on an ambitious housing program for mentally ill New Yorkers and how some of the most vulnerable slipped through the cracks."
 category: Art direction

@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2016-10-21
+title: Illustration for Google privacy story
 outlet: ProPublica
 summary: "I made an illustration to go with a ProPublica story about Google dropping its ban on personally identifiable web tracking."
 category: Illustration

@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-08-05
+title: How to bring your bike with you on NYC public transit
 outlet: Metropolitan Transportation Authority
 summary: "I rewrote and redesigned the MTA’s bike page, capitalizing on the surge of biking in the city during the COVID-19 pandemic."
 category: Content strategy

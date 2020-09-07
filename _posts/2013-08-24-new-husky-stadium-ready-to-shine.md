@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2013-08-24
+title: New, improved Husky Stadium
 outlet: The Seattle Times
 summary: "I worked with another producer and the Seattle Times graphics and sports desks to create a custom layout for a special package detailing the newly renovated stadium at the University of Washington."
 category: Page layout and digital design

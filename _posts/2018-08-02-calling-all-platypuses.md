@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2018-08-02
+title: Calling All Platypuses
 outlet: Source
 summary: "You’re at the intersection of editorial, code, design, and product, and we’re looking for you."
 source-url: https://source.opennews.org/articles/calling-all-platypuses/

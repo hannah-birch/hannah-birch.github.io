@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-06-01
+title: Content strategy and editing for The COVID Tracking Project
 outlet: The COVID Tracking Project at The Atlantic
 summary: "I started volunteering on The COVID Tracking Project in June, advising on content strategy and editing site content and posts."
 category: Content strategy

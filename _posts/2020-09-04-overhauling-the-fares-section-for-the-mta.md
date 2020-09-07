@@ -1,12 +1,13 @@
 ---
 layout: post
 date: 2020-09-04
+title: Overhauling the fares section for the MTA site
 outlet: Metropolitan Transportation Authority
 summary: "I audited the sprawling fares and tolls section of the MTA’s site, wrote and rewrote copy, restructured the page hierarchy, and rewired everything in the CMS."
 category: Content strategy
 ---
 
-## Overhauling the Fares Section for the MTA Site
+## Overhauling the fares section for the MTA site
 
 One of the most highly trafficked parts of the MTA website is the fares and tolls section. In order to make the pages easier for riders to find and use, I developed a phased reorganization to address these problems:
 

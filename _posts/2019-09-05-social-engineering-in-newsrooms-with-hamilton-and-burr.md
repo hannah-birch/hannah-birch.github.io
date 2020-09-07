@@ -1,12 +1,13 @@
 ---
 layout: post
 date: 2019-09-05
+title: Social engineering in newsrooms with Hamilton and Burr
 outlet: Source
 summary: "I used dueling/singing historical personalities to reframe communication challenges at work during a session at SRCCON."
 category: Writing
 ---
 
-## Social Engineering in Newsrooms with Hamilton and Burr
+## Social engineering in newsrooms with Hamilton and Burr
 
 Alexander Hamilton and Aaron Burr, two of the most successful guys operating during the dawn of American politics, faced a problem very similar to the ones we have in newsrooms today. They wanted to get things done at a breakneck pace, but the politics of dealing with other people slowed them down.
 
