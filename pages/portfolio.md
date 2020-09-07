@@ -9,7 +9,7 @@ permalink: /portfolio/
 <h2>Homepage production and breaking news coverage</h2>
 <p>I contributed to the work of The Seattle Times’ digital team during a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, big business news from Boeing and Microsoft, and more. <a href="/homepage-breaking-news/">Here’s a detailed rundown.</a></p>
 
-<p>More projects are below.</p>
+<h2>Projects</h2>
 
 <h3>Content strategy</h3>
 
@@ -66,15 +66,3 @@ permalink: /portfolio/
   {% for post in site.categories['Interactive map'] %}
     <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}
   {% endfor %}
-
-
-
-
-
-
-<!-- {% for category in site.categories %}
-  <h3>{{ category | first }}</h3>
-  {% for post in category.last %}
-  <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}
-  {% endfor %}
-{% endfor %} -->
