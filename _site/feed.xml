@@ -5,8 +5,8 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Sep 2020 23:49:29 -0400</pubDate>
-    <lastBuildDate>Sun, 06 Sep 2020 23:49:29 -0400</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2020 00:04:20 -0400</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:04:20 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -50,6 +50,28 @@
         
         
         <category>Content strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Social Engineering In Newsrooms With Hamilton And Burr</title>
+        <description>&lt;h2 id=&quot;social-engineering-in-newsrooms-with-hamilton-and-burr&quot;&gt;Social Engineering in Newsrooms with Hamilton and Burr&lt;/h2&gt;
+
+&lt;p&gt;Alexander Hamilton and Aaron Burr, two of the most successful guys operating during the dawn of American politics, faced a problem very similar to the ones we have in newsrooms today. They wanted to get things done at a breakneck pace, but the politics of dealing with other people slowed them down.&lt;/p&gt;
+
+&lt;p&gt;To talk about this, I put together a session at SRCCON in 2019 so conference attendees could explore these topics as a group.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://source.opennews.org/articles/hamilton-and-burr/&quot;&gt;Here’s the piece I wrote&lt;/a&gt; after the session. I recapped suggestions for how to approach challenges like being stuck between two managers, having someone quietly kill your idea, accidentally overstepping someone, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2019-09-05-hamilton-burr-post-its.jpg&quot; alt=&quot;A woman with curly blonde hair holds sticky notes for people gathered around, sorting the sticky notes into groups.&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A photo from the conference session at SRCCON. (Credit: Keila Vizcarra)&lt;/figcaption&gt;
+</description>
+        <pubDate>Thu, 05 Sep 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/writing/2019/09/05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</link>
+        <guid isPermaLink="true">http://localhost:4000/writing/2019/09/05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</guid>
+        
+        
+        <category>Writing</category>
         
       </item>
     
@@ -170,14 +192,14 @@
       </item>
     
       <item>
-        <title>How To Battle Government Bureaucracy When You Are An Edge Case</title>
+        <title>Battling Government Bureaucracy As An Edge Case</title>
         <description>&lt;h2 id=&quot;my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win&quot;&gt;My Story as a DMV Edge Case: How to Battle Bureaucracy and Win&lt;/h2&gt;
 
 &lt;p&gt;When I showed up with paperwork for my low-vision condition, the DMV was totally baffled. Here’s how I walked them through an edge case and how you can use the strategies yourself. &lt;a href=&quot;https://www.propublica.org/article/my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win&quot;&gt;Read the full story.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 18 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/writing/2016/02/18/how-to-battle-government-bureaucracy-when-you-are-an-edge-case.html</link>
-        <guid isPermaLink="true">http://localhost:4000/writing/2016/02/18/how-to-battle-government-bureaucracy-when-you-are-an-edge-case.html</guid>
+        <link>http://localhost:4000/writing/2016/02/18/battling-government-bureaucracy-as-an-edge-case.html</link>
+        <guid isPermaLink="true">http://localhost:4000/writing/2016/02/18/battling-government-bureaucracy-as-an-edge-case.html</guid>
         
         
         <category>Writing</category>
@@ -226,23 +248,6 @@ Every time that happens, I cringe.&lt;/p&gt;
         
         
         <category>Writing</category>
-        
-      </item>
-    
-      <item>
-        <title>Illustration For Municipal Internet Explainer</title>
-        <description>&lt;h2 id=&quot;vector-illustration-for-municipal-internet-explainer&quot;&gt;Vector illustration for municipal Internet explainer&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/20150123-internet-access-630x420.jpg&quot; alt=&quot;An illustration showing a cityscape with an internet cord alongside the buildings&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I used Sketch.app and Photoshop to create this vector illustration for a &lt;a href=&quot;http://www.propublica.org/article/obama-wants-you-to-have-cheap-fast-internet-but-many-cities-arent-allowed-t&quot;&gt;ProPublica story&lt;/a&gt; about municipal Internet.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/illustration/2015/01/23/illustration-for-municipal-internet-explainer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/illustration/2015/01/23/illustration-for-municipal-internet-explainer.html</guid>
-        
-        
-        <category>Illustration</category>
         
       </item>
     
