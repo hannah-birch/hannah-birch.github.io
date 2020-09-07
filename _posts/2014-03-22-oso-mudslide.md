@@ -20,4 +20,6 @@ The next two weeks were a blur. The digital team worked long, harried hours keep
 
 Thirty-one reporters contributed to a [narrative of the events that day](http://seattletimes.com/html/localnews/2023259205_mudslidenarrativexml.html), a story with a custom layout I hand coded late one night. We used social media to tell readers what we knew and how to get help. We lowered our paywall on resources for victims of the mudslide. (Read editor Kathy Best’s thoughts on that in [this Poynter piece](http://www.poynter.org/latest-news/mediawire/246699/why-the-seattle-times-lowered-its-paywall-during-the-mudslide-but-didnt-suspend-it/).)
 
-It was exhausting in many ways, but it’s impossible to work on a story like this and not see the significance journalism has. [See all coverage of the Oso mudslide.](http://seattletimes.com/flatpages/local/oso-mudslide-coverage.html)
+It was exhausting in many ways, but it’s impossible to work on a story like this and not see the significance journalism has.
+
+[See all coverage of the Oso mudslide.](https://special.seattletimes.com/o/flatpages/local/oso-mudslide-coverage.html)
