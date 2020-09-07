@@ -96,10 +96,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 @media screen and (min-width: 37.5em) { .footer-col-1, .footer-col-2 { width: -webkit-calc(50% - (2em / 2)); width: calc(50% - (2em / 2)); }
   .footer-col-3 { width: -webkit-calc(100% - (2em / 2)); width: calc(100% - (2em / 2)); } }
-/*@include media-query($on-palm) { .footer-col { float: none; width: -webkit-calc(100% - (2em / 2)); width:         calc(100% - (2em / 2)); }
-}*/
 /** Page content */
-.page-content { padding: 2em 0 2em 0; width: 95%; margin: 0 auto; }
+.page-content { padding: 2em 0 0 0; width: 95%; margin: 0 auto; }
 .page-content a { color: #29335C; }
 @media screen and (min-width: 37.5em) { .page-content { width: 100%; } }
 @media screen and (min-width: 48em) { .page-content { width: 100%; } }
@@ -109,14 +107,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .page-heading { margin-bottom: 2em; line-height: 0.75; }
 .page-heading:after { content: url(../assets/img/accent-underline.svg); display: block; }
 
-.post-list { margin-left: 0; list-style: none; }
-.post-list > li { margin-bottom: 4em; margin-top: 4em; }
-.post-list > li > h2 { font-size: 1.75em; margin-bottom: 0.5em; margin-top: 0.5em; line-height: 1.25; }
-.post-list p.post-meta { font-size: 0.75em; color: #29335C; line-height: 0.95; }
-
-.post-accent { font-size: 0.48em; color: #29335C; }
-
-.post-link { display: block; font-size: 24px; }
+p.meta { font-size: 0.75em; line-height: 0.95; }
 
 section.intro { width: 100%; margin: 0 .5em 2em 0; font-size: 1em; line-height: 1.5em; }
 @media screen and (min-width: 37.5em) { section.intro { font-size: 1.2em; } }
@@ -134,7 +125,7 @@ section.intro p span.adjective { color: #29335C; }
 
 div.highlights { margin: 1em 0; }
 
-/** Posts */
+/** Posts on writing page */
 .post-header { margin-bottom: 2em; line-height: 0.75; }
 .post-header :after { content: url(../assets/img/accent-underline.svg); display: block; }
 
@@ -142,9 +133,8 @@ div.highlights { margin: 1em 0; }
 .post-title:after { content: url(../assets/img/accent-underline.svg); display: block; }
 @media screen and (min-width: 37.5em) { .post-title { font-size: 1.125em; } }
 
-.post-content { margin-bottom: 2em; }
-.post-content h2 { font-size: 1.75em; margin-bottom: 0.5em; margin-top: 2em; line-height: 1.25; }
-@media screen and (min-width: 37.5em) { .post-content h2 { /*font-size: 28px;*/ } }
+.post-content { margin-bottom: 3em; }
+.post-content h2 { font-size: 1.75em; margin-bottom: 0.5em; line-height: 1.25; }
 .post-content h2:first-child { margin-top: 0; }
 .post-content h3 { font-size: 1em; margin: 1em 0 0.25em; }
 @media screen and (min-width: 37.5em) { .post-content h3 { font-size: 1.1em; } }

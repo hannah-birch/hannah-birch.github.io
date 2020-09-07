@@ -128,14 +128,6 @@
     }
 }
 
-/*@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}*/
-
 
 
 
@@ -143,7 +135,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0 $spacing-unit 0;
+    padding: $spacing-unit 0 0 0;
     width: 95%;
     margin: 0 auto;
 
@@ -170,7 +162,6 @@
 }
 
 .page-heading {
-    // font-size: 20px;
     margin-bottom: $spacing-unit;
     line-height: 0.75;
     &:after {
@@ -178,40 +169,13 @@
   }
 }
 
-.post-list {
-    margin-left: 0;
-    list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit * 2;
-        margin-top: $spacing-unit * 2;
-    }
-
-    > li > h2 {
-      font-size: 1.75em;
-      margin-bottom: $spacing-unit / 4;
-      margin-top: $spacing-unit/ 4;
-      line-height: 1.25;
-    }
-
-    p.post-meta {
-      font-size: 0.75em;
-      color: $accent-color;
-      line-height: 0.95;
-    }
-}
-
-.post-accent {
-    font-size: $small-font-size;
-    color: $accent-color;
-}
-
-.post-link {
-    display: block;
-    font-size: 24px;
+p.meta {
+  font-size: 0.75em;
+  line-height: 0.95;
 }
 
 // Homepage intro
+
 section.intro {
   width: 100%;
   margin: 0 .5em 2em 0;
@@ -256,20 +220,17 @@ section.intro p span.adjective {
 
 div.highlights {
   margin: 1em 0;
-  // padding: 2em;
 }
 
 
 /**
- * Posts
+ * Posts on writing page
  */
 .post-header {
     margin-bottom: $spacing-unit;
     line-height: 0.75;
     :after {
       @include accent-underline;
-        // content: url(#{$image-assets}/accent-underline.svg);
-        // display: block;
     }
 }
 
@@ -290,16 +251,12 @@ div.highlights {
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit * 1.5;
 
     h2 {
         font-size: 1.75em;
         margin-bottom: $spacing-unit / 4;
-        margin-top: $spacing-unit;
         line-height: 1.25;
-        @include breakpoint(600) {
-            /*font-size: 28px;*/
-        }
     }
     h2:first-child {
         margin-top: 0;
@@ -321,7 +278,6 @@ div.highlights {
             font-size: 18px;
         }
     }
-
 
     a {
         color: $accent-color;
