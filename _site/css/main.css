@@ -134,7 +134,7 @@ div.highlights { margin: 1em 0; }
 @media screen and (min-width: 37.5em) { .post-title { font-size: 1.125em; } }
 
 .post-content { margin-bottom: 3em; }
-.post-content h2 { font-size: 1.75em; margin-bottom: 0.5em; line-height: 1.25; }
+.post-content h2 { margin-bottom: 0.5em; }
 .post-content h2:first-child { margin-top: 0; }
 .post-content h3 { font-size: 1em; margin: 1em 0 0.25em; }
 @media screen and (min-width: 37.5em) { .post-content h3 { font-size: 1.1em; } }
