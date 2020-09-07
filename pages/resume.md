@@ -12,11 +12,6 @@ permalink: /resume/
 
 I contributed to the coverage that won The Seattle Times staff the Pulitzer Prize for breaking news reporting in 2015. For more on what that experience was like, read [my Q&A](http://lasvegassun.com/news/2015/may/14/unlv-grad-talks-winning-pulitzer-what-journalists-/) with the Las Vegas Sun and [UNLV News](https://www.unlv.edu/news/article/journalism-graduate-part-pulitzer-prize-winning-team).
 
-<h3><strong>Dean’s list, 2008-2012</strong></h3>
-
-- Brian Greenspun and Ned Day Memorial scholarships
-- Member of Phi Kappa Phi and Kappa Tau Alpha honor societies
-
 ## Content strategist/site editor – Metropolitan Transportation Authority
 _December 2019 - present_
 
@@ -115,3 +110,8 @@ Covered general news and features
 University of Nevada, Las Vegas
 
 Bachelor of arts in journalism and media studies; summa cum laude
+
+<h3><strong>Dean’s list, 2008-2012</strong></h3>
+
+- Brian Greenspun and Ned Day Memorial scholarships
+- Member of Phi Kappa Phi and Kappa Tau Alpha honor societies
