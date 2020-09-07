@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 ## About me
 
 I’m a content strategist and editor, with rigorous training in journalism and web production. I believe the government should work better for people. Right now I’m the content strategist on a new Digital Services team at the [MTA](https://new.mta.info/) here in New York.
@@ -12,6 +13,8 @@ Previously, I worked at [ProPublica](https://www.propublica.org), a nonprofit ne
 Before ProPublica, I was an associate news producer at The Seattle Times, where I was part of a team that [won a Pulitzer Prize for breaking news](https://www.pulitzer.org/winners/seattle-times-staff) in 2015. I curated headlines and photos on [seattletimes.com](http://seattletimes.com/), managed social media as needed and designed special digital projects.
 
 Find me on [Twitter](https://twitter.com/hannahsbirch) and [GitHub](https://github.com/hannah-birch).
+
+<hr />
 
 ## How this site is made
 

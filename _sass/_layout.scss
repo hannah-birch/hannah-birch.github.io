@@ -224,7 +224,7 @@ div.highlights {
 
 
 /**
- * Posts on writing page
+ * Posts and content blocks
  */
 .post-header {
     margin-bottom: $spacing-unit;
@@ -250,7 +250,7 @@ div.highlights {
     }
 }
 
-.post-content {
+.content-block {
     margin-bottom: $spacing-unit * 1.5;
 
     h2 {
