@@ -5,35 +5,9 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Sep 2020 15:51:35 -0400</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2020 15:51:35 -0400</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2020 16:06:19 -0400</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2020 16:06:19 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
-    
-      <item>
-        <title></title>
-        <description>&lt;h2 id=&quot;breaking-news-coveage-oso-mudslide&quot;&gt;Breaking news coveage: Oso mudslide&lt;/h2&gt;
-
-&lt;figure class=&quot;inset&quot;&gt;
-  &lt;img src=&quot;/assets/img/20140322-mudslide.jpg&quot; alt=&quot;A screenshot of a story with a photo of a mudslide&quot; /&gt;
-  &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I was the only producer in the building on Saturday, March 22, when I saw tweets from a PIO with the sheriff’s office that there was a house in the road after a mudslide near Darrington. I worked with a metro editor to assess the scale of the slide, updating our social media accounts and the homepage as we got information. I realized this was by far the biggest story I’d worked on, at the Times or elsewhere.&lt;/p&gt;
-
-&lt;p&gt;The next two weeks were a blur. The digital team worked long, harried hours keeping the website updated with the work produced by more than 30 reporters and countless editors and managers. We had &lt;a href=&quot;http://seattletimes.com/html/localnews/2023218573_mudslidewarningsxml.html&quot;&gt;watchdog stories&lt;/a&gt; running within days of the slide. We built a hugely popular &lt;a href=&quot;http://seattletimes.com/flatpages/local/interactivebeforeandafterthe530mudslide.html&quot;&gt;before-and-after interactive&lt;/a&gt; that was the centerpiece on SeattleTimes.com for the better part of a day. We put together a &lt;a href=&quot;http://seattletimes.com/flatpages/local/victimsoftheosomudslide.html&quot;&gt;page memorializing victims&lt;/a&gt; of the slide. We had too many daily stories and blog posts to count, tracking updates as search efforts continued.&lt;/p&gt;
-
-&lt;p&gt;Thirty-one reporters contributed to a &lt;a href=&quot;http://seattletimes.com/html/localnews/2023259205_mudslidenarrativexml.html&quot;&gt;narrative of the events that day&lt;/a&gt;, a story with a custom layout I hand coded late one night. We used social media to tell readers what we knew and how to get help. We lowered our paywall on resources for victims of the mudslide. (Read editor Kathy Best’s thoughts on that in &lt;a href=&quot;http://www.poynter.org/latest-news/mediawire/246699/why-the-seattle-times-lowered-its-paywall-during-the-mudslide-but-didnt-suspend-it/&quot;&gt;this Poynter piece&lt;/a&gt;.)&lt;/p&gt;
-
-&lt;p&gt;It was exhausting in many ways, but it’s impossible to work on a story like this and not see the significance journalism has.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://special.seattletimes.com/o/flatpages/local/oso-mudslide-coverage.html&quot;&gt;See all coverage of the Oso mudslide.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Sep 2020 15:51:35 -0400</pubDate>
-        <link>http://localhost:4000/2020-09-07/2014-03-22-oso-mudslide.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-09-07/2014-03-22-oso-mudslide.html</guid>
-        
-        
-      </item>
     
       <item>
         <title>Overhauling the fares section for the MTA site</title>
@@ -288,6 +262,21 @@
         
         
         <category>Illustration</category>
+        
+      </item>
+    
+      <item>
+        <title>Being an edge case at the DMV</title>
+        <description>&lt;h2 id=&quot;my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win&quot;&gt;My Story as a DMV Edge Case: How to Battle Bureaucracy and Win&lt;/h2&gt;
+
+&lt;p&gt;When I showed up with paperwork for my low-vision condition, the DMV was totally baffled. Here’s how I walked them through an edge case and how you can use the strategies yourself. &lt;a href=&quot;https://www.propublica.org/article/my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win&quot;&gt;Read the full story.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2016-02-18/battling-government-bureaucracy-as-an-edge-case.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-02-18/battling-government-bureaucracy-as-an-edge-case.html</guid>
+        
+        
+        <category>Writing</category>
         
       </item>
     

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-03-22
-title: Breaking news coveage: Oso mudslide
+title: Breaking news coveage of the Oso mudslide
 outlet: The Seattle Times
 summary: "I was part of a team at The Seattle Times that won a Pulitzer Prize for breaking news coverage of the Oso mudslide in 2014."
 category: Breaking news coverage
