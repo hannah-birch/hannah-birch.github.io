@@ -26,13 +26,6 @@ permalink: /portfolio/
   {% endfor %}
 
 
-<h3>Writing</h3>
-
-  {% for post in site.categories['Writing'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}
-  {% endfor %}
-
-
 <h3>Page layout and digital design</h3>
 
   {% for post in site.categories['Page layout and digital design'] %}
