@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 <div class="content-block">
   <h2>Homepage production and breaking news coverage</h2>
-  <p>I <a href="/breaking%20news%20coverage/2014/03/22/oso-mudslide.html">contributed to the work of The Seattle Times’ digital team</a> during a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, big business news from Boeing and Microsoft, and more. <a href="/homepage-breaking-news/">Here’s a detailed rundown</a>.</p>
+  <p>I <a href="/2014-03-22/oso-mudslide.html">contributed to the work of The Seattle Times’ digital team</a> during a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, big business news from Boeing and Microsoft, and more. <a href="/homepage-breaking-news/">Here’s a detailed rundown</a>.</p>
 </div>
 
 <h2>Projects</h2>

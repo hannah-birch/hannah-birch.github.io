@@ -5,8 +5,8 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Sep 2020 13:00:54 -0400</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2020 13:00:54 -0400</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2020 13:25:14 -0400</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2020 13:25:14 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -75,8 +75,8 @@
 &lt;p&gt;You guessed it: Tolls! A lot of this is underway already as part of a different project. When that content is ready, I’ll re-evaluate where all of this lives on the site.&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Sep 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/content%20strategy/2020/09/04/overhauling-the-fares-section-for-the-mta.html</link>
-        <guid isPermaLink="true">http://localhost:4000/content%20strategy/2020/09/04/overhauling-the-fares-section-for-the-mta.html</guid>
+        <link>http://localhost:4000/2020-09-04/overhauling-the-fares-section-for-the-mta.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-09-04/overhauling-the-fares-section-for-the-mta.html</guid>
         
         
         <category>Content strategy</category>
@@ -101,8 +101,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/img/20200805-mta-bike-page-tweet.png&quot; alt=&quot;A screenshot of a tweet reading, ‘This is going to sound kind of dumb, but publishing a page that actually promotes bicycling, includes info on non-MTA modes (ferry, CitiBike), and organizes information so clearly and comprehensively would not have happened a decade ago. MTA comms doing great work.’&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/content%20strategy/2020/08/05/how-to-bring-your-bike-on-public-transit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/content%20strategy/2020/08/05/how-to-bring-your-bike-on-public-transit.html</guid>
+        <link>http://localhost:4000/2020-08-05/how-to-bring-your-bike-on-public-transit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-08-05/how-to-bring-your-bike-on-public-transit.html</guid>
         
         
         <category>Content strategy</category>
@@ -119,8 +119,8 @@
 &lt;figcaption&gt;My structural audit of The COVID Tracking Project’s website, before and after I restructured it.&lt;/figcaption&gt;
 </description>
         <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/content%20strategy/2020/06/01/content-strategy-volunteering-for-the-covid-tracking-project.html</link>
-        <guid isPermaLink="true">http://localhost:4000/content%20strategy/2020/06/01/content-strategy-volunteering-for-the-covid-tracking-project.html</guid>
+        <link>http://localhost:4000/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</guid>
         
         
         <category>Content strategy</category>
@@ -141,8 +141,8 @@
 &lt;figcaption&gt;A photo from the conference session at SRCCON. (Credit: Keila Vizcarra)&lt;/figcaption&gt;
 </description>
         <pubDate>Thu, 05 Sep 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/writing/2019/09/05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</link>
-        <guid isPermaLink="true">http://localhost:4000/writing/2019/09/05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</guid>
+        <link>http://localhost:4000/2019-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</guid>
         
         
         <category>Writing</category>
@@ -171,8 +171,8 @@
 &lt;p&gt;We co-published the story with The New York Times and Frontline, and we’re working on a documentary with Frontline slated to debut in early 2019.&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Dec 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/art%20direction/2018/12/06/photo-edit-for-supported-housing-story.html</link>
-        <guid isPermaLink="true">http://localhost:4000/art%20direction/2018/12/06/photo-edit-for-supported-housing-story.html</guid>
+        <link>http://localhost:4000/2018-12-06/photo-edit-for-supported-housing-story.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-12-06/photo-edit-for-supported-housing-story.html</guid>
         
         
         <category>Art direction</category>
@@ -199,8 +199,8 @@
 &lt;p&gt;Election Day was one of our highest-volume publishing days of the year. We had four design and production team members onsite all day to produce stories, handle art research and help keep the site running well. I don’t often get to produce live, breaking news, so I loved the throwback to my daily-newsroom days. (And yes, there was pizza.)&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Nov 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/project%20management%20and%20production/2018/11/06/electionland-2018.html</link>
-        <guid isPermaLink="true">http://localhost:4000/project%20management%20and%20production/2018/11/06/electionland-2018.html</guid>
+        <link>http://localhost:4000/2018-11-06/electionland-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-11-06/electionland-2018.html</guid>
         
         
         <category>Project management and production</category>
@@ -214,8 +214,8 @@
 &lt;p&gt;I wrote a post for Source to bring more attention to some community-building I’ve been doing with other people at the intersection of journalism and tech. &lt;a href=&quot;https://source.opennews.org/articles/calling-all-platypuses/&quot;&gt;Read the piece.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Aug 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/writing/2018/08/02/calling-all-platypuses.html</link>
-        <guid isPermaLink="true">http://localhost:4000/writing/2018/08/02/calling-all-platypuses.html</guid>
+        <link>http://localhost:4000/2018-08-02/calling-all-platypuses.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-08-02/calling-all-platypuses.html</guid>
         
         
         <category>Writing</category>
@@ -238,8 +238,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.propublica.org/series/heart-failure/&quot;&gt;See the series.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 May 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/art%20direction/2018/05/16/illustration-commission-for-heart-transplant-series.html</link>
-        <guid isPermaLink="true">http://localhost:4000/art%20direction/2018/05/16/illustration-commission-for-heart-transplant-series.html</guid>
+        <link>http://localhost:4000/2018-05-16/illustration-commission-for-heart-transplant-series.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-05-16/illustration-commission-for-heart-transplant-series.html</guid>
         
         
         <category>Art direction</category>
@@ -257,8 +257,8 @@
 &lt;p&gt;This took all of about three minutes to put together. Sometimes you have to sweat over ideas for an illustration … and sometimes they just stroll into your head fully formed.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Oct 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/illustration/2016/10/21/google-privacy-illo.html</link>
-        <guid isPermaLink="true">http://localhost:4000/illustration/2016/10/21/google-privacy-illo.html</guid>
+        <link>http://localhost:4000/2016-10-21/google-privacy-illo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-10-21/google-privacy-illo.html</guid>
         
         
         <category>Illustration</category>
@@ -272,8 +272,8 @@
 &lt;p&gt;When I showed up with paperwork for my low-vision condition, the DMV was totally baffled. Here’s how I walked them through an edge case and how you can use the strategies yourself. &lt;a href=&quot;https://www.propublica.org/article/my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win&quot;&gt;Read the full story.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 18 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/writing/2016/02/18/battling-government-bureaucracy-as-an-edge-case.html</link>
-        <guid isPermaLink="true">http://localhost:4000/writing/2016/02/18/battling-government-bureaucracy-as-an-edge-case.html</guid>
+        <link>http://localhost:4000/2016-02-18/battling-government-bureaucracy-as-an-edge-case.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-02-18/battling-government-bureaucracy-as-an-edge-case.html</guid>
         
         
         <category>Writing</category>

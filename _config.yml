@@ -6,5 +6,7 @@ url: "https://hannah-birch.github.io" # the base hostname & protocol for your si
 twitter_username: hannahsbirch
 github_username:  hannah-birch
 
+permalink: /:year-:month-:day/:title:output_ext
+
 # Build settings
 markdown: kramdown

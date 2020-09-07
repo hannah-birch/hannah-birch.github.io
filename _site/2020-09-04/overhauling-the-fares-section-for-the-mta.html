@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Overhauling The Fares Section For The Mta</title>
+  <meta name="description" content="Overhauling the Fares Section for the MTA Site">
+
+  <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
+
+  <link rel="stylesheet" href="/css/main.css">
+
+  <script src="//code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+  <link rel="canonical" href="http://localhost:4000/2020-09-04/overhauling-the-fares-section-for-the-mta.html">
+  <link rel="alternate" type="application/rss+xml" title="Hannah Birch" href="http://localhost:4000/feed.xml" />
+
+  <!-- google font -->
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">Hannah Birch</a>
+
+    <nav class="site-nav">
+      <div class="trigger">
+        
+          
+            
+            <a href="/about/">About</a>
+            
+          
+        
+          
+            
+          
+        
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+            <a href="/portfolio/">Portfolio</a>
+            
+          
+        
+          
+            
+            <a href="/resume/">Resume</a>
+            
+          
+        
+          
+            
+            <a href="/writing/">Writing</a>
+            
+          
+        
+          
+            
+          
+        
+      </div>
+    </nav>
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <section>
+    <p class="meta">September 04, 2020</p>
+  </section>
+
+  <section class="post-content">
+    <h2 id="overhauling-the-fares-section-for-the-mta-site">Overhauling the Fares Section for the MTA Site</h2>
+
+<p>One of the most highly trafficked parts of the MTA website is the fares and tolls section. In order to make the pages easier for riders to find and use, I developed a phased reorganization to address these problems:</p>
+
+<ul>
+  <li>There were 31 pages devoted to fares and 11 for tolls. I was skeptical that we needed 42 pages to explain our policies.</li>
+  <li>Riders had to click through many pages to find basic information. The relationship between pages was very unclear.</li>
+  <li>There was a lot of duplicate information across pages. Not only was this confusing for riders, it was very difficult for us to keep updated. If our fares changed, for example, we’d have to track down every instance where we referenced the specific fare. I wanted this information to live in one canonical place.</li>
+  <li>A lot of the content came from print contexts first. It was technically correct and written at a good grade level, but it felt awkward on the site.</li>
+  <li>Some content was missing entirely.</li>
+</ul>
+
+<h3 id="phase-one-of-the-reorg">Phase one of the reorg</h3>
+
+<p>I started with a structural audit of all of the content in the section. There were also pages on the old MTA site that had never been migrated over. Most of those were out of date, but some needed to be reflected on the new site in some way.</p>
+
+<p>Huge hat-tip to Lisa Maria Martin for her <a href="https://alistapart.com/article/everyday-information-architecture-excerpt/">structural audit spreadsheet template</a>. I used this to document every page I found and its hierarchy in the section.</p>
+
+<p>That looked like this:</p>
+
+<p><img src="/assets/img/20200904-mta-fares-audit-spreadsheet-2.png" alt="A screenshot of a spreadsheet with many rows in different colors." /></p>
+
+<p><strong>Things I noticed:</strong></p>
+<ul>
+  <li>The overall structure of subway/bus fares, railroad fares, and tolls made sense. Beyond those landing pages, the subpages were unorganized and duplicative. Additionally, Long Island Rail Road and Metro-North Railroad information was separate, despite being functionally very similar for riders.</li>
+  <li>There were several important pages that were only accessible via inline links on other pages.</li>
+  <li>A few pages were mislabelled.</li>
+  <li>A few pages were missing entirely.</li>
+</ul>
+
+<p><strong>What I did:</strong></p>
+<ul>
+  <li>I decided right away to separate fares and tolls and to tackle fares first. (Most of our readers are looking for fare details, and I have a separate overhaul of the tolls section happening with a different team.)</li>
+  <li>I knew restructuring the section would require changes to many URLs, so I set up a column to track what the old and new ones were/would be. As I did this, I laid out the new hierarchy in my spreadsheet.</li>
+  <li>I worked through the spreadsheet to write, rewrite, and migrate content as needed.</li>
+  <li>When I was satisfied with the content and knew which pages I was going to keep, I deleted what we didn’t need. I updated URLs starting with the most distal subpages.</li>
+  <li>I wrote and art-directed a <a href="https://new.mta.info/fares">new guide to MTA fares</a>. Just before that published, I updated the remaining subpage URLs to reflect the new section structure.</li>
+</ul>
+
+<h3 id="the-new-structure">The new structure</h3>
+
+<p>Here’s where we landed.</p>
+
+<p><img src="/assets/img/20200904-mta-fares-audit-spreadsheet-3.png" alt="A screenshot of the same spreadsheet as before, but it’s much shorter and has fewer colors. It’s much more orderly to look at." /></p>
+
+<p><strong>Key changes:</strong></p>
+
+<ul>
+  <li>Categories within the section match what riders expect: subway and bus fares, railroad fares, and bridge and tunnel tolls. The main landing pages contain the bulk of the information, only linking out to topic- or product-specific subpages when necessary. There are now only 15 subpages in our fares section.</li>
+  <li>The <a href="https://new.mta.info/fares">new landing page</a> emphasizes MetroCards and OMNY, since most site visitors are looking for subway and bus information. We link to pages for <a href="https://new.mta.info/fares/lirr-metro-north">railroad fares</a> and <a href="https://new.mta.info/bridges-and-tunnels">toll information</a> prominently, so that’s also easy to find.</li>
+  <li>I also wrote a <a href="https://new.mta.info/fares/how-to-save-money">page specifically about saving money on fares</a>. This includes details about city and employer programs, as well as MTA programs.</li>
+</ul>
+
+<p><img src="/assets/img/20200904-mta-fares-audit-guide-page-1.png" alt="A screenshot of a webpage called “Everything you need to know about transit fares in New York.” There are sections at the top with bold subheads and bulleted lists. These show general fare and toll information, organized by mode of transit: subways and buses, railroads, and bridges and tunnels." /></p>
+
+<p>A content component we call an accordion was key to centralizing information about different kinds of fares. Most of these ticket types were on separate subpages before. Now, riders can see all of their options at once.</p>
+
+<p><img src="/assets/img/20200904-mta-fares-audit-guide-accordion.png" alt="A screenshot of a webpage with a subhead reading “Railroad ticket types.” Underneath the subhead is a series of labels that expand and collapse when selected. One of the sections is expanded to show additional information about a ticket type. The rest are collapsed and only show the ticket type labels." /></p>
+
+<h3 id="whats-next">What’s next</h3>
+
+<p>You guessed it: Tolls! A lot of this is underway already as part of a different project. When that content is ready, I’ll re-evaluate where all of this lives on the site.</p>
+
+  </section>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+<script type="text/javascript" src="/assets/js/javascript.js"></script>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+
+      <p class="rss-subscribe">Subscribe <a href="/feed.xml">via RSS</a></p>
+
+      <p>Copyright 2020</p>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
