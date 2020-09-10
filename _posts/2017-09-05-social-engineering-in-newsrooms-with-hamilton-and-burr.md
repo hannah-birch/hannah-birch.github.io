@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-05
+date: 2017-09-05
 title: Social engineering in newsrooms with Hamilton and Burr
 outlet: Source
 summary: "I used dueling/singing historical personalities to reframe communication challenges at work during a session at SRCCON."

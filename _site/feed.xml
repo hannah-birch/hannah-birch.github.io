@@ -5,8 +5,13 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Wed, 09 Sep 2020 09:26:37 -0400</pubDate>
     <lastBuildDate>Wed, 09 Sep 2020 09:26:37 -0400</lastBuildDate>
+=======
+    <pubDate>Thu, 10 Sep 2020 09:01:56 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2020 09:01:56 -0400</lastBuildDate>
+>>>>>>> master
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -128,28 +133,6 @@
       </item>
     
       <item>
-        <title>Social engineering in newsrooms with Hamilton and Burr</title>
-        <description>&lt;h2 id=&quot;social-engineering-in-newsrooms-with-hamilton-and-burr&quot;&gt;Social engineering in newsrooms with Hamilton and Burr&lt;/h2&gt;
-
-&lt;p&gt;Alexander Hamilton and Aaron Burr, two of the most successful guys operating during the dawn of American politics, faced a problem very similar to the ones we have in newsrooms today. They wanted to get things done at a breakneck pace, but the politics of dealing with other people slowed them down.&lt;/p&gt;
-
-&lt;p&gt;To talk about this, I put together a session at SRCCON in 2019 so conference attendees could explore these topics as a group.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://source.opennews.org/articles/hamilton-and-burr/&quot;&gt;Here’s the piece I wrote&lt;/a&gt; after the session. I recapped suggestions for how to approach challenges like being stuck between two managers, having someone quietly kill your idea, accidentally overstepping someone, and more.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/2019-09-05-hamilton-burr-post-its.jpg&quot; alt=&quot;A woman with curly blonde hair holds sticky notes for people gathered around, sorting the sticky notes into groups.&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;A photo from the conference session at SRCCON. (Credit: Keila Vizcarra)&lt;/figcaption&gt;
-</description>
-        <pubDate>Thu, 05 Sep 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2019-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</guid>
-        
-        
-        <category>Writing</category>
-        
-      </item>
-    
-      <item>
         <title>Photo commission for supported housing series</title>
         <description>&lt;h2 id=&quot;living-apart-coming-undone&quot;&gt;Living Apart, Coming Undone&lt;/h2&gt;
 
@@ -208,8 +191,8 @@
       </item>
     
       <item>
-        <title>Calling All Platypuses</title>
-        <description>&lt;h2 id=&quot;calling-all-platypuses&quot;&gt;Calling All Platypuses&lt;/h2&gt;
+        <title>Calling all platypuses</title>
+        <description>&lt;h2 id=&quot;calling-all-platypuses&quot;&gt;Calling all platypuses&lt;/h2&gt;
 
 &lt;p&gt;I wrote a post for Source to bring more attention to some community-building I’ve been doing with other people at the intersection of journalism and tech. &lt;a href=&quot;https://source.opennews.org/articles/calling-all-platypuses/&quot;&gt;Read the piece.&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -243,6 +226,28 @@
         
         
         <category>Art direction</category>
+        
+      </item>
+    
+      <item>
+        <title>Social engineering in newsrooms with Hamilton and Burr</title>
+        <description>&lt;h2 id=&quot;social-engineering-in-newsrooms-with-hamilton-and-burr&quot;&gt;Social engineering in newsrooms with Hamilton and Burr&lt;/h2&gt;
+
+&lt;p&gt;Alexander Hamilton and Aaron Burr, two of the most successful guys operating during the dawn of American politics, faced a problem very similar to the ones we have in newsrooms today. They wanted to get things done at a breakneck pace, but the politics of dealing with other people slowed them down.&lt;/p&gt;
+
+&lt;p&gt;To talk about this, I put together a session at SRCCON in 2019 so conference attendees could explore these topics as a group.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://source.opennews.org/articles/hamilton-and-burr/&quot;&gt;Here’s the piece I wrote&lt;/a&gt; after the session. I recapped suggestions for how to approach challenges like being stuck between two managers, having someone quietly kill your idea, accidentally overstepping someone, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2019-09-05-hamilton-burr-post-its.jpg&quot; alt=&quot;A woman with curly blonde hair holds sticky notes for people gathered around, sorting the sticky notes into groups.&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A photo from the conference session at SRCCON. (Credit: Keila Vizcarra)&lt;/figcaption&gt;
+</description>
+        <pubDate>Tue, 05 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</guid>
+        
+        
+        <category>Writing</category>
         
       </item>
     
