@@ -13,13 +13,22 @@ $base-line-height: 1.5em;
 
 $spacing-unit:     2em;
 
-$text-color:       #464545;
-$background-color: #EBEBEB;
+// Original color scheme
+// $text-color:       #464545;
+// $background-color: #EBEBEB;
+// $accent-color:     #29335C;
+// $accent-color-light: lighten($accent-color, 40%);
+// $accent-color-dark: darken($accent-color, 5%);
 
-$accent-color:     #29335C;
-$accent-color-light: lighten($accent-color, 40%);
-$accent-color-dark: darken($accent-color, 5%);
+// New Rob-inspired color scheme
+$accent-color2: hsl(245,35%,40%);
+$text-color: adjust-color( $accent-color2, $hue: -120deg, $saturation: -80, $lightness: -18 );
+$text-color-inverse: white;
+$bg-color: adjust-color( $accent-color2, $hue: 120deg, $saturation: -20, $lightness: 55 );
+$bg-color-alt: darken( $bg-color, 10% );
+$accent-color1: adjust-color( $bg-color, $saturation: 32, $lightness: -59 );
 
+// Img path
 $image-assets: "../assets/img";
 
 // Width of the content area

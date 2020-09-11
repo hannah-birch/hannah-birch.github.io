@@ -20,7 +20,7 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     color: $text-color;
-    background-color: $background-color;
+    background-color: $bg-color;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -39,7 +39,7 @@ ul, ol, dl, figure,
 hr {
   width: 33%;
   margin-left: 33%;
-  color: $accent-color;
+  color: $accent-color2;
   display: inline-block;
   margin-bottom: 1em;
 }
@@ -120,7 +120,7 @@ h3 {
  */
 a {
     color: $text-color;
-    text-decoration: none;
+    text-decoration: underline;
 
 
     &:hover {
@@ -135,8 +135,8 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $accent-color;
-    border-left: 4px solid $accent-color;
+    color: $accent-color2;
+    border-left: 4px solid $accent-color2;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -155,7 +155,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $accent-color;
+    border: 1px solid $accent-color2;
     border-radius: 3px;
     background-color: #eef;
 }
@@ -225,7 +225,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $accent-color;
+            fill: $accent-color2;
         }
     }
 }
