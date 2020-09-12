@@ -5,8 +5,8 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Sep 2020 09:25:26 -0400</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2020 09:25:26 -0400</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2020 10:48:16 -0400</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2020 10:48:16 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -121,6 +121,58 @@
         <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</link>
         <guid isPermaLink="true">http://localhost:4000/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</guid>
+        
+        
+        <category>Content strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Writing UX copy for the Essential Connector app</title>
+        <description>&lt;h2 id=&quot;writing-ux-copy-for-the-essential-connector-app&quot;&gt;Writing UX copy for the Essential Connector app&lt;/h2&gt;
+
+&lt;p&gt;When I took a job at the MTA, I did not anticipate working on an app to help people book rides in cars. But in April, when Gov. Andrew Cuomo announced that the subway would be closed each night for cleaning during COVID-19, that became my team’s top priority.&lt;/p&gt;
+
+&lt;p&gt;This was the first time in the history of the subway that it wouldn’t be running 24 hours a day. Essential workers still needed to commute, and our enhanced overnight bus service wasn’t enough to bridge the gap for everyone.&lt;/p&gt;
+
+&lt;p&gt;With help from the good people at Axon Vibe and Postlight, we built an app that connected workers with for-hire vehicle services. We launched the Essential Connector app early on May 6, the first day of the subway shutdown.&lt;/p&gt;
+
+&lt;h3 id=&quot;prioritizing-transparency-with-riders&quot;&gt;Prioritizing transparency with riders&lt;/h3&gt;
+
+&lt;p&gt;For the service to work, we needed pretty personal information from riders who used it:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Where do you live?&lt;/li&gt;
+  &lt;li&gt;Where do you work?&lt;/li&gt;
+  &lt;li&gt;When do you commute?&lt;/li&gt;
+  &lt;li&gt;Who is your employer? How can we reach them if we need to?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My primary concern when I was writing copy for the app was telling riders why we needed this information and how we would use it. When I wrote copy for different screens, I would ask developers for specifics about how we would use input from each field. I included this in on-screen copy for riders.&lt;/p&gt;
+
+&lt;p&gt;Some examples:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“We need a cellphone number/email address to send you information and updates about your trip.”&lt;/li&gt;
+  &lt;li&gt;When asking for a home address: “This will help us plan better alternative service.”&lt;/li&gt;
+  &lt;li&gt;When asking for work details: “We might use this information to verify your essential worker status.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200504-essential-connector-sign-up-screens.png&quot; alt=&quot;Two screenshots side by side, showing a sign-up form for the Essential Connector app. Text underneath many fields explains how the information will be used.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also helped write the script for our call center, which helped book rides in vehicles. We were deliberate about when we required riders to verify their identity, to protect the privacy of people who used the service.&lt;/p&gt;
+
+&lt;h3 id=&quot;writing-about-the-essential-connector-on-the-website&quot;&gt;Writing about the Essential Connector on the website&lt;/h3&gt;
+
+&lt;p&gt;When the subway shutdown began, we published a &lt;a href=&quot;https://new.mta.info/coronavirus/overnight&quot;&gt;page on the site&lt;/a&gt; with details about overnight travel options.&lt;/p&gt;
+
+&lt;p&gt;The Essential Connector was a key part of this, but we wanted people to use bus service if possible. The webpage emphasized our enhanced bus routes first, then explained eligibility requirements for the Essential Connector. We encouraged riders to book their trips in advance, and, if trips weren’t eligible for a for-hire vehicle ride, we helped riders plan a trip on the bus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200504-essential-connector-overnight-page-cropped.png&quot; alt=&quot;A cropped screenshot details enhanced overnight bus service. A section underneath talks about the Essential Connector, including how to plan a trip on the bus if a ride isn’t eligible for the Essential Connector.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In late August, the Essential Connector service ended and we were back to thinking about subways, buses, and trains.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 May 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2020-05-04/writing-ux-copy-for-the-essential-connector-app.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-05-04/writing-ux-copy-for-the-essential-connector-app.html</guid>
         
         
         <category>Content strategy</category>
@@ -262,21 +314,6 @@
         
         
         <category>Illustration</category>
-        
-      </item>
-    
-      <item>
-        <title>Being an edge case at the DMV</title>
-        <description>&lt;h2 id=&quot;my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win&quot;&gt;My Story as a DMV Edge Case: How to Battle Bureaucracy and Win&lt;/h2&gt;
-
-&lt;p&gt;When I showed up with paperwork for my low-vision condition, the DMV was totally baffled. Here’s how I walked them through an edge case and how you can use the strategies yourself. &lt;a href=&quot;https://www.propublica.org/article/my-story-as-a-dmv-edge-case-how-to-battle-bureaucracy-and-win&quot;&gt;Read the full story.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016-02-18/battling-government-bureaucracy-as-an-edge-case.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016-02-18/battling-government-bureaucracy-as-an-edge-case.html</guid>
-        
-        
-        <category>Writing</category>
         
       </item>
     
