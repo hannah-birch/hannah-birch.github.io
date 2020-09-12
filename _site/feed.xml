@@ -5,8 +5,8 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Sep 2020 17:30:31 -0400</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2020 17:30:31 -0400</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2020 17:38:43 -0400</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2020 17:38:43 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -135,7 +135,7 @@
 
 &lt;p&gt;This was the first time in the history of the subway that it wouldn’t be running 24 hours a day. Essential workers still needed to commute, and our enhanced overnight bus service wasn’t enough to bridge the gap for everyone.&lt;/p&gt;
 
-&lt;p&gt;With help from the good people at Axon Vibe and Postlight, we built an app that connected workers with for-hire vehicle services. We launched the Essential Connector app early on May 6, the first day of the subway shutdown.&lt;/p&gt;
+&lt;p&gt;With help from the good people at Axon Vibe and Postlight, we built an app that connected workers with for-hire vehicle services. We launched the Essential Connector app early on May 6, the first day of the subway shutdown. By the end of the app’s run, thousands of essential workers had used the service to commute to and from work.&lt;/p&gt;
 
 &lt;h3 id=&quot;prioritizing-transparency-with-riders&quot;&gt;Prioritizing transparency with riders&lt;/h3&gt;
 
