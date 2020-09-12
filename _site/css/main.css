@@ -40,7 +40,7 @@ a { color: #383838; text-decoration: underline; }
 a:hover { color: #383838; text-decoration: underline; }
 
 /** Blockquotes */
-blockquote { color: #48428a; border-left: 4px solid #48428a; padding-left: 1em; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+blockquote { color: #873831; border-left: 4px solid #873831; padding-left: 1em; font-size: 18px; letter-spacing: -1px; }
 blockquote > :last-child { margin-bottom: 0; }
 
 /** Code formatting */

@@ -42,4 +42,12 @@ The Essential Connector was a key part of this, but we wanted people to use bus 
 
 <img src="/assets/img/20200504-essential-connector-overnight-page-cropped.png" alt="A cropped screenshot details enhanced overnight bus service. A section underneath talks about the Essential Connector, including how to plan a trip on the bus if a ride isn’t eligible for the Essential Connector."/>
 
-In late August, the Essential Connector service ended and we were back to thinking about subways, buses, and trains.
+In late August, the Essential Connector service ended. We updated copy on the site to point riders to our enhanced bus service, and we put a message on the Essential Connector sign-up page:
+
+> Effective August 31, the Essential Connector service has been discontinued.
+>
+> Given our significant financial challenges and the lack of additional relief from Congress thus far, unfortunately we are no longer able to operate the for-hire vehicle service. We have recently added three new interborough bus routes that are designed to serve as many Essential Connector customers as possible.
+>
+> You can see all of your options for overnight travel and use our trip planner or the MYmta app to plan your journey.
+>
+>As always, thanks for riding with us.

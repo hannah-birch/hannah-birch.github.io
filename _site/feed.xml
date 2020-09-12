@@ -5,8 +5,8 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Sep 2020 10:48:16 -0400</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2020 10:48:16 -0400</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2020 17:30:31 -0400</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2020 17:30:31 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -168,7 +168,17 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/20200504-essential-connector-overnight-page-cropped.png&quot; alt=&quot;A cropped screenshot details enhanced overnight bus service. A section underneath talks about the Essential Connector, including how to plan a trip on the bus if a ride isn’t eligible for the Essential Connector.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In late August, the Essential Connector service ended and we were back to thinking about subways, buses, and trains.&lt;/p&gt;
+&lt;p&gt;In late August, the Essential Connector service ended. We updated copy on the site to point riders to our enhanced bus service, and we put a message on the Essential Connector sign-up page:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Effective August 31, the Essential Connector service has been discontinued.&lt;/p&gt;
+
+  &lt;p&gt;Given our significant financial challenges and the lack of additional relief from Congress thus far, unfortunately we are no longer able to operate the for-hire vehicle service. We have recently added three new interborough bus routes that are designed to serve as many Essential Connector customers as possible.&lt;/p&gt;
+
+  &lt;p&gt;You can see all of your options for overnight travel and use our trip planner or the MYmta app to plan your journey.&lt;/p&gt;
+
+  &lt;p&gt;As always, thanks for riding with us.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 04 May 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2020-05-04/writing-ux-copy-for-the-essential-connector-app.html</link>

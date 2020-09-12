@@ -135,12 +135,12 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $accent-color2;
-    border-left: 4px solid $accent-color2;
+    color: $accent-color1;
+    border-left: 4px solid $accent-color1;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
-    font-style: italic;
+    // font-style: italic;
 
     > :last-child {
         margin-bottom: 0;
