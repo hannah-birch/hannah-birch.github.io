@@ -13,7 +13,7 @@ When I took a job at the MTA, I did not anticipate working on an app to help peo
 
 This was the first time in the history of the subway that it wouldn’t be running 24 hours a day. Essential workers still needed to commute, and our enhanced overnight bus service wasn’t enough to bridge the gap for everyone.
 
-With help from the good people at Axon Vibe and Postlight, we built an app that connected workers with for-hire vehicle services. We launched the Essential Connector app early on May 6, the first day of the subway shutdown.
+With help from the good people at Axon Vibe and Postlight, we built an app that connected workers with for-hire vehicle services. We launched the Essential Connector app early on May 6, the first day of the subway shutdown. By the end of the app’s run, thousands of essential workers had used the service to commute to and from work.
 
 ### Prioritizing transparency with riders
 
