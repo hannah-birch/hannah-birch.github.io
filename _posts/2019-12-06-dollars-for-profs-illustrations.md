@@ -4,7 +4,7 @@ date: 2019-12-06
 title: Commissioned visuals for Dollars for Profs series
 outlet: ProPublica
 summary: "I worked with illustrator María Hergueta on illustrations for a ProPublica series about hidden conflicts of interest in academia."
-image: /assets/img/20191206-dollars-for-profs-illo-1200x630.png
+image: https://hannahsbirch.com/assets/img/20191206-dollars-for-profs-illo-1200x630.png
 category: Art direction
 ---
 
