@@ -7,7 +7,7 @@ summary: "Another producer and I tag-teamed with the Seattle Times sports desk t
 category: Page layout and digital design
 ---
 
-## Seahawks 2013 season preview
+# Seahawks 2013 season preview
 
 <img src="/assets/img/20130905-russell-wilson.jpg" alt="A screenshot of the opening art of a story, showing Seahawks quarterback Russell Wilson"/>
 

@@ -7,7 +7,7 @@ summary: "I helped design story-level packaging for Best of the Northwest, incor
 category: Page layout and digital design
 ---
 
-##  Best of the Northwest, CEO Pay
+#  Best of the Northwest, CEO Pay
 
 <figure class="inset">
   <img src="/assets/img/20140621-best-northwest-1.png" alt="A screenshot of a story with a sidebar with graphics"/>

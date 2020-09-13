@@ -7,7 +7,7 @@ summary: "I started volunteering on The COVID Tracking Project in June, advising
 category: Content strategy
 ---
 
-## Content strategy and editing for The COVID Tracking Project
+# Content strategy and editing for The COVID Tracking Project
 
 I had admired The COVID Tracking Project from a distance since March and jumped in in June to help reorganize the site. What had started as a homegrown reporting project had turned into one of the most complete COVID datasets in the country. With the rapid growth came a necessarily ad hoc site structure that the content had outgrown.
 

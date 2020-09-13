@@ -7,7 +7,7 @@ summary: "I was part of a team at The Seattle Times that won a Pulitzer Prize fo
 category: Breaking news coverage
 ---
 
-##  Breaking news coveage: Oso mudslide
+#  Breaking news coverage: Oso mudslide
 
 <figure class="inset">
   <img src="/assets/img/20140322-mudslide.jpg" alt="A screenshot of a story with a photo of a mudslide"/>

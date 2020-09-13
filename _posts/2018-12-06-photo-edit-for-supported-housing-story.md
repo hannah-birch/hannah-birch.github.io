@@ -7,7 +7,7 @@ summary: "I led the photo edit and production for Joaquin Sapien’s wrenching r
 category: Art direction
 ---
 
-## Living Apart, Coming Undone
+# Living Apart, Coming Undone
 
 <img src="/assets/img/20181206-supported-housing-lead.png" alt="A screenshot of the opening art of a story, showing a man sitting surrounded by his belongings in his apartment in Flatbush, Brooklyn"/>
 

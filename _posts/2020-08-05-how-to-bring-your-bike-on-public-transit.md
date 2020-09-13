@@ -7,7 +7,7 @@ summary: "I rewrote and redesigned the MTA’s bike page, capitalizing on the su
 category: Content strategy
 ---
 
-## How to bring your bike with you on NYC public transit
+# How to bring your bike with you on NYC public transit
 
 The most common question we get about bikes in New York City is if you can take them on the subway. (Yes, you can, but please avoid rush hour.) As the pandemic stretched on in New York and people lined up to buy bicycles, I redesigned and rewrote [the bike page on the MTA site](https://new.mta.info/guides/bikes).
 

@@ -7,7 +7,7 @@ summary: "I worked with another producer and the Seattle Times graphics and spor
 category: Page layout and digital design
 ---
 
-## New, improved Husky Stadium
+# New, improved Husky Stadium
 
 <img src="/assets/img/20130824-husky-stadium.jpg" alt="A screenshot of the opening art of a story, showing a new sports stadium on the shore of Lake Washington"/>
 

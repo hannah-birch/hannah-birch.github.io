@@ -7,7 +7,7 @@ summary: "I was the production lead on Education Lab, a yearlong series produced
 category: Project management and production
 ---
 
-##  Education Lab Series
+#  Education Lab series
 
 <img src="/assets/img/20140301-edlab.jpg" alt="A screenshot of a story and sidebar with photos and links"/>
 

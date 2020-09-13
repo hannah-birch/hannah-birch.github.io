@@ -7,7 +7,7 @@ summary: "I built an interactive map of nearly 400 pieces of public art around S
 category: Interactive map
 ---
 
-##  State of the art: 10 great pieces of public art in Seattle
+#  State of the art: 10 great pieces of public art in Seattle
 
 <img src="/assets/img/20130926-public-art.jpg" alt="A screenshot of a map showing pins dropped for public works of art"/>
 

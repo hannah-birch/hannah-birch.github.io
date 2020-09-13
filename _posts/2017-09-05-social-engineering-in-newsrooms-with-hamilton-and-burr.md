@@ -7,7 +7,7 @@ summary: "I used dueling/singing historical personalities to reframe communicati
 category: Writing
 ---
 
-## Social engineering in newsrooms with Hamilton and Burr
+# Social engineering in newsrooms with Hamilton and Burr
 
 Alexander Hamilton and Aaron Burr, two of the most successful guys operating during the dawn of American politics, faced a problem very similar to the ones we have in newsrooms today. They wanted to get things done at a breakneck pace, but the politics of dealing with other people slowed them down.
 

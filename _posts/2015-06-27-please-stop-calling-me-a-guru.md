@@ -7,7 +7,7 @@ category: Writing
 outlet: Self-published
 ---
 
-## Please stop calling me a guru.
+# Calling digital journalists “gurus” is a cop-out
 
 Journalism has, in my experience, had a difficult time figuring out what to call the people filling the technology centric jobs that didn’t exist a decade ago.
 

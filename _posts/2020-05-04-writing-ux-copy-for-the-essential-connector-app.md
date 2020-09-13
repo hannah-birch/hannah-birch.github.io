@@ -7,7 +7,7 @@ summary: "When Gov. Cuomo announced the subway would shut down from 1-5 a.m. eac
 category: Content strategy
 ---
 
-## Writing UX copy for the Essential Connector app
+# Writing UX copy for the Essential Connector app
 
 When I took a job at the MTA, I did not anticipate working on an app to help people book rides in cars. But in April, when Gov. Andrew Cuomo announced that the subway would be closed each night for cleaning during COVID-19, that became my team’s top priority.
 

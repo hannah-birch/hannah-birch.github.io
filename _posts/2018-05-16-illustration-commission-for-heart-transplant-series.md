@@ -7,7 +7,7 @@ summary: "I commissioned a set of illustrations and produced a series of stories
 category: Art direction
 ---
 
-## Illustration commission: Heart failure
+# Illustration commission: Heart Failure series
 
 <figure class="inset">
     <img src="/assets/img/20180516-heart-failure.jpg" alt="A screenshot of the opening art of a story, showing an illustration of a pair of hands stitching a heart with medical instruments nearby"/>

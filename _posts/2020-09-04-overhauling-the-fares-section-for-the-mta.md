@@ -7,7 +7,7 @@ summary: "I audited the sprawling fares and tolls section of the MTA’s site, w
 category: Content strategy
 ---
 
-## Overhauling the fares section for the MTA site
+# Overhauling the fares section for the MTA site
 
 One of the most highly trafficked parts of the MTA website is the fares and tolls section. In order to make the pages easier for riders to find and use, I developed a phased reorganization to address these problems:
 

@@ -7,7 +7,7 @@ summary: "I made an illustration to go with a ProPublica story about Google drop
 category: Illustration
 ---
 
-## Google is watching you.
+# Illustrating a ProPublica story about Google’s web tracking
 
 <img src="/assets/img/20161021-google-privacy-630x420.jpg" alt="Google logo with eyeballs instead of O's"/>
 

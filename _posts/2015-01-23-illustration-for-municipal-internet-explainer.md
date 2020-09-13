@@ -7,7 +7,7 @@ summary: "I used Sketch and Photoshop to create this vector illustration for a P
 category: Illustration
 ---
 
-##  Vector illustration for municipal internet explainer
+# Vector illustration for municipal internet explainer
 
 
 <img src="/assets/img/20150123-internet-access-630x420.jpg" alt="An illustration showing a cityscape with an internet cord alongside the buildings"/>

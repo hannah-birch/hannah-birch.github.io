@@ -5,13 +5,13 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Sep 2020 17:38:43 -0400</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2020 17:38:43 -0400</lastBuildDate>
+    <pubDate>Sun, 13 Sep 2020 18:52:30 -0400</pubDate>
+    <lastBuildDate>Sun, 13 Sep 2020 18:52:30 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
         <title>Overhauling the fares section for the MTA site</title>
-        <description>&lt;h2 id=&quot;overhauling-the-fares-section-for-the-mta-site&quot;&gt;Overhauling the fares section for the MTA site&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;overhauling-the-fares-section-for-the-mta-site&quot;&gt;Overhauling the fares section for the MTA site&lt;/h1&gt;
 
 &lt;p&gt;One of the most highly trafficked parts of the MTA website is the fares and tolls section. In order to make the pages easier for riders to find and use, I developed a phased reorganization to address these problems:&lt;/p&gt;
 
@@ -85,7 +85,7 @@
     
       <item>
         <title>How to bring your bike with you on NYC public transit</title>
-        <description>&lt;h2 id=&quot;how-to-bring-your-bike-with-you-on-nyc-public-transit&quot;&gt;How to bring your bike with you on NYC public transit&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;how-to-bring-your-bike-with-you-on-nyc-public-transit&quot;&gt;How to bring your bike with you on NYC public transit&lt;/h1&gt;
 
 &lt;p&gt;The most common question we get about bikes in New York City is if you can take them on the subway. (Yes, you can, but please avoid rush hour.) As the pandemic stretched on in New York and people lined up to buy bicycles, I redesigned and rewrote &lt;a href=&quot;https://new.mta.info/guides/bikes&quot;&gt;the bike page on the MTA site&lt;/a&gt;.&lt;/p&gt;
 
@@ -111,7 +111,7 @@
     
       <item>
         <title>Content strategy and editing for The COVID Tracking Project</title>
-        <description>&lt;h2 id=&quot;content-strategy-and-editing-for-the-covid-tracking-project&quot;&gt;Content strategy and editing for The COVID Tracking Project&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;content-strategy-and-editing-for-the-covid-tracking-project&quot;&gt;Content strategy and editing for The COVID Tracking Project&lt;/h1&gt;
 
 &lt;p&gt;I had admired The COVID Tracking Project from a distance since March and jumped in in June to help reorganize the site. What had started as a homegrown reporting project had turned into one of the most complete COVID datasets in the country. With the rapid growth came a necessarily ad hoc site structure that the content had outgrown.&lt;/p&gt;
 
@@ -129,7 +129,7 @@
     
       <item>
         <title>Writing UX copy for the Essential Connector app</title>
-        <description>&lt;h2 id=&quot;writing-ux-copy-for-the-essential-connector-app&quot;&gt;Writing UX copy for the Essential Connector app&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;writing-ux-copy-for-the-essential-connector-app&quot;&gt;Writing UX copy for the Essential Connector app&lt;/h1&gt;
 
 &lt;p&gt;When I took a job at the MTA, I did not anticipate working on an app to help people book rides in cars. But in April, when Gov. Andrew Cuomo announced that the subway would be closed each night for cleaning during COVID-19, that became my team’s top priority.&lt;/p&gt;
 
@@ -190,8 +190,39 @@
       </item>
     
       <item>
+        <title>Commissioned visuals for Dollars for Profs series</title>
+        <description>&lt;h1 id=&quot;commissioned-visuals-for-dollars-for-profs-series&quot;&gt;Commissioned visuals for Dollars for Profs series&lt;/h1&gt;
+
+&lt;p&gt;Working with illustrator &lt;a href=&quot;https://mariahergueta.com/&quot;&gt;María Hergueta&lt;/a&gt; on illustrating conflicts of interest in academia was a blast. The &lt;a href=&quot;https://www.propublica.org/series/dollars-for-profs&quot;&gt;series&lt;/a&gt; comprised four investigative stories written by ProPublica reporters Annie Waldman and David Armstrong, plus a &lt;a href=&quot;https://projects.propublica.org/dollars-for-profs&quot;&gt;database&lt;/a&gt; made by Sisi Wei, Annie Waldman, and David Armstrong.&lt;/p&gt;
+
+&lt;p&gt;The series was a good candidate for illustration, since many of the people we were writing about weren’t keen to be photographed. So instead, we got to play with visual metaphors for hiding money in classrooms and universities.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/img/20191206-dollars-for-profs-illo-composite.png&quot; alt=&quot;Three screenshots of web pages with illustrations. The first visual is of a woman with her arms crossed, with cash in one hand and a chemistry vial in the other. The second is of a man pulling a curtain closed behind the columns of a university building, with cash fluttering out from underneath the curtain. The third is a professor accessing a secret safe behind a blackboard, nervously looking over his shoulder.&quot; /&gt;
+  &lt;figcaption&gt;Illustrations by María Hergueta&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;María was game to make several illustrations for the series. She turned sketches around very quickly and her concepts were solid. We made a few edits — having a professor surreptitiously looking over his shoulder in the blackboard drawing, making the fluttering cash more apparent in the columns-and-curtain piece — and María finished them up. I appreciated how she coordinated color and texture across the set. It made the series feel visually cohesive.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/img/20191206-dollars-for-profs-illo-piggy-bank.png&quot; alt=&quot;A screenshot of a web page with an illustration. The illustration shows a man sitting at a desk, with a giant piggy bank hidden by a sheet behind him. The piggy bank’s outline is clearly visible, but the professor is acting like it isn’t there.&quot; /&gt;
+  &lt;figcaption&gt;Illustrations by María Hergueta&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;My favorite illustration was one with a poorly hidden piggy bank behind a professor at a desk. I immediately understood “hidden money” when I saw the piggy bank. The prototypical shape, down to the curly tail, felt playful while still keeping with the serious themes of the story.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Dec 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2019-12-06/dollars-for-profs-illustrations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-12-06/dollars-for-profs-illustrations.html</guid>
+        
+        
+        <category>Art direction</category>
+        
+      </item>
+    
+      <item>
         <title>Photo commission for supported housing series</title>
-        <description>&lt;h2 id=&quot;living-apart-coming-undone&quot;&gt;Living Apart, Coming Undone&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;living-apart-coming-undone&quot;&gt;Living Apart, Coming Undone&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/20181206-supported-housing-lead.png&quot; alt=&quot;A screenshot of the opening art of a story, showing a man sitting surrounded by his belongings in his apartment in Flatbush, Brooklyn&quot; /&gt;&lt;/p&gt;
 
@@ -221,7 +252,7 @@
     
       <item>
         <title>Covering access to the vote with Electionland 2018</title>
-        <description>&lt;h2 id=&quot;covering-access-to-the-vote-in-real-time&quot;&gt;Covering access to the vote in real time&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;electionland-covering-access-to-the-vote-in-real-time&quot;&gt;Electionland: Covering access to the vote in real time&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/20181106-electionland.jpg&quot; alt=&quot;The Electionland newsroom&quot; /&gt;&lt;/p&gt;
 
@@ -249,7 +280,7 @@
     
       <item>
         <title>Calling all platypuses</title>
-        <description>&lt;h2 id=&quot;calling-all-platypuses&quot;&gt;Calling all platypuses&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;calling-all-platypuses&quot;&gt;Calling all platypuses&lt;/h1&gt;
 
 &lt;p&gt;I wrote a post for Source to bring more attention to some community-building I’ve been doing with other people at the intersection of journalism and tech. &lt;a href=&quot;https://source.opennews.org/articles/calling-all-platypuses/&quot;&gt;Read the piece.&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -264,7 +295,7 @@
     
       <item>
         <title>Illustration commissions for Heart Failure series</title>
-        <description>&lt;h2 id=&quot;illustration-commission-heart-failure&quot;&gt;Illustration commission: Heart failure&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;illustration-commission-heart-failure-series&quot;&gt;Illustration commission: Heart Failure series&lt;/h1&gt;
 
 &lt;figure class=&quot;inset&quot;&gt;
     &lt;img src=&quot;/assets/img/20180516-heart-failure.jpg&quot; alt=&quot;A screenshot of the opening art of a story, showing an illustration of a pair of hands stitching a heart with medical instruments nearby&quot; /&gt;
@@ -288,7 +319,7 @@
     
       <item>
         <title>Social engineering in newsrooms with Hamilton and Burr</title>
-        <description>&lt;h2 id=&quot;social-engineering-in-newsrooms-with-hamilton-and-burr&quot;&gt;Social engineering in newsrooms with Hamilton and Burr&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;social-engineering-in-newsrooms-with-hamilton-and-burr&quot;&gt;Social engineering in newsrooms with Hamilton and Burr&lt;/h1&gt;
 
 &lt;p&gt;Alexander Hamilton and Aaron Burr, two of the most successful guys operating during the dawn of American politics, faced a problem very similar to the ones we have in newsrooms today. They wanted to get things done at a breakneck pace, but the politics of dealing with other people slowed them down.&lt;/p&gt;
 
@@ -305,25 +336,6 @@
         
         
         <category>Writing</category>
-        
-      </item>
-    
-      <item>
-        <title>Illustration for Google privacy story</title>
-        <description>&lt;h2 id=&quot;google-is-watching-you&quot;&gt;Google is watching you.&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/20161021-google-privacy-630x420.jpg&quot; alt=&quot;Google logo with eyeballs instead of O's&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I made this illustration to go with a &lt;a href=&quot;https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking&quot;&gt;Julia Angwin story&lt;/a&gt; about Google dropping its ban on personally identifiable web tracking.&lt;/p&gt;
-
-&lt;p&gt;This took all of about three minutes to put together. Sometimes you have to sweat over ideas for an illustration … and sometimes they just stroll into your head fully formed.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Oct 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016-10-21/google-privacy-illo.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016-10-21/google-privacy-illo.html</guid>
-        
-        
-        <category>Illustration</category>
         
       </item>
     
