@@ -22,6 +22,8 @@ I use the static-site generator [Jekyll](https://jekyllrb.com/) to develop and d
 
 My professional work is almost always in a CMS, so I enjoy the challenge of creating more of the infrastructure. And I get to appreciate how smart my dev/design friends are.
 
-The next thing I want to do here is polish up the header of the site, including reworking the nav.
+Lately I’ve been setting up conditional logic loops in Liquid to improve and automate parts of my site. I’m especially excited about two things:
+- Having a nice default image populate in OG image tags by default, and
+- Adding an OG:image:alt attribute to page headers. If you look closely, you’ll notice that the alt text describes my default OG image unless I’ve specified a different image for that page. In that case, it will use the specific image description I write.
 
 If you have other feedback about the design or code, or you just want to talk about static-site generators and fun dev tools, feel free to email me at [last name] dot [first name] at gmail.
