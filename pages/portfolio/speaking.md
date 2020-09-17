@@ -25,7 +25,7 @@ permalink: /speaking/
 
 ## Mentorship events
 
-I organized ProPublica’s [Diversity Mentorship Program](https://www.propublica.org/article/apply-for-propublica-diversity-mentorship-program-at-ona-2019) for three consecutive years.
+I organized ProPublica’s [Diversity Mentorship Program](https://www.propublica.org/article/apply-for-propublica-diversity-mentorship-program-at-ona-2019) for three consecutive years, starting in 2017.
 
 The program is designed to pair people from traditionally underrepresented communities in journalism with hand-picked mentors who can help them succeed. We paid special attention to journalists in the middle of their careers — when it can be especially difficult to find a mentor — who were looking to move to the next level.
 
