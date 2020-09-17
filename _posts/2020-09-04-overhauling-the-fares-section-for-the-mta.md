@@ -5,6 +5,7 @@ title: Overhauling the fares section for the MTA site
 outlet: Metropolitan Transportation Authority
 summary: "I audited the sprawling fares and tolls section of the MTA’s site, wrote and rewrote copy, restructured the page hierarchy, and rewired everything in the CMS."
 image: https://hannahsbirch.com/assets/img/20200904-mta-fares-audit-1200x630.png
+image-summary: "Two side-by-side screenshots of a color-coded spreadsheet, one that is very long and confusing to look at and one that is much shorter and easier to understand."
 category: Content strategy
 ---
 
