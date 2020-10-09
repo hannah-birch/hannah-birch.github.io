@@ -142,7 +142,7 @@ div.highlights { margin: 1em 0; }
 .content-block a { color: #873831; }
 
 /* Grid layout */
-.container { display: grid; grid-template-columns: 25% 25% 25% 25%; grid-template-rows: auto; column-gap: 10px; row-gap: 10px; justify-content: space-around; }
+.container { display: grid; grid-template-columns: 30% 30% 30%; grid-template-rows: auto; column-gap: 10px; row-gap: 10px; justify-content: space-around; }
 
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
