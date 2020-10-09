@@ -141,6 +141,9 @@ div.highlights { margin: 1em 0; }
 @media screen and (min-width: 37.5em) { .content-block h4 { font-size: 18px; } }
 .content-block a { color: #873831; }
 
+/* Grid layout */
+.container { display: grid; grid-template-columns: 25% 25% 25% 25%; grid-template-rows: auto; column-gap: 10px; row-gap: 10px; justify-content: space-around; }
+
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
 .highlight .c { color: #998; font-style: italic; }

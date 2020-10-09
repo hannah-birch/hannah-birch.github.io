@@ -281,3 +281,15 @@ div.highlights {
         color: $accent-color1;
     }
 }
+
+
+/* Grid layout */
+
+.container {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: auto;
+  column-gap: 10px;
+  row-gap: 10px;
+  justify-content: space-around;
+}
