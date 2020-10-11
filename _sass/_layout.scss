@@ -294,3 +294,14 @@ div.highlights {
   justify-content: space-around;
   margin: 2em 0;
 }
+
+.container div.text {
+  background: $accent-color2;
+  color: #fff;
+  // border: $accent-color2 solid 2px;
+  padding: 0.75em;
+
+  a:hover, a:active, a:visited {
+  color: #fff;
+  }
+}

@@ -144,6 +144,9 @@ div.highlights { margin: 1em 0; }
 /* Grid layout */
 .container { display: grid; grid-template-columns: 30% 30% 30%; grid-template-rows: auto; column-gap: 10px; row-gap: 10px; justify-content: space-around; margin: 2em 0; }
 
+.container div.text { background: #48428a; color: #fff; padding: 0.75em; }
+.container div.text a:hover, .container div.text a:active, .container div.text a:visited { color: #fff; }
+
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
 .highlight .c { color: #998; font-style: italic; }
