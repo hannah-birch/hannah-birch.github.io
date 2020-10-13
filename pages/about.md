@@ -10,9 +10,11 @@ I’m a content strategist and editor, with rigorous training in journalism and 
 
 Previously, I worked at [ProPublica](https://www.propublica.org), a nonprofit newsroom in New York City that investigates abuses of power. Most recently I was production editor. I managed a team of story producers, oversaw publishing and operations, assembled cross-team groups around big projects, and art-directed major stories. I also worked with ProPublica’s platform team to develop and test new features for the CMS and ProPublica.org.
 
-Before ProPublica, I was an associate news producer at The Seattle Times, where I was part of a team that [won a Pulitzer Prize for breaking news](https://www.pulitzer.org/winners/seattle-times-staff) in 2015. I curated headlines and photos on [seattletimes.com](http://seattletimes.com/), managed social media as needed and designed special digital projects.
+Before ProPublica, I was an associate news producer at The Seattle Times, where I was part of a team that [won a Pulitzer Prize for breaking news](https://www.pulitzer.org/winners/seattle-times-staff) in 2015.
 
-Find me on [Twitter](https://twitter.com/hannahsbirch) and [GitHub](https://github.com/hannah-birch).
+## How to get in touch
+
+Find me on [Twitter](https://twitter.com/hannahsbirch) and [GitHub](https://github.com/hannah-birch). If you want to talk about collaborating (or Oxford commas, or my bird) email me at [last name] dot [first name] at gmail.com.
 
 <hr />
 
@@ -26,4 +28,4 @@ Lately I’ve been setting up conditional logic loops in Liquid to improve and a
 - Having a nice default image populate in OG image tags by default, and
 - Adding an OG:image:alt attribute to page headers. If you look closely, you’ll notice that the alt text describes my default OG image unless I’ve specified a different image for that page. In that case, it will use the specific image description I write.
 
-If you have other feedback about the design or code, or you just want to talk about static-site generators and fun dev tools, feel free to email me at [last name] dot [first name] at gmail.
+If you have other feedback about the design or code, or you just want to talk about static-site generators and fun dev tools, drop me a line.
