@@ -15,11 +15,11 @@ permalink: /portfolio/
 
 <h2>Projects</h2>
 
-<h3>Content strategy</h3>
+<h3>Content strategy, information architecture, and UX writing</h3>
 
 <div class="content-block">
   {% for post in site.categories['Content strategy'] %}
-      <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}</p>
+      <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
   {% endfor %}
 </div>
 
@@ -28,7 +28,7 @@ permalink: /portfolio/
 
 <div class="content-block">
   {% for post in site.categories['Project management and production'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}</p>
+    <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
   {% endfor %}
 </div>
 
@@ -37,7 +37,7 @@ permalink: /portfolio/
 
 <div class="content-block">
   {% for post in site.categories['Art direction'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}</p>
+    <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
   {% endfor %}
 </div>
 
@@ -46,7 +46,7 @@ permalink: /portfolio/
 
 <div class="content-block">
   {% for post in site.categories['Page layout and digital design'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}</p>
+    <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
   {% endfor %}
 </div>
 
@@ -55,7 +55,7 @@ permalink: /portfolio/
 
 <div class="content-block">
   {% for post in site.categories['Illustration'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}</p>
+    <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
   {% endfor %}
 </div>
 
@@ -64,6 +64,6 @@ permalink: /portfolio/
 
 <div class="content-block">
   {% for post in site.categories['Interactive map'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a>{{ post.outlet }}</p>
+    <p><a href="{{ post.url }}">{{ post.title }} </a>({{ post.outlet }})</p>
   {% endfor %}
 </div>
