@@ -3,10 +3,10 @@
   <channel>
     <title>Hannah Birch</title>
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Oct 2020 07:42:46 -0400</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2020 07:42:46 -0400</lastBuildDate>
+    <link>https://hannahsbirch.com/</link>
+    <atom:link href="https://hannahsbirch.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Oct 2020 07:47:08 -0400</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2020 07:47:08 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -75,8 +75,8 @@
 &lt;p&gt;You guessed it: Tolls! A lot of this is underway already as part of a different project. When that content is ready, I’ll re-evaluate where all of this lives on the site.&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Sep 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020-09-04/overhauling-the-fares-section-for-the-mta.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-09-04/overhauling-the-fares-section-for-the-mta.html</guid>
+        <link>https://hannahsbirch.com/2020-09-04/overhauling-the-fares-section-for-the-mta.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2020-09-04/overhauling-the-fares-section-for-the-mta.html</guid>
         
         
         <category>Content strategy</category>
@@ -101,8 +101,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/img/20200805-mta-bike-page-tweet.png&quot; alt=&quot;A screenshot of a tweet reading, ‘This is going to sound kind of dumb, but publishing a page that actually promotes bicycling, includes info on non-MTA modes (ferry, CitiBike), and organizes information so clearly and comprehensively would not have happened a decade ago. MTA comms doing great work.’&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020-08-05/how-to-bring-your-bike-on-public-transit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-08-05/how-to-bring-your-bike-on-public-transit.html</guid>
+        <link>https://hannahsbirch.com/2020-08-05/how-to-bring-your-bike-on-public-transit.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2020-08-05/how-to-bring-your-bike-on-public-transit.html</guid>
         
         
         <category>Content strategy</category>
@@ -130,8 +130,8 @@
 &lt;p&gt;When all of this was ready, a developer and I worked in the site’s CMS and &lt;a href=&quot;https://github.com/COVID19Tracking/website&quot;&gt;code repo&lt;/a&gt; to rewire everything. We seamlessly launched the newly organized site in between daily data updates. The transition went so smoothly that many people on the project were unaware of the change until the reorg got a shoutout during an all-hands meeting. 🙌&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</guid>
+        <link>https://hannahsbirch.com/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</guid>
         
         
         <category>Content strategy</category>
@@ -192,8 +192,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 04 May 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020-05-04/writing-ux-copy-for-the-essential-connector-app.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-05-04/writing-ux-copy-for-the-essential-connector-app.html</guid>
+        <link>https://hannahsbirch.com/2020-05-04/writing-ux-copy-for-the-essential-connector-app.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2020-05-04/writing-ux-copy-for-the-essential-connector-app.html</guid>
         
         
         <category>Content strategy</category>
@@ -223,8 +223,8 @@
 &lt;p&gt;My favorite illustration was one with a poorly hidden piggy bank behind a professor at a desk. I immediately understood “hidden money” when I saw the piggy bank. The prototypical shape, down to the curly tail, felt playful while still keeping with the serious themes of the story.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Dec 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2019-12-06/dollars-for-profs-illustrations.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019-12-06/dollars-for-profs-illustrations.html</guid>
+        <link>https://hannahsbirch.com/2019-12-06/dollars-for-profs-illustrations.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2019-12-06/dollars-for-profs-illustrations.html</guid>
         
         
         <category>Art direction</category>
@@ -253,8 +253,8 @@
 &lt;p&gt;We co-published the story with The New York Times and Frontline, and we’re working on a documentary with Frontline slated to debut in early 2019.&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Dec 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018-12-06/photo-edit-for-supported-housing-story.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018-12-06/photo-edit-for-supported-housing-story.html</guid>
+        <link>https://hannahsbirch.com/2018-12-06/photo-edit-for-supported-housing-story.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2018-12-06/photo-edit-for-supported-housing-story.html</guid>
         
         
         <category>Art direction</category>
@@ -281,8 +281,8 @@
 &lt;p&gt;Election Day was one of our highest-volume publishing days of the year. We had four design and production team members onsite all day to produce stories, handle art research and help keep the site running well. I don’t often get to produce live, breaking news, so I loved the throwback to my daily-newsroom days. (And yes, there was pizza.)&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Nov 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018-11-06/electionland-2018.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018-11-06/electionland-2018.html</guid>
+        <link>https://hannahsbirch.com/2018-11-06/electionland-2018.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2018-11-06/electionland-2018.html</guid>
         
         
         <category>Project management and production</category>
@@ -296,8 +296,8 @@
 &lt;p&gt;I wrote a post for Source to bring more attention to some community-building I’ve been doing with other people at the intersection of journalism and tech. &lt;a href=&quot;https://source.opennews.org/articles/calling-all-platypuses/&quot;&gt;Read the piece.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Aug 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018-08-02/calling-all-platypuses.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018-08-02/calling-all-platypuses.html</guid>
+        <link>https://hannahsbirch.com/2018-08-02/calling-all-platypuses.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2018-08-02/calling-all-platypuses.html</guid>
         
         
         <category>Writing</category>
@@ -320,8 +320,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.propublica.org/series/heart-failure/&quot;&gt;See the series.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 May 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018-05-16/illustration-commission-for-heart-transplant-series.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018-05-16/illustration-commission-for-heart-transplant-series.html</guid>
+        <link>https://hannahsbirch.com/2018-05-16/illustration-commission-for-heart-transplant-series.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2018-05-16/illustration-commission-for-heart-transplant-series.html</guid>
         
         
         <category>Art direction</category>
@@ -342,8 +342,8 @@
 &lt;figcaption&gt;A photo from the conference session at SRCCON. (Credit: Keila Vizcarra)&lt;/figcaption&gt;
 </description>
         <pubDate>Tue, 05 Sep 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</guid>
+        <link>https://hannahsbirch.com/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</link>
+        <guid isPermaLink="true">https://hannahsbirch.com/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</guid>
         
         
         <category>Writing</category>
