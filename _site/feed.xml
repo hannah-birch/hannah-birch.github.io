@@ -5,8 +5,8 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Oct 2020 07:28:37 -0400</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2020 07:28:37 -0400</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2020 07:42:46 -0400</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2020 07:42:46 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -113,10 +113,21 @@
         <title>Content strategy and editing for The COVID Tracking Project</title>
         <description>&lt;h1 id=&quot;content-strategy-and-editing-for-the-covid-tracking-project&quot;&gt;Content strategy and editing for The COVID Tracking Project&lt;/h1&gt;
 
-&lt;p&gt;I had admired The COVID Tracking Project from a distance since March and jumped in in June to help reorganize the site. What had started as a homegrown reporting project had turned into one of the most complete COVID datasets in the country. With the rapid growth came a necessarily ad hoc site structure that the content had outgrown.&lt;/p&gt;
+&lt;p&gt;I had admired &lt;a href=&quot;https://covidtracking.com/&quot;&gt;The COVID Tracking Project&lt;/a&gt; from a distance since March and jumped in in June to help reorganize the site. What had started as a homegrown reporting project had turned into one of the most complete COVID datasets in the country. With the rapid growth came a necessarily ad hoc site structure that the content had outgrown.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/20200601-ctp-audit-composite.png&quot; alt=&quot;Two screenshots side-by-side, showing two spreadsheets with colored cells. The spreadsheet on the left is longer and the colors are out of order. The spreadsheet on the right is shorter and the colors are in order.&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;My structural audit of The COVID Tracking Project’s website, before and after I restructured it.&lt;/figcaption&gt;
+
+&lt;p&gt;To streamline the site’s information architecture, I:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Spoke with stakeholders throughout the organization to gather requirements and build buy-in&lt;/li&gt;
+  &lt;li&gt;Audited the existing content&lt;/li&gt;
+  &lt;li&gt;Interviewed project leads to better understand the particular audiences The COVID Tracking Project serves, including the government, health-care professionals and institutions, and the general public&lt;/li&gt;
+  &lt;li&gt;Collaborated with UX designers, developers, site architects, and editorial leads on a reorganization plan&lt;/li&gt;
+  &lt;li&gt;Rewrote microcopy, including menu labels, page titles, section names, and subnavs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When all of this was ready, a developer and I worked in the site’s CMS and &lt;a href=&quot;https://github.com/COVID19Tracking/website&quot;&gt;code repo&lt;/a&gt; to rewire everything. We seamlessly launched the newly organized site in between daily data updates. The transition went so smoothly that many people on the project were unaware of the change until the reorg got a shoutout during an all-hands meeting. 🙌&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</link>
