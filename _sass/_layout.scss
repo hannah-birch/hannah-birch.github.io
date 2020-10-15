@@ -238,19 +238,13 @@ div.highlights {
 }
 
 .post-title {
-    font-size: 1em;
-    letter-spacing: -1px;
+    font-size: 1.5em;
     line-height: 1;
-    text-transform: uppercase;
     margin-bottom: $spacing-unit;
     line-height: 0.75;
     &:after {
       @include accent-underline;
   }
-
-    @include breakpoint(600) {
-        font-size: 1.125em;
-    }
 }
 
 .content-block {
