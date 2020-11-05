@@ -147,7 +147,7 @@ div.highlights { margin: 1em 0; }
 @media screen and (min-width: 37.5em) { .container { grid-template-columns: 30% 30% 30%; } }
 
 .container div.text { background: #48428a; color: #fff; padding: 0.75em; }
-.container div.text a:hover, .container div.text a:active, .container div.text a:visited { color: #fff; }
+.container div.text a, .container div.text a:hover, .container div.text a:active, .container div.text a:visited { color: #fff; }
 
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
