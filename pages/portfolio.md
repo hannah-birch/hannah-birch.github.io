@@ -11,6 +11,8 @@ permalink: /portfolio/
   <p><strong>Homepage curation and breaking-news production:</strong> I <a href="/2014-03-22/oso-mudslide.html">contributed to the work of The Seattle Times’ digital team</a> during a deadly mudslide, a local TV station’s helicopter crash, elections, the Boston Marathon bombing, big business news from Boeing and Microsoft, and more. <a href="/homepage-breaking-news/">Here’s a detailed rundown</a>.</p>
 
   <p><strong>Style guides:</strong> I’ve written general and topic-specific style guides for the MTA, ProPublica, and The Seattle Times. These resources include house style rules and guidance for how to talk about homelessness, COVID-19, elections, and immigration issues. <a href="/style-guides/">See the full list.</a></p>
+
+  <p><strong>Illustration commissions:</strong> I love the abstract thinking and collaboration that goes into art directing editorial illustrations. I worked with established and up-and-coming artists during my time at ProPublica, deliberately adding to the organization’s roster of BIPOC illustrators. <a href="/illustration-commissions">See the commissions.</a></p>
 </div>
 
 <h2>Projects</h2>
