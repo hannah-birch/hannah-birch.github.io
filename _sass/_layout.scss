@@ -286,7 +286,7 @@ div.highlights {
   column-gap: 10px;
   row-gap: 10px;
   justify-content: space-around;
-  margin: 2em 0;
+  margin: 4em 0;
 
   @include breakpoint(600) {
       grid-template-columns: 30% 30% 30%;
