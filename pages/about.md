@@ -6,9 +6,9 @@ permalink: /about/
 
 ## About me
 
-I’m a content strategist and editor, with rigorous training in journalism and web production. I believe the government should work better for people. Right now I’m the content strategist on a new Digital Services team at the [MTA](https://new.mta.info/) here in New York.
+I’m a content strategist and editor, with rigorous training in journalism and web production. I believe the government should work better for people. Right now I’m originating a content strategy role with [Two Twelve](http://www.twotwelve.com/), a public information design group in NYC. Previously, I was the content strategist on a new Digital Services team at the [MTA](https://new.mta.info/) here in New York.
 
-Previously, I worked at [ProPublica](https://www.propublica.org), a nonprofit newsroom in New York City that investigates abuses of power. Most recently I was production editor. I managed a team of story producers, oversaw publishing and operations, assembled cross-team groups around big projects, and art-directed major stories. I also worked with ProPublica’s platform team to develop and test new features for the CMS and ProPublica.org.
+I worked at [ProPublica](https://www.propublica.org), a nonprofit newsroom in New York City that investigates abuses of power. Most recently I was production editor. I managed a team of story producers, oversaw publishing and operations, assembled cross-team groups around big projects, and art-directed major stories. I also worked with ProPublica’s platform team to develop and test new features for the CMS and ProPublica.org.
 
 Before ProPublica, I was an associate news producer at The Seattle Times, where I was part of a team that [won a Pulitzer Prize for breaking news](https://www.pulitzer.org/winners/seattle-times-staff) in 2015.
 

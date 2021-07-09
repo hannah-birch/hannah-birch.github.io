@@ -12,22 +12,27 @@ permalink: /resume/
 
 I contributed to the coverage that won The Seattle Times staff the Pulitzer Prize for breaking news reporting in 2015. For more on what that experience was like, read [my Q&A](http://lasvegassun.com/news/2015/may/14/unlv-grad-talks-winning-pulitzer-what-journalists-/) with the Las Vegas Sun and [UNLV News](https://www.unlv.edu/news/article/journalism-graduate-part-pulitzer-prize-winning-team).
 
+## Content Strategist and Storyteller – Two Twelve
+_March 2021 - present_
+
+I’m originating a content role with [Two Twelve](http://www.twotwelve.com/), a group that specializes in wayfinding and public information design. I'm running the project to overhaul the website, and I’m digging into what user experience design looks like in physical spaces.
+
 ## Content Strategist/Site Editor – Metropolitan Transportation Authority
-_December 2019 - present_
+_December 2019 - March 2021_
 
-I’m on the digital services team at the MTA, where we work to make [new.mta.info](https://new.mta.info/) and the MYmta apps more rider-centric. We’re the first in-house team to manage distinct digital products, following a long-established workflow of depending on contractors for this work.
+I was on the digital services team at the MTA, where we worked to make [new.mta.info](https://new.mta.info/) and the MYmta apps more rider-centric. We were the first in-house team to manage distinct digital products, following a long-established workflow of depending on contractors for this work.
 
-I write, edit, and oversee the creation of content on the MTA site, with a focus on helping our readers get the information they’re looking for. I work with developers on new features for the site and CMS, and I strategize around content and design with our UX designer and product manager. I also meet with stakeholders across the 74,000-person organization to gather requirements, manage expectations, and deliver exceptional products.
+I wrote, edited, and oversaw the creation of content on the MTA site, with a focus on helping our readers get the information they’re looking for. I worked with developers on new features for the site and CMS, and I strategized around content and design with our UX designer and product manager. I also met with stakeholders across the 74,000-person organization to gather requirements, manage expectations, and deliver exceptional products.
 
 ## Content Lead – The COVID Tracking Project
-_May 2020 - present_
+_May 2020 - May 2021_
 
-I work with the editorial and development teams to write UX copy that is clear, precise, accurate, and consistent. I advise on [sitewide content strategy](https://covidtracking.com/) and the development of new CMS features. I also occasionally edit stories and blog posts.
+I worked with the editorial and development teams to write UX copy that is clear, precise, accurate, and consistent. I advised on [sitewide content strategy](https://covidtracking.com/) and the development of new CMS features. I also occasionally edited stories and blog posts.
 
 ## Committee Head for the DEI Coalition for Anti-Racist, Just, and Equitable Newsrooms – OpenNews
-_October 2020 - present_
+_October 2020 - February 2021_
 
-I lead a group of 20 people to define and launch dedicated Slack workspaces as part of the [coalition’s mission](https://opennews.org/blog/dei-coalition-announcement/). This includes designing and running meetings, coordinating asynchronous work, collaborating with three other committee heads, and helping build the vision of the coalition.
+I led a group of 20 people to define and launch dedicated Slack workspaces as part of the [coalition’s mission](https://opennews.org/blog/dei-coalition-announcement/). This included designing and running meetings, coordinating asynchronous work, collaborating with three other committee heads, and helping build the vision of the coalition.
 
 ## Production Editor — ProPublica
 
