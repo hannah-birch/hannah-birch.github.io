@@ -9,3 +9,5 @@ gem 'kramdown-math-sskatex'
 gem 'kramdown-math-katex'
 gem 'kramdown-math-ritex'
 gem 'kramdown-math-itex2mml'
+
+gem "webrick", "~> 1.7"
