@@ -20,6 +20,7 @@ I’m originating a content role with [Two Twelve](http://www.twotwelve.com/), a
 - Redefining the nomenclature and content approach for the 40-year-old company, with a focus on acquiring new talent and growing our client base.
 - Collaborating with designers, our marketing lead, and the firm CEO to overhaul the website and position Two Twelve as a future-focused company.
 - Translate architecture and UX jargon into language that makes sense to and resonates with our clients.
+- Working on client projects with the Obama Foundation, Mass General Hospital, and others.
 
 ## Content Strategist/Site Editor – Metropolitan Transportation Authority
 _December 2019 - March 2021_
