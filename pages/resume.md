@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-**[Download a PDF version.](/assets/img/hannah-birch-resume-202010.pdf)**
+**[Download a PDF version.](/assets/img/hannah-birch-resume-202107.pdf)**
 
 ## Experience and Awards
 
@@ -15,41 +15,72 @@ I contributed to the coverage that won The Seattle Times staff the Pulitzer Priz
 ## Content Strategist and Storyteller – Two Twelve
 _March 2021 - present_
 
-I’m originating a content role with [Two Twelve](http://www.twotwelve.com/), a group that specializes in wayfinding and public information design. I'm running the project to overhaul the website, and I’m digging into what user experience design looks like in physical spaces.
+I’m originating a content role with [Two Twelve](http://www.twotwelve.com/), a group that specializes in wayfinding and public information design. That includes:
+
+- Redefining the nomenclature and content approach for the 40-year-old company, with a focus on acquiring new talent and growing our client base.
+- Collaborating with designers, our marketing lead, and the firm CEO to overhaul the website and position Two Twelve as a future-focused company.
+- Translate architecture and UX jargon into language that makes sense to and resonates with our clients.
 
 ## Content Strategist/Site Editor – Metropolitan Transportation Authority
 _December 2019 - March 2021_
 
 I was on the digital services team at the MTA, where we worked to make [new.mta.info](https://new.mta.info/) and the MYmta apps more rider-centric. We were the first in-house team to manage distinct digital products, following a long-established workflow of depending on contractors for this work.
 
-I wrote, edited, and oversaw the creation of content on the MTA site, with a focus on helping our readers get the information they’re looking for. I worked with developers on new features for the site and CMS, and I strategized around content and design with our UX designer and product manager. I also met with stakeholders across the 74,000-person organization to gather requirements, manage expectations, and deliver exceptional products.
+At the MTA, I:
+- Worked across the 74,000-person organization to create content that was rider-centered while still being highly accurate, complete, and within legal and compliance standards.
+- Wrote and enforced the MTA’s first digital style guide.
+- Won over MTA lifers who were very skeptical of change.
+- Regularly advised VP-level executives on strategy.
 
 ## Content Lead – The COVID Tracking Project
 _May 2020 - May 2021_
 
-I worked with the editorial and development teams to write UX copy that is clear, precise, accurate, and consistent. I advised on [sitewide content strategy](https://covidtracking.com/) and the development of new CMS features. I also occasionally edited stories and blog posts.
+During my time at [The COVID Tracking Project](https://covidtracking.com/), I:
+
+- Was the organizational linchpin for the design, engineering, research, UX, data, and PR teams.
+- Wrote UX copy that was clear, precise, accurate, and consistent.
+- Expanded the house style guide and governance process for copy.
+- Optimized editing workflows without sacrificing quality.
+- Implemented a modular approach to content in the CMS to make publishing faster.
+- Strategically audited and reorganized the structure of the website as it doubled and then tripled in size.
+
 
 ## Committee Head for the DEI Coalition for Anti-Racist, Just, and Equitable Newsrooms – OpenNews
 _October 2020 - February 2021_
 
-I led a group of 20 people to define and launch dedicated Slack workspaces as part of the [coalition’s mission](https://opennews.org/blog/dei-coalition-announcement/). This included designing and running meetings, coordinating asynchronous work, collaborating with three other committee heads, and helping build the vision of the coalition.
+I led a group of 20 people to define and launch dedicated Slack workspaces as part of the [coalition’s mission](https://opennews.org/blog/dei-coalition-announcement/). This included:
+
+- Using emotional intelligence to discuss topics including racism, sexism, and privilege.
+- Designing and running meetings and workshops.
+- Coordinating asynchronous work.
+- Collaborating with three other committee heads.
+- Helping build the vision of the coalition.
 
 ## Production Editor — ProPublica
 
 _January 2018 – December 2019_
 
-I managed ProPublica’s story production team and oversaw daily story and newsletter production. I ran the organization’s editorial calendar, with our managing editor and standards editor, and continually evaluated tools and processes to ensure smooth publishing workflow.
+I managed ProPublica’s high-performing story production team, a great joy in my career so far. In that role, I also:  
 
-I assembled cross-team, collaborative groups to execute large editorial projects. And I worked with ProPublica’s platform team to develop and test new features for the site and CMS.
+- Managed complex editorial projects that involved every team in the newsroom.
+- Oversaw daily story and newsletter production.
+- Ran the organization’s editorial calendar and editorial meeting.
+continually evaluated tools and processes to ensure smooth publishing workflow.
+- Assembled cross-team, collaborative groups to execute large editorial projects.
+- Worked with ProPublica’s platform team to develop and test new features for the site and CMS.
+- Was often described as unflappable, even under non-negotiable deadlines.
+- Was the final quality check on ambitious investigations where mistakes were unacceptable.
 
-I also hired and art-directed freelance photographers and illustrators, and I coached story producers on the same.
 
 
 ## Lead Producer — ProPublica
 
 _March 2017 – January 2018_
 
-I supervised ProPublica’s growing team of web producers, ensuring that daily publishing ran smoothly. I helped plan and execute special projects, coached producers on hiring freelance photographers and editors and continued to oversee documentation efforts.
+I supervised ProPublica’s growing team of web producers, ensuring that daily publishing ran smoothly. I also:
+- Helped plan and execute special projects
+- Coached producers on hiring freelance photographers and editors
+- Continued to oversee documentation efforts.
 
 ## Web Producer — ProPublica
 
