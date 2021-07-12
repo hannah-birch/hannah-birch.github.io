@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-**[Download a PDF version.](/assets/img/hannah-birch-resume-202107-v2.pdf)**
+**[Download a PDF version.](/assets/img/hannah-birch-resume-202107-v2.1.pdf)**
 
 ## Experience and Awards
 
