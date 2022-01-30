@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-**[Download a PDF version.](/assets/img/hannah-birch-resume-202107-v2.pdf)**
+**[Download a PDF version.](/assets/img/hannah-birch-resume-2022-01.pdf)**
 
 ## Experience and Awards
 
@@ -12,10 +12,15 @@ permalink: /resume/
 
 I contributed to the coverage that won The Seattle Times staff the Pulitzer Prize for breaking news reporting in 2015. For more on what that experience was like, read [my Q&A](http://lasvegassun.com/news/2015/may/14/unlv-grad-talks-winning-pulitzer-what-journalists-/) with the Las Vegas Sun and [UNLV News](https://www.unlv.edu/news/article/journalism-graduate-part-pulitzer-prize-winning-team).
 
-## Content Strategist and Storyteller – Two Twelve
-_March 2021 - present_
+## Content Designer – Uber Technologies
+_September 2021 - present_
 
-I’m originating a content role with [Two Twelve](http://www.twotwelve.com/), a group that specializes in wayfinding and public information design. That includes:
+I lead content strategy and UX writing on the Uber Eats team, advocating for end users of our platform. I collaborate with design, product, and user research teams, helping build the best user experience for delivery and mobility.
+
+## Content Strategist and Storyteller – Two Twelve
+_March 2021 - August 2021_
+
+I originated a content role with [Two Twelve](http://www.twotwelve.com/), a group that specializes in wayfinding and public information design. That included:
 
 - Redefining the nomenclature and content approach for the 40-year-old company, with a focus on acquiring new talent and growing our client base.
 - Collaborating with designers, our marketing lead, and the firm CEO to overhaul the website and position Two Twelve as a future-focused company.
