@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-**[Download a PDF version.](/assets/img/hannah-birch-resume-2022-01.pdf)**
+**[Download a PDF version.](/assets/img/hannah-birch-resume-202501.pdf)**
 
 ## Experience and Awards
 
@@ -15,7 +15,7 @@ I contributed to the coverage that won The Seattle Times staff the Pulitzer Priz
 ## Content Designer – Uber Technologies
 _September 2021 - present_
 
-I lead content strategy and UX writing on the Uber Eats team, advocating for end users of our platform. I collaborate with design, product, and user research teams, helping build the best user experience for delivery and mobility.
+I lead content strategy and UX writing on the Uber Eats team, advocating for end users of our platform. I collaborated with design, product, and user research teams, helping build the best user experience for delivery and mobility.
 
 ## Content Strategist and Storyteller – Two Twelve
 _March 2021 - August 2021_
