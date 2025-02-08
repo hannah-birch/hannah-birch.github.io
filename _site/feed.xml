@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannah Birch</title>
+    <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 08 Feb 2025 14:54:58 -0500</pubDate>
+    <lastBuildDate>Sat, 08 Feb 2025 14:54:58 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Overhauling the fares section for the MTA site</title>
+        <description>&lt;h1 id=&quot;overhauling-the-fares-section-for-the-mta-site&quot;&gt;Overhauling the fares section for the MTA site&lt;/h1&gt;
+
+&lt;p&gt;One of the most highly trafficked parts of the MTA website is the fares and tolls section. In order to make the pages easier for riders to find and use, I developed a phased reorganization to address these problems:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;There were 31 pages devoted to fares and 11 for tolls. I was skeptical that we needed 42 pages to explain our policies.&lt;/li&gt;
+  &lt;li&gt;Riders had to click through many pages to find basic information. The relationship between pages was very unclear.&lt;/li&gt;
+  &lt;li&gt;There was a lot of duplicate information across pages. Not only was this confusing for riders, it was very difficult for us to keep updated. If our fares changed, for example, we’d have to track down every instance where we referenced the specific fare. I wanted this information to live in one canonical place.&lt;/li&gt;
+  &lt;li&gt;A lot of the content came from print contexts first. It was technically correct and written at a good grade level, but it felt awkward on the site.&lt;/li&gt;
+  &lt;li&gt;Some content was missing entirely.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;phase-one-of-the-reorg&quot;&gt;Phase one of the reorg&lt;/h3&gt;
+
+&lt;p&gt;I started with a structural audit of all of the content in the section. There were also pages on the old MTA site that had never been migrated over. Most of those were out of date, but some needed to be reflected on the new site in some way.&lt;/p&gt;
+
+&lt;p&gt;Huge hat-tip to Lisa Maria Martin for her &lt;a href=&quot;https://alistapart.com/article/everyday-information-architecture-excerpt/&quot;&gt;structural audit spreadsheet template&lt;/a&gt;. I used this to document every page I found and its hierarchy in the section.&lt;/p&gt;
+
+&lt;p&gt;That looked like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200904-mta-fares-audit-spreadsheet-2.png&quot; alt=&quot;A screenshot of a spreadsheet with many rows in different colors.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Things I noticed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The overall structure of subway/bus fares, railroad fares, and tolls made sense. Beyond those landing pages, the subpages were unorganized and duplicative. Additionally, Long Island Rail Road and Metro-North Railroad information was separate, despite being functionally very similar for riders.&lt;/li&gt;
+  &lt;li&gt;There were several important pages that were only accessible via inline links on other pages.&lt;/li&gt;
+  &lt;li&gt;A few pages were mislabelled.&lt;/li&gt;
+  &lt;li&gt;A few pages were missing entirely.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;What I did:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I decided right away to separate fares and tolls and to tackle fares first. (Most of our readers are looking for fare details, and I have a separate overhaul of the tolls section happening with a different team.)&lt;/li&gt;
+  &lt;li&gt;I knew restructuring the section would require changes to many URLs, so I set up a column to track what the old and new ones were/would be. As I did this, I laid out the new hierarchy in my spreadsheet.&lt;/li&gt;
+  &lt;li&gt;I worked through the spreadsheet to write, rewrite, and migrate content as needed.&lt;/li&gt;
+  &lt;li&gt;When I was satisfied with the content and knew which pages I was going to keep, I deleted what we didn’t need. I updated URLs starting with the most distal subpages.&lt;/li&gt;
+  &lt;li&gt;I wrote and art-directed a &lt;a href=&quot;https://new.mta.info/fares&quot;&gt;new guide to MTA fares&lt;/a&gt;. Just before that published, I updated the remaining subpage URLs to reflect the new section structure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-new-structure&quot;&gt;The new structure&lt;/h3&gt;
+
+&lt;p&gt;Here’s where we landed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200904-mta-fares-audit-spreadsheet-3.png&quot; alt=&quot;A screenshot of the same spreadsheet as before, but it’s much shorter and has fewer colors. It’s much more orderly to look at.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Key changes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Categories within the section match what riders expect: subway and bus fares, railroad fares, and bridge and tunnel tolls. The main landing pages contain the bulk of the information, only linking out to topic- or product-specific subpages when necessary. There are now only 15 subpages in our fares section.&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://new.mta.info/fares&quot;&gt;new landing page&lt;/a&gt; emphasizes MetroCards and OMNY, since most site visitors are looking for subway and bus information. We link to pages for &lt;a href=&quot;https://new.mta.info/fares/lirr-metro-north&quot;&gt;railroad fares&lt;/a&gt; and &lt;a href=&quot;https://new.mta.info/bridges-and-tunnels&quot;&gt;toll information&lt;/a&gt; prominently, so that’s also easy to find.&lt;/li&gt;
+  &lt;li&gt;I also wrote a &lt;a href=&quot;https://new.mta.info/fares/how-to-save-money&quot;&gt;page specifically about saving money on fares&lt;/a&gt;. This includes details about city and employer programs, as well as MTA programs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200904-mta-fares-audit-guide-page-1.png&quot; alt=&quot;A screenshot of a webpage called “Everything you need to know about transit fares in New York.” There are sections at the top with bold subheads and bulleted lists. These show general fare and toll information, organized by mode of transit: subways and buses, railroads, and bridges and tunnels.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A content component we call an accordion was key to centralizing information about different kinds of fares. Most of these ticket types were on separate subpages before. Now, riders can see all of their options at once.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200904-mta-fares-audit-guide-accordion.png&quot; alt=&quot;A screenshot of a webpage with a subhead reading “Railroad ticket types.” Underneath the subhead is a series of labels that expand and collapse when selected. One of the sections is expanded to show additional information about a ticket type. The rest are collapsed and only show the ticket type labels.&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-next&quot;&gt;What’s next&lt;/h3&gt;
+
+&lt;p&gt;You guessed it: Tolls! A lot of this is underway already as part of a different project. When that content is ready, I’ll re-evaluate where all of this lives on the site.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Sep 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2020-09-04/overhauling-the-fares-section-for-the-mta.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-09-04/overhauling-the-fares-section-for-the-mta.html</guid>
+        
+        
+        <category>Content strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>How to bring your bike with you on NYC public transit</title>
+        <description>&lt;h1 id=&quot;how-to-bring-your-bike-with-you-on-nyc-public-transit&quot;&gt;How to bring your bike with you on NYC public transit&lt;/h1&gt;
+
+&lt;p&gt;The most common question we get about bikes in New York City is if you can take them on the subway. (Yes, you can, but please avoid rush hour.) As the pandemic stretched on in New York and people lined up to buy bicycles, I redesigned and rewrote &lt;a href=&quot;https://new.mta.info/guides/bikes&quot;&gt;the bike page on the MTA site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I started by migrating all of the content from the old page onto our new site. I researched rules and guidelines and interviewed co-workers, then rewrote the page. I also included information about non-MTA cycling resources, like the city Department of Transportation’s maps and the Citi Bike bike-share program.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200805-mta-bike-page-before-after-composite.png&quot; alt=&quot;Two screenshots side-by-side, showing a web page with large photos and organized text, compared to an outdated-looking page that’s mostly text.&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The new MTA bike page, left, compared to the old one.&lt;/figcaption&gt;
+
+&lt;p&gt;I knew I wanted photos that illustrated specific guidelines, like where to stand with your bike on a train and how to get through turnstiles. I worked with MTA photographer Marc Hermann and volunteers from the MTA’s bike-to-work group to art-direct and edit the photos we published on the page.&lt;/p&gt;
+
+&lt;p&gt;The new bike page got great feedback from cycling and transportation advocates in the city. &lt;a href=&quot;https://twitter.com/jvhawkins/status/1291065197856202753&quot;&gt;This tweet in particular&lt;/a&gt; utterly made my day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200805-mta-bike-page-tweet.png&quot; alt=&quot;A screenshot of a tweet reading, ‘This is going to sound kind of dumb, but publishing a page that actually promotes bicycling, includes info on non-MTA modes (ferry, CitiBike), and organizes information so clearly and comprehensively would not have happened a decade ago. MTA comms doing great work.’&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2020-08-05/how-to-bring-your-bike-on-public-transit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-08-05/how-to-bring-your-bike-on-public-transit.html</guid>
+        
+        
+        <category>Content strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Content strategy and editing for The COVID Tracking Project</title>
+        <description>&lt;h1 id=&quot;content-strategy-and-editing-for-the-covid-tracking-project&quot;&gt;Content strategy and editing for The COVID Tracking Project&lt;/h1&gt;
+
+&lt;p&gt;I had admired &lt;a href=&quot;https://covidtracking.com/&quot;&gt;The COVID Tracking Project&lt;/a&gt; from a distance since March and jumped in in June to help reorganize the site. What had started as a homegrown reporting project had turned into one of the most complete COVID datasets in the country. With the rapid growth came a necessarily ad hoc site structure that the content had outgrown.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200601-ctp-audit-composite.png&quot; alt=&quot;Two screenshots side-by-side, showing two spreadsheets with colored cells. The spreadsheet on the left is longer and the colors are out of order. The spreadsheet on the right is shorter and the colors are in order.&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;My structural audit of The COVID Tracking Project’s website, before and after I restructured it.&lt;/figcaption&gt;
+
+&lt;p&gt;To streamline the site’s information architecture, I:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Spoke with stakeholders throughout the organization to gather requirements and build buy-in&lt;/li&gt;
+  &lt;li&gt;Audited the existing content&lt;/li&gt;
+  &lt;li&gt;Interviewed project leads to better understand the particular audiences The COVID Tracking Project serves, including the government, health-care professionals and institutions, and the general public&lt;/li&gt;
+  &lt;li&gt;Collaborated with UX designers, developers, site architects, and editorial leads on a reorganization plan&lt;/li&gt;
+  &lt;li&gt;Rewrote microcopy, including menu labels, page titles, section names, and subnavs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When all of this was ready, a developer and I worked in the site’s CMS and &lt;a href=&quot;https://github.com/COVID19Tracking/website&quot;&gt;code repo&lt;/a&gt; to rewire everything. We seamlessly launched the newly organized site in between daily data updates. The transition went so smoothly that many people on the project were unaware of the change until the reorg got a shoutout during an all-hands meeting. 🙌&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-06-01/content-strategy-volunteering-for-the-covid-tracking-project.html</guid>
+        
+        
+        <category>Content strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Writing UX copy for the Essential Connector app</title>
+        <description>&lt;h1 id=&quot;writing-ux-copy-for-the-essential-connector-app&quot;&gt;Writing UX copy for the Essential Connector app&lt;/h1&gt;
+
+&lt;p&gt;When I took a job at the MTA, I did not anticipate working on an app to help people book rides in cars. But in April, when Gov. Andrew Cuomo announced that the subway would be closed each night for cleaning during COVID-19, that became my team’s top priority.&lt;/p&gt;
+
+&lt;p&gt;This was the first time in the history of the subway that it wouldn’t be running 24 hours a day. Essential workers still needed to commute, and our enhanced overnight bus service wasn’t enough to bridge the gap for everyone.&lt;/p&gt;
+
+&lt;p&gt;With help from the good people at Axon Vibe and Postlight, we built an app that connected workers with for-hire vehicle services. We launched the Essential Connector app early on May 6, the first day of the subway shutdown. By the end of the app’s run, thousands of essential workers had used the service to commute to and from work.&lt;/p&gt;
+
+&lt;h3 id=&quot;prioritizing-transparency-with-riders&quot;&gt;Prioritizing transparency with riders&lt;/h3&gt;
+
+&lt;p&gt;For the service to work, we needed pretty personal information from riders who used it:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Where do you live?&lt;/li&gt;
+  &lt;li&gt;Where do you work?&lt;/li&gt;
+  &lt;li&gt;When do you commute?&lt;/li&gt;
+  &lt;li&gt;Who is your employer? How can we reach them if we need to?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My primary concern when I was writing copy for the app was telling riders why we needed this information and how we would use it. When I wrote copy for different screens, I would ask developers for specifics about how we would use input from each field. I included this in on-screen copy for riders.&lt;/p&gt;
+
+&lt;p&gt;Some examples:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“We need a cellphone number/email address to send you information and updates about your trip.”&lt;/li&gt;
+  &lt;li&gt;When asking for a home address: “This will help us plan better alternative service.”&lt;/li&gt;
+  &lt;li&gt;When asking for work details: “We might use this information to verify your essential worker status.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200504-essential-connector-sign-up-screens.png&quot; alt=&quot;Two screenshots side by side, showing a sign-up form for the Essential Connector app. Text underneath many fields explains how the information will be used.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also helped write the script for our call center, which helped book rides in vehicles. We were deliberate about when we required riders to verify their identity, to protect the privacy of people who used the service.&lt;/p&gt;
+
+&lt;h3 id=&quot;writing-about-the-essential-connector-on-the-website&quot;&gt;Writing about the Essential Connector on the website&lt;/h3&gt;
+
+&lt;p&gt;When the subway shutdown began, we published a &lt;a href=&quot;https://new.mta.info/coronavirus/overnight&quot;&gt;page on the site&lt;/a&gt; with details about overnight travel options.&lt;/p&gt;
+
+&lt;p&gt;The Essential Connector was a key part of this, but we wanted people to use bus service if possible. The webpage emphasized our enhanced bus routes first, then explained eligibility requirements for the Essential Connector. We encouraged riders to book their trips in advance, and, if trips weren’t eligible for a for-hire vehicle ride, we helped riders plan a trip on the bus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20200504-essential-connector-overnight-page-cropped.png&quot; alt=&quot;A cropped screenshot details enhanced overnight bus service. A section underneath talks about the Essential Connector, including how to plan a trip on the bus if a ride isn’t eligible for the Essential Connector.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In late August, the Essential Connector service ended. We updated copy on the site to point riders to our enhanced bus service, and we put a message on the Essential Connector sign-up page:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Effective August 31, the Essential Connector service has been discontinued.&lt;/p&gt;
+
+  &lt;p&gt;Given our significant financial challenges and the lack of additional relief from Congress thus far, unfortunately we are no longer able to operate the for-hire vehicle service. We have recently added three new interborough bus routes that are designed to serve as many Essential Connector customers as possible.&lt;/p&gt;
+
+  &lt;p&gt;You can see all of your options for overnight travel and use our trip planner or the MYmta app to plan your journey.&lt;/p&gt;
+
+  &lt;p&gt;As always, thanks for riding with us.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 04 May 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2020-05-04/writing-ux-copy-for-the-essential-connector-app.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-05-04/writing-ux-copy-for-the-essential-connector-app.html</guid>
+        
+        
+        <category>Content strategy</category>
+        
+      </item>
+    
+      <item>
+        <title>Commissioned visuals for Dollars for Profs series</title>
+        <description>&lt;h1 id=&quot;commissioned-visuals-for-dollars-for-profs-series&quot;&gt;Commissioned visuals for Dollars for Profs series&lt;/h1&gt;
+
+&lt;p&gt;Working with illustrator &lt;a href=&quot;https://mariahergueta.com/&quot;&gt;María Hergueta&lt;/a&gt; on illustrating conflicts of interest in academia was a blast. The &lt;a href=&quot;https://www.propublica.org/series/dollars-for-profs&quot;&gt;series&lt;/a&gt; comprised four investigative stories written by ProPublica reporters Annie Waldman and David Armstrong, plus a &lt;a href=&quot;https://projects.propublica.org/dollars-for-profs&quot;&gt;database&lt;/a&gt; made by Sisi Wei, Annie Waldman, and David Armstrong.&lt;/p&gt;
+
+&lt;p&gt;The series was a good candidate for illustration, since many of the people we were writing about weren’t keen to be photographed. So instead, we got to play with visual metaphors for hiding money in classrooms and universities.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/img/20191206-dollars-for-profs-illo-composite.png&quot; alt=&quot;Three screenshots of web pages with illustrations. The first visual is of a woman with her arms crossed, with cash in one hand and a chemistry vial in the other. The second is of a man pulling a curtain closed behind the columns of a university building, with cash fluttering out from underneath the curtain. The third is a professor accessing a secret safe behind a blackboard, nervously looking over his shoulder.&quot; /&gt;
+  &lt;figcaption&gt;Illustrations by María Hergueta&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;María was game to make several illustrations for the series. She turned sketches around very quickly and her concepts were solid. We made a few edits — having a professor surreptitiously looking over his shoulder in the blackboard drawing, making the fluttering cash more apparent in the columns-and-curtain piece — and María finished them up. I appreciated how she coordinated color and texture across the set. It made the series feel visually cohesive.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/img/20191206-dollars-for-profs-illo-piggy-bank-desktop.png&quot; alt=&quot;A screenshot of a web page with an illustration. The illustration shows a man sitting at a desk, with a giant piggy bank hidden by a sheet behind him. The piggy bank’s outline is clearly visible, but the professor is acting like it isn’t there.&quot; /&gt;
+  &lt;figcaption&gt;Illustrations by María Hergueta&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;My favorite illustration was one with a poorly hidden piggy bank behind a professor at a desk. I immediately understood “hidden money” when I saw the piggy bank. The prototypical shape, down to the curly tail, felt playful while still keeping with the serious themes of the story.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Dec 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2019-12-06/dollars-for-profs-illustrations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-12-06/dollars-for-profs-illustrations.html</guid>
+        
+        
+        <category>Art direction</category>
+        
+      </item>
+    
+      <item>
+        <title>Photo commission for supported housing series</title>
+        <description>&lt;h1 id=&quot;living-apart-coming-undone&quot;&gt;Living Apart, Coming Undone&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20181206-supported-housing-lead.png&quot; alt=&quot;A screenshot of the opening art of a story, showing a man sitting surrounded by his belongings in his apartment in Flatbush, Brooklyn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ProPublica reporter Joaquin Sapien spent many months &lt;a href=&quot;https://features.propublica.org/supported-housing/new-york-mentally-ill-housing-group-homes/&quot;&gt;reporting on a program&lt;/a&gt; aimed at helping people with mental illness in New York live on their own. When he filled us in on the living situations of some of the people supervised by this program, we hired &lt;a href=&quot;https://www.instagram.com/george_etheredge/?hl=en&quot;&gt;George Etheredge&lt;/a&gt;, a freelance photographer, to document the visual side of the story.&lt;/p&gt;
+
+&lt;figure class=&quot;inset&quot;&gt;
+  &lt;img src=&quot;/assets/img/20181206-supported-housing-3-up.png&quot; /&gt;
+  &lt;figcaption&gt;Screenshot of some of George Etheredge’s photos in the layout.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In addition to keen reporting skills, we loved George’s ability to capture people’s unraveling lives in a way that still felt respectful and humane. I felt a sharp contrast in the photo edit: We had a photo set documenting shocking living situations (a liquifying cantaloupe, a shower left running for the “oxygen,”), but wanted to show them in a way that didn’t make the images feel gratuitous.&lt;/p&gt;
+
+&lt;p&gt;I was continually thinking about how to use the evidentiary photographs as a way of holding the system accountable, without compromising the dignity and humanity of the people we photographed. (George’s thoughtful portraits went a long way here.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://features.propublica.org/supported-housing/new-york-mentally-ill-housing-group-homes/&quot;&gt;Read the story.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We co-published the story with The New York Times and Frontline, and we’re working on a documentary with Frontline slated to debut in early 2019.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Dec 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018-12-06/photo-edit-for-supported-housing-story.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-12-06/photo-edit-for-supported-housing-story.html</guid>
+        
+        
+        <category>Art direction</category>
+        
+      </item>
+    
+      <item>
+        <title>Covering access to the vote with Electionland 2018</title>
+        <description>&lt;h1 id=&quot;electionland-covering-access-to-the-vote-in-real-time&quot;&gt;Electionland: Covering access to the vote in real time&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/20181106-electionland.jpg&quot; alt=&quot;The Electionland newsroom&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.propublica.org/electionland/&quot;&gt;Electionland&lt;/a&gt; is a collaborative ProPublica project that covers voting, nationally and in real time. We partnered with newsrooms across the country, built a database of reliable, vetted tips and identified election administration problems in enough time for them to be addressed on Election Day.&lt;/p&gt;
+
+&lt;figure class=&quot;inset&quot;&gt;
+  &lt;img src=&quot;/assets/img/20181106-electionland-team.jpg&quot; /&gt;
+  &lt;figcaption&gt;From left: David Sleight, Jillian Kumagai, me and Setareh Baig, in the Electionland newsroom on Nov. 6. (📸: Mike Tigas)&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I was the main production contact for Electionland 2018, working with the Electionland team, the design and production team and ProPublica editors to make sure training, preparation and day-of logistics went smoothly.&lt;/p&gt;
+
+&lt;p&gt;CUNY’s graduate school of journalism graciously let us use their newsroom on Election Day for this project. We tried to anticipate as many needs as we could, from thinking about training and publishing workflows to ethernet dongles and desks. I also hired a freelance photographer, &lt;a href=&quot;http://www.erinlefevre.com/#1&quot;&gt;Erin Lefevre&lt;/a&gt;, to document the project.&lt;/p&gt;
+
+&lt;p&gt;Election Day was one of our highest-volume publishing days of the year. We had four design and production team members onsite all day to produce stories, handle art research and help keep the site running well. I don’t often get to produce live, breaking news, so I loved the throwback to my daily-newsroom days. (And yes, there was pizza.)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018-11-06/electionland-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-11-06/electionland-2018.html</guid>
+        
+        
+        <category>Project management and production</category>
+        
+      </item>
+    
+      <item>
+        <title>Calling all platypuses</title>
+        <description>&lt;h1 id=&quot;calling-all-platypuses&quot;&gt;Calling all platypuses&lt;/h1&gt;
+
+&lt;p&gt;I wrote a post for Source to bring more attention to some community-building I’ve been doing with other people at the intersection of journalism and tech. &lt;a href=&quot;https://source.opennews.org/articles/calling-all-platypuses/&quot;&gt;Read the piece.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Aug 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018-08-02/calling-all-platypuses.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-08-02/calling-all-platypuses.html</guid>
+        
+        
+        <category>Writing</category>
+        
+      </item>
+    
+      <item>
+        <title>Illustration commissions for Heart Failure series</title>
+        <description>&lt;h1 id=&quot;illustration-commission-heart-failure-series&quot;&gt;Illustration commission: Heart Failure series&lt;/h1&gt;
+
+&lt;figure class=&quot;inset&quot;&gt;
+    &lt;img src=&quot;/assets/img/20180516-heart-failure.jpg&quot; alt=&quot;A screenshot of the opening art of a story, showing an illustration of a pair of hands stitching a heart with medical instruments nearby&quot; /&gt;
+&lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Charlie Ornstein at ProPublica and Mike Hixenbaugh at the Houston Chronicle spent 2018 reporting on the heart transplant program at St. Luke’s, a hospital in Houston with a renowned reputation, and why the program’s complications rates were so high.&lt;/p&gt;
+
+&lt;p&gt;We brought &lt;a href=&quot;http://pepmontserrat.com/&quot;&gt;Pep Montserrat&lt;/a&gt; onboard to illustrate the first few stories, augmenting the art the Houston Chronicle shot and shared with us. We wanted to allude to the systemwide problems in addition to showing people who had been affected by the problems. Illustration helped us do that. We loved Pep’s approach to the subject matter, his mix of literal and figurative heart shapes and the texture he added.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.propublica.org/series/heart-failure/&quot;&gt;See the series.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 May 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018-05-16/illustration-commission-for-heart-transplant-series.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-05-16/illustration-commission-for-heart-transplant-series.html</guid>
+        
+        
+        <category>Art direction</category>
+        
+      </item>
+    
+      <item>
+        <title>Social engineering in newsrooms with Hamilton and Burr</title>
+        <description>&lt;h1 id=&quot;social-engineering-in-newsrooms-with-hamilton-and-burr&quot;&gt;Social engineering in newsrooms with Hamilton and Burr&lt;/h1&gt;
+
+&lt;p&gt;Alexander Hamilton and Aaron Burr, two of the most successful guys operating during the dawn of American politics, faced a problem very similar to the ones we have in newsrooms today. They wanted to get things done at a breakneck pace, but the politics of dealing with other people slowed them down.&lt;/p&gt;
+
+&lt;p&gt;To talk about this, I put together a session at SRCCON in 2019 so conference attendees could explore these topics as a group.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://source.opennews.org/articles/hamilton-and-burr/&quot;&gt;Here’s the piece I wrote&lt;/a&gt; after the session. I recapped suggestions for how to approach challenges like being stuck between two managers, having someone quietly kill your idea, accidentally overstepping someone, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2019-09-05-hamilton-burr-post-its.jpg&quot; alt=&quot;A woman with curly blonde hair holds sticky notes for people gathered around, sorting the sticky notes into groups.&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A photo from the conference session at SRCCON. (Credit: Keila Vizcarra)&lt;/figcaption&gt;
+</description>
+        <pubDate>Tue, 05 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</guid>
+        
+        
+        <category>Writing</category>
+        
+      </item>
+    
+  </channel>
+</rss>
