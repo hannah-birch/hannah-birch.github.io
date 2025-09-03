@@ -5,9 +5,27 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Sep 2025 15:59:03 -0400</pubDate>
-    <lastBuildDate>Wed, 03 Sep 2025 15:59:03 -0400</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 18:58:30 -0400</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 18:58:30 -0400</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>What I’ve learned about design from four years at Uber</title>
+        <description>&lt;h1 id=&quot;what-ive-learned-about-design-from-four-years-at-uber&quot;&gt;What I’ve learned about design from four years at Uber&lt;/h1&gt;
+
+&lt;p&gt;When I joined Uber as a content designer in 2021, I hadn’t worked for a big for-profit company before, and I hadn’t worked in tech. I was coming from almost 10 years in journalism and public service, mostly at small nonprofits and government agencies.&lt;/p&gt;
+
+&lt;p&gt;Here’s what I learned about doing impactful design work at a tech company with tens of thousands of employees and millions of users worldwide.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Sep 2025 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2025-09-03/what-i-learned-about-design-from-four-years-at-uber.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-09-03/what-i-learned-about-design-from-four-years-at-uber.html</guid>
+        
+        
+        <category>Writing</category>
+        
+      </item>
     
       <item>
         <title>Overhauling the fares section for the MTA site</title>
@@ -325,28 +343,6 @@
         
         
         <category>Art direction</category>
-        
-      </item>
-    
-      <item>
-        <title>Social engineering in newsrooms with Hamilton and Burr</title>
-        <description>&lt;h1 id=&quot;social-engineering-in-newsrooms-with-hamilton-and-burr&quot;&gt;Social engineering in newsrooms with Hamilton and Burr&lt;/h1&gt;
-
-&lt;p&gt;Alexander Hamilton and Aaron Burr, two of the most successful guys operating during the dawn of American politics, faced a problem very similar to the ones we have in newsrooms today. They wanted to get things done at a breakneck pace, but the politics of dealing with other people slowed them down.&lt;/p&gt;
-
-&lt;p&gt;To talk about this, I put together a session at SRCCON in 2019 so conference attendees could explore these topics as a group.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://source.opennews.org/articles/hamilton-and-burr/&quot;&gt;Here’s the piece I wrote&lt;/a&gt; after the session. I recapped suggestions for how to approach challenges like being stuck between two managers, having someone quietly kill your idea, accidentally overstepping someone, and more.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/2019-09-05-hamilton-burr-post-its.jpg&quot; alt=&quot;A woman with curly blonde hair holds sticky notes for people gathered around, sorting the sticky notes into groups.&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;A photo from the conference session at SRCCON. (Credit: Keila Vizcarra)&lt;/figcaption&gt;
-</description>
-        <pubDate>Tue, 05 Sep 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017-09-05/social-engineering-in-newsrooms-with-hamilton-and-burr.html</guid>
-        
-        
-        <category>Writing</category>
         
       </item>
     
