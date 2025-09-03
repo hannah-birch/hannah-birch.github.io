@@ -24,6 +24,7 @@ GEM
     commonmarker (0.23.10)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
+    csv (3.3.5)
     dnsruby (1.70.0)
       simpleidn (~> 0.2.1)
     drb (2.2.0)
@@ -236,6 +237,7 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     mercenary (0.3.6)
     mini_portile2 (2.8.5)
     minima (2.5.1)
@@ -285,12 +287,13 @@ GEM
       unf_ext
     unf_ext (0.0.9.1)
     unicode-display_width (1.8.0)
-    webrick (1.8.1)
+    webrick (1.9.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  csv
   github-pages
   kramdown (>= 2.3.0)
   kramdown-math-itex2mml
@@ -300,7 +303,8 @@ DEPENDENCIES
   kramdown-math-sskatex
   kramdown-parser-gfm
   kramdown-syntax-coderay
+  logger
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.22
+   2.7.1
