@@ -23,7 +23,7 @@ Here’s what I’ve learned about doing impactful design work at a tech company
 
 Learn the tools. Use the vocab. Go to the meetings. Schedule your own meetings. Refuse to stay in a narrow lane if you can add value outside it.  
 
-More important than talking about how important content design is is \_showing\_ how important it is. Figure out how to visualize the problems that would ship without your input, and then show how you would fix them. This is the impact decision-makers care about.  
+More important than talking about how important content design is is _showing_ how important it is. Figure out how to visualize the problems that would ship without your input, and then show how you would fix them. This is the impact decision-makers care about.  
 
 **Conversely, challenge the division between product design and content design.** Refuse to cede the capital-D “Design” title to just product or visual designers. If I see a reference to “design” and “content design,” I politely ask if by “design” they mean “product design.” (I still think these distinctions in titles are meaningful—[others disagree](https://uxchrisnguyen.medium.com/goodbye-ux-shopify-just-killed-the-title-8970f36bec01)—and if we’re being specific about one, we should also be specific about the other.)
 
@@ -31,7 +31,7 @@ More important than talking about how important content design is is \_showing\_
 
 **Build your influence beyond content design.** Show your work. Talk about it with people outside your team. Get a 10-second summary down for how you’re helping drive a project forward. Don’t wave your hands and say “content stuff” like people won’t understand it, because then they never will. 
 
-Make it a goal for other designers to evangelize your work. Even better than \_you\_ saying how important content design is is other people saying it.
+Make it a goal for other designers to evangelize your work. Even better than _you_ saying how important content design is is other people saying it.
 
 Pay attention to other people’s work. Support them during crits and shareouts. Don’t limit your feedback to content—speaking about UX as a whole will help show your authority beyond just the words on a screen.
 
