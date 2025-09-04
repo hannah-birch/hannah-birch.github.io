@@ -5,22 +5,59 @@
     <description>My content strategy, editing, and production work for the MTA, ProPublica, The Seattle Times, and more.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Sep 2025 18:58:30 -0400</pubDate>
-    <lastBuildDate>Wed, 03 Sep 2025 18:58:30 -0400</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 09:04:03 -0400</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 09:04:03 -0400</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
-        <title>What I’ve learned about design from four years at Uber</title>
-        <description>&lt;h1 id=&quot;what-ive-learned-about-design-from-four-years-at-uber&quot;&gt;What I’ve learned about design from four years at Uber&lt;/h1&gt;
+        <title>What I’ve learned about design from 4 years at Uber</title>
+        <description>&lt;h1 id=&quot;what-ive-learned-about-design-from-4-years-at-uber&quot;&gt;What I’ve learned about design from 4 years at Uber&lt;/h1&gt;
 
 &lt;p&gt;When I joined Uber as a content designer in 2021, I hadn’t worked for a big for-profit company before, and I hadn’t worked in tech. I was coming from almost 10 years in journalism and public service, mostly at small nonprofits and government agencies.&lt;/p&gt;
 
-&lt;p&gt;Here’s what I learned about doing impactful design work at a tech company with tens of thousands of employees and millions of users worldwide.&lt;/p&gt;
+&lt;p&gt;Here’s what I’ve learned about doing impactful design work at a tech company with tens of thousands of employees and millions of users worldwide.&lt;/p&gt;
 
+&lt;h3 id=&quot;about-content-design-specifically&quot;&gt;About content design specifically&lt;/h3&gt;
+
+&lt;p&gt;​&lt;strong&gt;Polite silence can kill you.&lt;/strong&gt; It doesn’t mean people are aligned with your work, it means they don’t understand it. It will feel like a green light in the moment, but people will rapidly backpedal when you start talking about implementing it. If you experience polite silence during a review, follow up with stakeholders one-on-one or in smaller groups and find out what they’re really thinking.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Socializing the work &lt;em&gt;is&lt;/em&gt; the work.&lt;/strong&gt; If you’re not getting pushback from stakeholders, it’s because they don’t know about or don’t care about your work. If you are, congratulations! You’re doing something worth talking about. Keep it up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Act like a product designer.&lt;/strong&gt; (Or act like whatever kind of designer is taken most seriously in your org.)&lt;/p&gt;
+
+&lt;p&gt;Learn the tools. Use the vocab. Go to the meetings. Schedule your own meetings. Refuse to stay in a narrow lane if you can add value outside it.&lt;/p&gt;
+
+&lt;p&gt;More important than talking about how important content design is is _showing_ how important it is. Figure out how to visualize the problems that would ship without your input, and then show how you would fix them. This is the impact decision-makers care about.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conversely, challenge the division between product design and content design.&lt;/strong&gt; Refuse to cede the capital-D “Design” title to just product or visual designers. If I see a reference to “design” and “content design,” I politely ask if by “design” they mean “product design.” (I still think these distinctions in titles are meaningful—&lt;a href=&quot;https://uxchrisnguyen.medium.com/goodbye-ux-shopify-just-killed-the-title-8970f36bec01&quot;&gt;others disagree&lt;/a&gt;—and if we’re being specific about one, we should also be specific about the other.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learn skills beyond content design, then bring those back.&lt;/strong&gt; Being a good writer won’t make you unique. Having better-than-average skills in Figma, for example, and then using those to make your content design work shine, will. Learn how to make interactive prototypes. Learn how to run UXR studies. Learn to vibe-code or make flow charts or pull analytics reports, then apply those skills to your content design discipline. It will give you more tools to do your job well, and it’ll keep you from getting bored. Plus, figuring out how to apply a thing you just learned to a thing you already know is really valuable synthesis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Build your influence beyond content design.&lt;/strong&gt; Show your work. Talk about it with people outside your team. Get a 10-second summary down for how you’re helping drive a project forward. Don’t wave your hands and say “content stuff” like people won’t understand it, because then they never will.&lt;/p&gt;
+
+&lt;p&gt;Make it a goal for other designers to evangelize your work. Even better than _you_ saying how important content design is is other people saying it.&lt;/p&gt;
+
+&lt;p&gt;Pay attention to other people’s work. Support them during crits and shareouts. Don’t limit your feedback to content—speaking about UX as a whole will help show your authority beyond just the words on a screen.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-user-experience-design-generally&quot;&gt;About user experience design generally&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Good ideas come back around.&lt;/strong&gt; If it didn’t happen the first time, that doesn’t mean it wasn’t a good idea or that you did something wrong. Hang onto it. Try it again when the moment seems right.&lt;/p&gt;
+
+&lt;p&gt;Design decisions tend to be cyclical in general anyway. It might take you two years to move a cart button to a different part of the screen, and then you’ll turn around and spend another two years moving it back to where it was before. Don’t sweat it. You have bigger things to worry about.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you can, trust your leadership.&lt;/strong&gt; This is a privilege, for you and for them. If your values align, put your faith in your leaders. This can be especially helpful if you’re unsure of a strategic decision that’s above your pay grade. Tell yourself they have more information about this decision than you do, focus on the work within your purview, and then see where you are in a few months. Chances are good that things will make more sense in hindsight.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Take advantage of all the resources you have.&lt;/strong&gt; Book office hours with coworkers you admire. Ask questions during meetings. Go to the optional shareouts and webinars. Practice thinking about how what you learn can impact your work, even if it doesn’t seem related at first.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hone your taste and intuition.&lt;/strong&gt; Both of these are built on a mountain of experience, knowledge, and critical thinking. Put the effort in to ingest relevant info and then don’t be afraid to make gut calls.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Be a good colleague.&lt;/strong&gt; I almost didn’t write this, because it seems obvious, but it’s worth restating: How you do the work is more important than the literal work you do.&lt;/p&gt;
+
+&lt;p&gt;​Finally, and overarchingly: &lt;strong&gt;Focus on your growth.&lt;/strong&gt; It will improve not just your career but also the products you work on and the people you work with. And no one can do this for you.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 Sep 2025 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2025-09-03/what-i-learned-about-design-from-four-years-at-uber.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2025-09-03/what-i-learned-about-design-from-four-years-at-uber.html</guid>
+        <pubDate>Thu, 04 Sep 2025 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2025-09-04/what-i-learned-about-design-from-four-years-at-uber.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-09-04/what-i-learned-about-design-from-four-years-at-uber.html</guid>
         
         
         <category>Writing</category>
