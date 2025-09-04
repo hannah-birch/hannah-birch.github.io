@@ -54,8 +54,8 @@ pre { padding: 8px 12px; overflow-x: scroll; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 /** Wrapper */
-.wrapper { max-width: -webkit-calc(35em - (2em * 2)); max-width: calc(35em - (2em * 2)); margin-right: auto; margin-left: auto; padding-right: 1em; padding-left: 1em; }
-@media screen and (min-width: 37.5em) { .wrapper { max-width: -webkit-calc(35em - (2em)); max-width: calc(35em - (2em)); padding-right: 1em; padding-left: 1em; } }
+.wrapper { max-width: -webkit-calc(38em - (2em * 2)); max-width: calc(38em - (2em * 2)); margin-right: auto; margin-left: auto; padding-right: 1em; padding-left: 1em; }
+@media screen and (min-width: 37.5em) { .wrapper { max-width: -webkit-calc(38em - (2em)); max-width: calc(38em - (2em)); padding-right: 1em; padding-left: 1em; } }
 
 /** Clearfix */
 .wrapper:after, .footer-col-wrapper:after { content: ""; display: table; clear: both; }
