@@ -11,3 +11,6 @@ gem 'kramdown-math-ritex'
 gem 'kramdown-math-itex2mml'
 
 gem "webrick", "~> 1.7"
+
+gem 'csv'
+gem 'logger'
