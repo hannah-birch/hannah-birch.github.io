@@ -29,8 +29,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, blockquote, pre,
-ul, ol, dl, figure,
+h1, h2, blockquote, pre, figure,
 %vertical-rhythm {
     margin-top: 1.25em;
     margin-bottom: 0.5em;
@@ -43,6 +42,10 @@ h3, h4, h5, h6 {
 
 p {
     margin-bottom: 0.65em;
+}
+
+ul, ol, dl {
+    margin-bottom: 1em;
 }
 
 hr {
