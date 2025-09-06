@@ -29,11 +29,20 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+h1, h2, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
+}
+
+h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0em;
+}
+
+p {
+    margin-bottom: 0.65em;
 }
 
 hr {
@@ -41,7 +50,8 @@ hr {
   margin-left: 33%;
   color: $accent-color2;
   display: inline-block;
-  margin-bottom: 1em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 
@@ -111,11 +121,12 @@ h1 {
 }
 
 h2 {
-  font-size: 1.3em;
+  font-size: 1.2em;
   font-weight: 300;
 }
 
 h3 {
+  font-size: 1em;
   font-weight: 600;
 }
 

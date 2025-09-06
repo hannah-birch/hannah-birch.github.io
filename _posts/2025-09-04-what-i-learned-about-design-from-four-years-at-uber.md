@@ -13,7 +13,7 @@ When I joined Uber as a content designer in 2021, I hadn’t worked for a big fo
 
 Here’s what I’ve learned about doing impactful design work at a tech company with tens of thousands of employees and millions of users worldwide. 
 
-### About content design specifically
+## About content design specifically
 
 ​**Polite silence can kill you.** It doesn’t mean people are aligned with your work, it means they don’t understand it. It will feel like a green light in the moment, but people will rapidly backpedal when you start talking about implementing it. If you experience polite silence during a review, follow up with stakeholders one-on-one or in smaller groups and find out what they’re really thinking.
 
@@ -35,7 +35,7 @@ Make it a goal for other designers to evangelize your work. Even better than _yo
 
 Pay attention to other people’s work. Support them during crits and shareouts. Don’t limit your feedback to content—speaking about UX as a whole will help show your authority beyond just the words on a screen.
 
-### About user experience design generally
+## About user experience design generally
 
 **Good ideas come back around.** If it didn’t happen the first time, that doesn’t mean it wasn’t a good idea or that you did something wrong. Hang onto it. Try it again when the moment seems right.
 
