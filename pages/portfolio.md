@@ -20,52 +20,64 @@ permalink: /portfolio/
 <h3>Content strategy, information architecture, and UX writing</h3>
 
 <div class="content-block">
-  {% for post in site.categories['Content strategy'] %}
-      <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
-  {% endfor %}
+  <ul>
+    {% for post in site.categories['Content strategy'] %}
+        <li><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</li>
+    {% endfor %}
+  </ul>
 </div>
 
 
 <h3>Project management and production</h3>
 
 <div class="content-block">
-  {% for post in site.categories['Project management and production'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
-  {% endfor %}
+  <ul>
+    {% for post in site.categories['Project management and production'] %}
+        <li><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</li>
+    {% endfor %}
+  </ul>
 </div>
 
 
 <h3>Art direction</h3>
 
 <div class="content-block">
-  {% for post in site.categories['Art direction'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
-  {% endfor %}
+  <ul>
+    {% for post in site.categories['Art direction'] %}
+        <li><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</li>
+    {% endfor %}
+  </ul>
 </div>
 
 
 <h3>Page layout and digital design</h3>
 
 <div class="content-block">
-  {% for post in site.categories['Page layout and digital design'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
-  {% endfor %}
+  <ul>
+    {% for post in site.categories['Page layout and digital design'] %}
+        <li><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</li>
+    {% endfor %}
+  </ul>
 </div>
 
 
 <h3>Illustration</h3>
 
 <div class="content-block">
-  {% for post in site.categories['Illustration'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</p>
-  {% endfor %}
+  <ul>
+    {% for post in site.categories['Illustration'] %}
+        <li><a href="{{ post.url }}">{{ post.title }} </a> ({{ post.outlet }})</li>
+    {% endfor %}
+  </ul>
 </div>
 
 
 <h3>Interactive map</h3>
 
 <div class="content-block">
-  {% for post in site.categories['Interactive map'] %}
-    <p><a href="{{ post.url }}">{{ post.title }} </a>({{ post.outlet }})</p>
-  {% endfor %}
+  <ul>
+    {% for post in site.categories['Interactive map'] %}
+        <li><a href="{{ post.url }}">{{ post.title }} </a>({{ post.outlet }})</li>
+    {% endfor %}
+  </ul>
 </div>
