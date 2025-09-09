@@ -35,6 +35,14 @@ h1, h2, blockquote, pre, figure,
     margin-bottom: 0.5em;
 }
 
+ul, ol, dl {
+  margin-top: 20px;
+
+  ul, ol, dl {
+    margin-top: 0; // Resets the margin-top for all nested <ul> elements
+  }
+}
+
 h3, h4, h5, h6 {
     margin-top: 1.5em;
     margin-bottom: 0em;
@@ -55,6 +63,11 @@ hr {
   display: inline-block;
   margin-top: 1.5em;
   margin-bottom: 1.5em;
+}
+
+/* Adjusts vertical spacing for homepage intro */
+section.intro p:first-of-type {
+    padding-top: 1em;
 }
 
 
