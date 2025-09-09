@@ -4,8 +4,15 @@ date: 2025-09-04
 title: What I’ve learned about design from 4 years at Uber
 outlet: Self-published
 summary: "Here are my takeaways from doing impactful content and UX design work at a tech company with tens of thousands of employees and millions of users worldwide."
+image: https://hannahsbirch.com/assets/img/20250904-what-i-learned-at-uber-1200x630.png
+image-summary: "An illustration showing an abstract webpage or app with horizontal bars representing content, with icons representing editing and systems design nearby."
 category: Writing
 ---
+
+<figure>
+  <img src="/assets/img/20250904-what-i-learned-at-uber-1200x630.png"/>
+  <figcaption>Generated in Figma Make in about 15 minutes.</figcaption>
+</figure>
 
 # What I’ve learned about design from 4 years at Uber
 
