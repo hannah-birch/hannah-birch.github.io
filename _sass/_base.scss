@@ -62,7 +62,7 @@ hr {
 }
 
 /* Adjusts vertical spacing for homepage intro */
-section.intro p {
+section.intro p:first-of-type {
     padding-top: 1em;
 }
 
