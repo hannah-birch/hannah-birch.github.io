@@ -7,7 +7,7 @@ permalink: /speaking/
 ## Conference sessions and talks
 
 - **How to be compassionate toward yourself for at least an hour** (SRCCON 2020)
-  - [My research notes and resources](https://docs.google.com/document/d/1eeAbgF7DMGzYwQLJ-0NB8fFePB0GzudL1c8IG4MpI08/edit?usp=sharing)
+    - [My research notes and resources](https://docs.google.com/document/d/1eeAbgF7DMGzYwQLJ-0NB8fFePB0GzudL1c8IG4MpI08/edit?usp=sharing)
 - **Platypuses, Unicorns and Zebras: Build Careers that Bridge Editorial and Business** (ONA 2019, with Elizabeth Hansen, André Natta, Anna Nirmala, and Wendi Thomas)
   - [Audio from the session](https://soundcloud.com/onlinenewsassociation/platypuses-unicorns-and-zebras-build-careers-that-bridge-editorial-and-business?in=onlinenewsassociation/sets/ona19)
   - So many people signed up for this session they asked us to give it twice
